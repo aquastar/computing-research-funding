@@ -222,4 +222,4 @@ button on the right, or:
 
 > Zhiqian Chen. *Computing research funding*. https://github.com/aquastar/computing-research-funding, 2026.
 
-Data licensed [CC BY 4.0](LICENSE).
+Data licensed [CC BY 4.0](LICENSE): reuse it freely, crediting "Computing research funding, Zhiqian Chen, https://zhiqian.ai".
