@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+type: dataset
+title: "Computing research funding"
+abstract: "Open research funding calls in AI and computing, and a watchlist of funders, swept twice a week."
+authors:
+  - family-names: Chen
+    given-names: Zhiqian
+    website: "https://zhiqian.ai"
+repository-code: "https://github.com/aquastar/computing-research-funding"
+url: "https://zhiqian.ai"
+license: CC-BY-4.0
+date-released: "2026-10-24"
+keywords:
+  - research funding
+  - grants
+  - artificial intelligence
+  - computer science

@@ -1,0 +1,193 @@
+funder,category,link,link_verified,cycle,access
+Semiconductor Research Corporation (SRC) incl JUMP 2.0 and GRC,adjacent_domain,https://www.src.org/compete/,true,Annual call for research plus program specific calls,open
+NIST CHIPS R&D Funding Opportunities (NSTC successor to Natcast),adjacent_domain,https://www.nist.gov/chips/chips-rd-funding-opportunities,true,Rolling CRDO Broad Agency Announcement,open
+Cadence Academic Network,industry_longtail,https://www.cadence.com/en_US/home/company/cadence-academic-network.html,true,Ongoing,open
+Samsung Global Research Outreach (GRO),industry_longtail,https://semiconductor.samsung.com/sait/event/global-research-outreach,true,Annual. 2026 submissions closed Aug 23 2026 with results Nov 2026,open
+Cisco Research open RFPs,industry_longtail,https://research.cisco.com/open-rfps,true,Rolling RFPs,open
+EPRI (Electric Power Research Institute),adjacent_domain,https://www.epri.com/,false,Irregular university award calls,unknown
+NYSERDA current funding opportunities,new_york_regional,https://www.nyserda.ny.gov/funding-opportunities/current-funding-opportunities,true,Rolling PONs and RFPs,open
+NYSERDA Innovation R&D funding,new_york_regional,https://nyserda.ny.gov/All-Programs/Innovation-at-NYSERDA/Funding-Opportunities,false,Rolling,open
+Lloyd's Register Foundation calls for funding,adjacent_domain,https://www.lrfoundation.org.uk/calls-for-funding,true,Periodic open calls,open
+NIST Disaster Resilience Research Grants,adjacent_domain,https://www.nist.gov/el/disaster-resilience/disaster-resilience-federal-funding-opportunity-ffo,true,Irregular. Last NOFO 2022,open
+Natural Hazards Center award opportunities,adjacent_domain,https://hazards.colorado.edu/resources/award-opportunities,true,Several small award programs per year,open
+DOE funding opportunities (CESER and Office of Electricity),federal_niche,https://www.energy.gov/funding-opportunities,true,Rolling,open
+DOT University Transportation Centers competition,federal_niche,https://www.transportation.gov/utc/current-competition,true,Multi year recompetitions,limited_submission
+DOT IIJA UTC list (find consortia with internal seed calls),aggregator_early_signal,https://www.transportation.gov/utc/iija-centers-and-grantees,true,Static list,open
+Transportation Research Board IDEA programs,adjacent_domain,https://www.trb.org/IDEAProgram/IDEAProgram.aspx,true,Annual per program,open
+Water Research Foundation outbound grants,adjacent_domain,https://portal.waterrf.org/outbound-grants,true,Annual batches of RFPs,open
+Insurance Institute for Business and Home Safety (IBHS),adjacent_domain,https://ibhs.org/about-ibhs/ibhs-research-center/,false,No public call cycle,invitation
+Critical Infrastructure Resilience Institute (DHS COE at UIUC),federal_niche,https://ciri.illinois.edu/,true,Periodic calls announced by newsletter,open
+"ACL open opportunities (NIDILRR incl RERC, DRRP, FIP)",federal_niche,https://acl.gov/grants/open-opportunities,true,FIP typically Oct to Apr,open
+Grants.gov search for NIDILRR (CFDA 93.433),aggregator_early_signal,https://simpler.grants.gov/search?query=NIDILRR,true,Forecasts posted ahead of NOFOs,open
+Hearing Health Foundation Emerging Research Grants,adjacent_domain,https://hearinghealthfoundation.org/erg,true,Annual. Next RFP expected Oct 2026,open
+American Hearing Research Foundation,adjacent_domain,https://www.american-hearing.org/research-grants/grants-we-offer-2/,true,Annual. Deadline Aug 15,open
+William Demant Foundation (Oticon Foundation),adjacent_domain,https://www.williamdemantfonden.dk/how-to-apply,true,Rolling for research grants,non_US_only
+American Academy of Audiology Foundation,adjacent_domain,https://www.audiology.org/foundation/our-work/research-and-education/,false,Annual,open
+CDMRP Hearing Restoration Research Program,federal_niche,https://cdmrp.health.mil/funding/hrrp,true,Annual. FY26 closed,open
+CDMRP Peer Reviewed Medical Research Program,federal_niche,https://cdmrp.health.mil/funding/prmrp,true,Annual. FY26 closed,open
+Retirement Research Foundation,adjacent_domain,https://www.rrf.org/apply-for-a-grant/research-grants/,true,LOI deadlines. Next Nov 2 2026,open
+John A. Hartford Foundation,adjacent_domain,https://www.johnahartford.org/grants-strategy,true,2026 Call for Proposals posted,invitation
+American Federation for Aging Research (AFAR),adjacent_domain,https://www.afar.org/funding-opportunities,true,Annual,open
+Alzheimer's Drug Discovery Foundation,adjacent_domain,https://www.alzdiscovery.org/research-and-grants/funding-opportunities,true,Several RFPs per year,open
+BrightFocus Foundation Alzheimer's research,adjacent_domain,https://www.brightfocus.org/grants/,true,Annual,open
+Alzheimer's Association International Research Grant Program,adjacent_domain,https://www.alz.org/research/for_researchers/grants,true,Annual. FY2027 cycle open,open
+Cure Alzheimer's Fund,adjacent_domain,https://curealz.org/the-research/grant-process/,true,Rolling LOIs,invitation
+Dana Foundation,adjacent_domain,https://dana.org/grants/,true,Multiple calls per year,open
+Mellon Foundation grant programs,foundation_general,https://www.mellon.org/grant-programs,true,Strategy driven,invitation
+NEA Research Grants in the Arts and NEA Research Labs,federal_niche,https://www.arts.gov/grants/research-awards,true,Annual. Spring deadlines,open
+GRAMMY Museum Grants Program,adjacent_domain,https://grammymuseum.org/education/grants-program/,true,Annual. LOI late Sept,open
+NEH Office of Digital Humanities,federal_niche,https://www.neh.gov/divisions/odh,true,Annual,open
+Brain Research Foundation Seed Grants,foundation_general,https://www.thebrf.org/seed-grants/,true,Annual. LOI round opens Aug,limited_submission
+McKnight Endowment Fund for Neuroscience,foundation_general,https://www.mcknight.org/programs/the-mcknight-endowment-fund-for-neuroscience/,true,Annual,limited_submission
+Simons Foundation funding opportunities,foundation_general,https://www.simonsfoundation.org/funding-opportunities/,true,Several per year,open
+Arnold Ventures RFPs,foundation_general,https://www.arnoldventures.org/grants,true,Several RFPs per year,open
+Schmidt Sciences opportunities,ai_safety_philanthropy,https://www.schmidtsciences.org/opportunities,true,Several RFPs per year,open
+Coefficient Giving (formerly Open Philanthropy) Navigating Transformative AI,ai_safety_philanthropy,https://coefficientgiving.org/funds/navigating-transformative-ai/,true,Rolling Technical AI Safety RFP,open
+Survival and Flourishing Fund,ai_safety_philanthropy,https://survivalandflourishing.fund/,true,Annual S process round,open
+EA Funds Transformative AI Fund,ai_safety_philanthropy,https://funds.effectivealtruism.org/funds/transformative-ai,true,Rolling,open
+Foresight Institute AI safety grants,ai_safety_philanthropy,https://foresight.org/grants/,true,Rolling quarterly reviews,open
+Future of Life Institute grant programs,ai_safety_philanthropy,https://futureoflife.org/grant-programs/,true,Irregular,open
+Cooperative AI Foundation,ai_safety_philanthropy,https://www.cooperativeai.com/,true,Calls announced on blog,open
+AI Safety Fund (Frontier Model Forum),ai_safety_philanthropy,https://www.frontiermodelforum.org/ai-safety-fund/,true,Rounds announced irregularly,open
+ARIA (UK Advanced Research and Invention Agency),ai_safety_philanthropy,https://www.aria.org.uk/,true,Rolling program calls,open
+UK AI Security Institute grants,ai_safety_philanthropy,https://www.aisi.gov.uk/grants,true,Irregular,open
+Manifund,ai_safety_philanthropy,https://manifund.org/,true,Rolling regranting,open
+grantmaking.ai,ai_safety_philanthropy,http://grantmaking.ai/,true,Rounds,open
+Mercor AI Safety Fund,ai_safety_philanthropy,https://jobs.ashbyhq.com/mercor/1d59ce50-4207-4d95-b7fd-5a01e90b0897/application?ref=aichoppingblock,true,Rolling,open
+Astera Institute,ai_safety_philanthropy,https://astera.org/,true,Residency cohorts,open
+Renaissance Philanthropy,foundation_general,https://www.renaissancephilanthropy.org/programs,false,Program specific,unknown
+Convergent Research (FROs),foundation_general,https://www.convergentresearch.org/get-involved,false,Rolling idea submission,open
+Alfred P. Sloan Foundation open calls,foundation_general,https://sloan.org/grants/open-calls,true,Irregular,open
+John Templeton Foundation grant calendar,foundation_general,https://www.templeton.org/grants/grant-calendar,true,Annual OFI. 2026 deadline Jul 15,open
+W. M. Keck Foundation Research Program,foundation_general,https://www.wmkeck.org/research-overview/,true,Dec and Jun deadlines,limited_submission
+Russell Sage Foundation,foundation_general,https://www.russellsage.org/how-to-apply,true,LOI deadlines several per year,open
+Social Science Research Council,foundation_general,https://www.ssrc.org/fellowships/,true,Irregular,open
+Spencer Foundation,foundation_general,https://www.spencer.org/,true,Several deadlines per year,open
+Robert Wood Johnson Foundation,foundation_general,https://www.rwjf.org/en/grants/active-funding-opportunities.html,true,Irregular CFPs,open
+PCORI funding opportunities,federal_niche,https://www.pcori.org/funding-opportunities,false,Cycles 3 per year,open
+Hewlett Foundation,foundation_general,https://hewlett.org/grants/,true,Strategy driven,invitation
+Knight Foundation,foundation_general,https://www.knightfoundation.org/apply/,false,Occasional open calls,open
+MacArthur Foundation,foundation_general,https://www.macfound.org/info-grantseekers/,true,Occasional open calls,invitation
+Patrick J. McGovern Foundation,foundation_general,https://www.mcgovern.org/grants/,false,Irregular,unknown
+Chan Zuckerberg Initiative RFAs,foundation_general,https://chanzuckerberg.com/rfa/,false,Irregular,open
+AHRQ notices of funding opportunity,federal_niche,https://www.ahrq.gov/funding/fund-opps/index.html,true,Rolling,open
+FDA regulatory science BAA,federal_niche,https://www.fda.gov/science-research/advancing-regulatory-science/broad-agency-announcement-baa-advanced-research-and-development-regulatory-science,false,Annual BAA,open
+VA Office of Research and Development,federal_niche,https://www.research.va.gov/funding/,true,Rolling,invitation
+USDA NIFA funding opportunities,federal_niche,https://www.nifa.usda.gov/grants/funding-opportunities,true,Rolling,open
+CDC grants,federal_niche,https://www.cdc.gov/grants/index.html,true,Rolling,open
+Office of Naval Research current funding opportunities,defense_niche,https://www.onr.navy.mil/work-with-us/funding-opportunities/announcements,true,Rolling BAAs,open
+ONR Global,defense_niche,https://www.nre.navy.mil/organization/onr-global,false,Rolling,open
+NGA BIG-ST BAA,defense_niche,https://simpler.grants.gov/opportunity/351404,true,Multi year BAA. Closes Dec 14 2026,open
+DEVCOM Army Research Laboratory and ARO opportunities,defense_niche,https://arl.devcom.army.mil/collaborate-with-us/opportunity/,false,Rolling BAA,open
+AFRL Information Directorate Rome NY,defense_niche,https://www.afrl.af.mil/Work-With-Us/,false,Rolling BAAs FA8750,open
+DTRA research funding opportunities,defense_niche,https://www.dtra.mil/Research/Basic-and-Applied-Science/Research-Funding-Opportunities/,true,Multi year BAA,open
+NSA Science of Security Virtual Organization,defense_niche,https://sos-vo.org/,true,Lablet recompetitions,invitation
+Empire AI,new_york_regional,https://www.empireai.edu/research/,true,No public calls,open
+NYSTAR Centers for Advanced Technology,new_york_regional,https://esd.ny.gov/centers-advanced-technology,true,Periodic designation competitions,limited_submission
+Greater Rochester Health Foundation,new_york_regional,https://thegrhf.org/how-to-apply/,true,Rolling,open
+Rochester Area Community Foundation,new_york_regional,https://www.racf.org/grants/grant-opportunities/,true,Several cycles,open
+Health Foundation for Western and Central New York,new_york_regional,https://www.healthfoundationwcny.org/,false,Irregular,open
+University of Rochester CTSI pilot awards,new_york_regional,https://www.urmc.rochester.edu/clinical-translational-science-institute/funding/request-for-applications-pilot-studies,true,Annual. LOI Oct 26 2026,open
+Sony Research Award Program,industry_longtail,https://www.sony.com/research-award-program,false,Annual. Sept deadline,open
+Bloomberg Data Science Research Grant Program,industry_longtail,https://www.techatbloomberg.com/data-science-research-grant-program/,true,Annual when open,open
+NVIDIA Academic Grant Program,industry_longtail,https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/,true,Periodic,open
+J.P. Morgan AI Research Faculty Research Awards,industry_longtail,https://www.jpmorgan.com/technology/artificial-intelligence/research-awards/faculty-research-awards,false,Annual,open
+Adobe Research academic programs,industry_longtail,https://research.adobe.com/programs/,false,Gift based,invitation
+ACI Alliance Innovations in Cochlear Implants pilot grants,adjacent_domain,https://www.acialliance.org/page/CochlearImplantPilotGrant,true,Irregular. Last 2022,open
+Grants.gov search with forecasted filter,aggregator_early_signal,https://www.grants.gov/search-grants,true,Daily,open
+USA.gov federal challenges (Challenge.gov successor),aggregator_early_signal,https://www.usa.gov/other-government-challenges,true,Rolling,open
+HeroX challenges,aggregator_early_signal,https://www.herox.com/crowdsourcing-projects,true,Rolling,open
+AISafety.com funding directory,aggregator_early_signal,https://www.aisafety.com/funding,true,Updated continuously,open
+Federal Register notices search,aggregator_early_signal,https://www.federalregister.gov/documents/search,false,Daily,open
+CCC Blog (Computing Community Consortium),aggregator_early_signal,https://cccblog.org/,true,Several posts per week,open
+Research Professional News,aggregator_early_signal,https://www.researchprofessionalnews.com/,true,Daily,unknown
+UAlbany funding opportunities,aggregator_early_signal,https://www.albany.edu/research-economic-development/researcher-guidance/award-lifecycle/funding-opportunities,true,Updated periodically,open
+Harvard ORA current opportunities,aggregator_early_signal,https://research.fas.harvard.edu/current-opportunities,true,Weekly,open
+Vanderbilt limited submission opportunities,aggregator_early_signal,https://www.vanderbilt.edu/research-development-and-support/limited-submission-opportunities/,true,Rolling,open
+Pitt limited submissions,aggregator_early_signal,https://www.research.pitt.edu/research-development/limited-submissions,true,Rolling,open
+Purdue OOR weekly funding email,aggregator_early_signal,https://research.purdue.edu/resources-for-researchers/find-funding/oor-weekly-email/,true,Weekly,open
+Boston University funding announcements,aggregator_early_signal,https://www.bu.edu/research/funding-grants/finding-funding/external-funding-opportunities/funding-announcements/,true,Monthly,open
+NC State RDO funding newsletter archive,aggregator_early_signal,https://research.ncsu.edu/rdo/funding-newsletter-archive/,true,Biweekly,open
+Duke institutionally limited nominations,aggregator_early_signal,https://myresearchpath.duke.edu/institutionally-limited-nominations,true,Rolling,open
+University of Michigan limited submissions,aggregator_early_signal,https://research.umich.edu/limited-submissions,true,Rolling,open
+Cornell limited submissions,aggregator_early_signal,https://researchservices.cornell.edu/resources/limited-submissions-funding-opportunities,true,Rolling,open
+University at Buffalo limited submissions,aggregator_early_signal,https://www.buffalo.edu/research/research-services/find-funding/limited-submission-funding-opportunities.html,true,Rolling,open
+Syracuse University limited submissions,aggregator_early_signal,https://research.syracuse.edu/research-development/limited-submissions,true,Rolling,open
+Johns Hopkins limited submissions,aggregator_early_signal,https://research.jhu.edu/funding-opportunities/limited-submissions,true,Rolling,open
+UC San Diego limited submissions,aggregator_early_signal,https://researchdevelopment.ucsd.edu/funding/limited-submissions.html,true,Rolling,open
+University of Rochester limited submissions,aggregator_early_signal,https://www.rochester.edu/university-research/awards/limited-submission-opportunities/,true,Rolling,open
+Northwestern ORD find funding,aggregator_early_signal,https://ord.northwestern.edu/funding/,true,Rolling,open
+NAIRR Pilot (NSF National AI Research Resource),federal_niche,https://nairrpilot.org/opportunities/allocations,false,"Rolling, plus periodic calls and Start-Up requests",open
+Qualcomm Innovation Fellowship North America and Qualcomm Faculty Award,industry_longtail,https://www.qualcomm.com/research/university-relations/innovation-fellowship/2027-north-america,false,"Annual, launches Oct, deadline late Nov or early Dec",invitation
+Okawa Foundation for Information and Telecommunications (US Research Grants),foundation_general,https://www.sf.us.emb-japan.go.jp/itpr_en/24_1203.html,false,"Annual, awards announced Sep to Dec",invitation
+Snap Research (academic programs),industry_longtail,https://research.snap.com/fellowships,false,PhD fellowship annual with fall deadline. Faculty gifts ad hoc,nomination
+AMD University Program / AI and HPC Fund,industry_longtail,https://www.amd.com/en/corporate/university-program/ai-hpc-cluster.html,false,Rolling proposals,open
+NEC Laboratories America,industry_longtail,https://www.nec.com/en/global/rd/labs/america/index.html,false,No public call. Gifts and collaborations ad hoc,invitation
+Toyota Research Institute (University Research Program),industry_longtail,https://www.tri.global/university-research,false,Multi-year program phases (URP 3.0 announced). No open public call,invitation
+The Home Depot (academic research),industry_longtail,https://uidp.org/?p=20376,false,No public cycle,invitation
+DHS Science and Technology Directorate (COE program and LRBAA),defense_niche,https://www.dhs.gov/science-and-technology/centers-excellence-and-academia,false,"COE lead competitions every several years, LRBAA open continuously with white paper first",open
+eBay research academic awards,industry_longtail,https://cis.cornell.edu/cis-research-professor-receives-ebay-grant,false,No public cycle,invitation
+Lambda Research Grant program,industry_longtail,https://lambda.ai/research,false,Rolling,open
+Oracle for Research (cloud credits),industry_longtail,https://www.oracle.com/ca-fr/research/project-awards/,false,Rolling,open
+ARPA-H (Advanced Research Projects Agency for Health),federal_niche,https://arpa-h.gov/explore-funding,false,Rolling open BAA plus program-specific solicitations with set deadlines,open
+Alexander von Humboldt Foundation (Humboldt Research Fellowship for experienced researchers),foundation_general,https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship,false,"Rolling, apply any time, decisions about 3 times a year",open
+MathWorks academic research support,industry_longtail,https://www.mathworks.com/academia/research/research-collaborations.html,false,Occasional calls and ad hoc proposals via MathWorks academic team,unknown
+NDIF National Deep Inference Fabric,federal_niche,https://ndif.us/,false,Rolling (account signup for remote access),open
+Thinking Machines Lab Tinker research grants,industry_longtail,https://thinkingmachines.ai/news/tinker-research-and-teaching-grants/,false,Periodic themed calls,open
+Nebius research credits program,industry_longtail,https://nebius.com/nebius-research-credits-program,false,Rolling,open
+Modal academic compute credits,industry_longtail,https://modal.com/academics,false,Rolling,open
+Cohere Labs research grants (Cohere For AI),industry_longtail,https://cohere.com/research/grants,false,Rolling,open
+Laude Institute (Slingshots / Moonshots),foundation_general,https://www.laude.org/,false,"Cohort based (Slingshots ONE, TWO, THREE so far)",open
+FAR.AI research grants,ai_safety_philanthropy,https://far.ai/programs/grantmaking,false,"Unknown, likely periodic or rolling",unknown
+Gates Foundation Grand Challenges,adjacent_domain,https://gcgh.grandchallenges.org/challenge/2026-grand-challenges-annual-meeting-call-action,false,"Rolling topic RFPs, several per year",open
+United States Israel Binational Science Foundation (BSF and NSF-BSF),federal_niche,https://trdf.technion.ac.il/en/calls-for-proposals/nsf-bsf-programs/,false,"NSF-BSF follows NSF CISE core deadlines, BSF regular grants annual",open
+dkNET (NIDDK Information Network) AI pilot awards,adjacent_domain,https://dknet.org/about/ai-pilot,false,"Annual pilot call, small awards for about one year",open
+NBME Stemmler Medical Education Research Fund,adjacent_domain,https://www.nbme.org/contributions/assessment/stemmler-grants/,false,"Annual, letter of intent in spring then invited full proposal",open
+Teach Access faculty grants and Curriculum Development Awards,foundation_general,https://www.teachaccess.org/initiatives/grants/faqs/,false,Annual call around spring for awards in following academic year,open
+National Institute of Justice (NIJ),federal_niche,https://nij.ojp.gov/funding,false,Annual NOFOs posted roughly Jan to Apr with spring deadlines,open
+NHTSA research (USDOT),federal_niche,https://www.transportation.gov/sites/dot.gov/files/2026-09/AMRP%20FY2026-2027%20NHTSA.pdf,false,Ad hoc cooperative agreements and contracts posted on Grants.gov and SAM.gov,open
+CHEST NSF IUCRC (Center for Hardware and Embedded Systems Security and Trust),federal_niche,https://iucrc.nsf.gov/centers/center-for-hardware-and-embedded-system-security-and-trust,false,Member-voted projects at semiannual IAB meetings. New sites via NSF IUCRC site proposals,invitation
+Arm University Program and Arm research gifts,industry_longtail,https://arm.com/resources/research/collaborations,false,Teaching and IP access open year round. Research gifts ad hoc,invitation
+American Philosophical Society Franklin Research Grants,foundation_general,https://www.amphilsoc.org/grants/franklin-research-grants,false,"Twice yearly, deadlines Oct 1 and Dec 1",open
+New York State DOT Transportation Research and Development Bureau,new_york_regional,https://www.dot.ny.gov/divisions/engineering/technical-services/transportation-research-development,false,"Annual SPR research problem statements and project selection, often via UTC or consultant contracts",limited_submission
+Open Technology Fund (OTF),foundation_general,https://www.opentech.fund/funds/,false,Rolling concept notes with periodic review rounds,open
+Griffiss Institute (Information Institute with AFRL/RI),new_york_regional,https://www.griffissinstitute.org/information-institute/,false,Visiting Faculty Research Program summer residencies plus rolling collaborative projects,open
+DOE Sandia National Labs (Sandia Academic Alliance / University Partnerships Network),federal_niche,https://www.sandia.gov/working-with-sandia/academic-partnerships/sandia-academic-alliance-program/,false,Annual alliance funding to fixed partner universities. Other work via LDRD subcontracts year round,invitation
+DOE Lawrence Livermore National Lab (university collaborations),federal_niche,https://st.llnl.gov/about-us/AEO/university-collaborations,false,LDRD and program subcontracts year round. Academic Collaboration Teams and institutes on internal cycles,invitation
+Siemens EDA academic program,industry_longtail,https://www.sw.siemens.com/en-US/academic/educators/eda-higher-education-software,false,Software grants open year round. Research gifts ad hoc,open
+Anthropic (Fellows Program and AI for Science),industry_longtail,https://support.claude.com/en/articles/11199177-anthropics-ai-for-science-program,true,AI for Science monthly review. Fellows rolling cohorts,open
+OpenAI Researcher Access Program,industry_longtail,https://grants.openai.com/prog/openai_researcher_access_program/,true,Quarterly review,open
+Corrigibility Research Fund (Lightcone),ai_safety_philanthropy,https://corrigibilityresearch.org/,true,Rounds,open
+Lightcone Commons,ai_safety_philanthropy,https://www.lightconecommons.com/apply,true,About quarterly S-Process rounds,open
+Iliad,ai_safety_philanthropy,https://www.iliad.ac/funding,true,Open call plus RFP,open
+GTR Foundation AI Safety Fund,ai_safety_philanthropy,https://www.gtr-foundation.org/gtr-ai-safety-fund,true,Rolling,open
+AI Alignment Foundation,ai_safety_philanthropy,https://www.aialignmentfoundation.org/approach/apply,true,Rolling,open
+Astralis Foundation and Macroscopic Ventures (Middle Powers),ai_safety_philanthropy,https://middlepowers.ai/,true,RFP based,open
+Paradigm 3,ai_safety_philanthropy,https://www.paradigm3.org/research/fund,true,No formal call,invitation
+Halcyon Futures,ai_safety_philanthropy,https://www.halcyonfutures.org/,false,Unknown,unknown
+FNIH Music as Medicine,adjacent_domain,https://fnih.org/our-programs/powering-science/music-as-medicine/,true,Annual nomination cycle,nomination
+Unconventional AI (Unconventional Grant),industry_longtail,https://unconv.ai/grant/,true,"Annual, 2026 closed Jul 28",open
+Genesis Mission Consortium,aggregator_early_signal,https://www.nextgov.com/artificial-intelligence/2026/10/white-house-unveils-billions-investments-genesis-mission/416517/,false,Announced 2026-10-08,unknown
+IARPA Solutions Marketplace,defense_niche,https://www.iarpa.gov/,false,Rolling monthly review through 2027-07-31,unknown
+AIMO Interpretability Challenge,aggregator_early_signal,https://aimo-interp.github.io/,true,Competition tied to NeurIPS,open
+AFOSR Open BAA,defense_niche,https://simpler.grants.gov/opportunity/de479d2e-aad1-466a-acc3-d5d11cf7918d,true,Open until superseded,open
+ORAU Ralph E. Powe Junior Faculty Enhancement Awards,foundation_general,https://www.orau.org/partnerships/grant-programs/powe/index.html,true,"Annual, sponsor deadline early Jan",limited_submission
+Schmidt Sciences AI Interpretability program,ai_safety_interp,https://www.schmidtsciences.org/ai-interpretability/,true,"No RFP yet, watch for call",open
+Center on Long-Term Risk Fund,ai_safety_interp,https://longtermrisk.org/grantmaking/,false,Rolling,unknown
+Microsoft AI for Accessibility,industry_longtail,https://www.microsoft.com/en-us/ai/ai-for-accessibility,false,"Irregular, currently closed",open
+FHWA Exploratory Advanced Research,federal_niche,https://highways.dot.gov/research/exploratory-advanced-research/funding-opportunities,false,"Irregular BAAs, FY26 Data Science BAA 693JJ3-26-BAA-0006 unverified",open
+IMLS grants,federal_niche,https://www.imls.gov/grants/available,false,"Annual NLG and LB21, Nov deadline",open
+USGS WRRA 104g via NY WRRI,adjacent_domain,https://simpler.grants.gov/opportunity/2c5fcf26-2264-42ae-9bc9-60f591fd770c,true,"Annual, Nov",via_institute
+NSF Open Knowledge Network / Proto-OKN,federal_niche,https://www.nsf.gov/tip,false,"Launched 2026-09-25, follow-on calls TBD",open
+Gallaudet DHH-RERC (NIDILRR),partner_route,https://gallaudet.edu/university-communications/technology-access-program-receives-4-625-million-federal-research-grant-to-advance-accessibility-for-deaf-and-hard-of-hearing-people/,true,RERC 2024 to 2029,partner
+NIA AITC Coordinating Center (AITCC) and MassAITC annual pilots,federal_niche,https://aitcc.ai/rfa/aitc-ara-27-001,true,"Annual call released Oct, LOI mid Nov",open
+Rockefeller Foundation,foundation_general,https://www.rockefellerfoundation.org/cities-deliver-ai-solutions-for-public-services/,true,Irregular large calls,limited
+OpenAI Foundation,foundation_general,https://openaifoundation.org/news/2026-people-first-ai-fund,false,Unknown,unknown
+Alzheimer's Disease Data Initiative (ADDI),adjacent_domain,https://www.alzheimersdata.org/accelerating-research/ai-explorations,false,Challenges and prizes,open
+Intuit Faculty Research Awards (IFRA),industry_longtail,https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/content/IFRA2026_RFP.pdf,false,"Annual, window around March",open
+USACE ERDC BAA (ERDCWERX),defense_niche,https://simpler.grants.gov/opportunity/98696099-8a71-4a7c-8e2d-1dfcf3817f75,true,Rolling BAA,open
+Army Contracting Command Rock Island Fundamental AI Research BAA,defense_niche,https://simpler.grants.gov/opportunity/f3b7c04e-a364-4193-9c76-96aea974d618,true,Forecast,open
+ESD NeuroCatalyst Commercialization Fund,new_york_regional,https://esd.ny.gov/doing-business-ny/requests-proposals/request-proposals-neurocatalyst-commercialization-fund,true,Annual cycles after administrator chosen Jan 2027,open
+Google.org Impact Challenge AI for Science,industry_longtail,https://www.edtechinnovationhub.com/news/googleorg-awards-36m-to-17-ai-science-projects-including-cambridge-and-mit,false,Irregular,open
+Anthropic Public Benefit Fund,foundation_general,https://www.anthropic.com/news/public-benefit-fund,false,TBD,unknown
+BlueDot Impact grants,ai_safety_philanthropy,https://bluedot.org/,false,Rolling,open

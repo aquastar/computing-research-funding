@@ -1,0 +1,1538 @@
+[
+ {
+  "funder": "Semiconductor Research Corporation (SRC) incl JUMP 2.0 and GRC",
+  "category": "adjacent_domain",
+  "link": "https://www.src.org/compete/",
+  "link_verified": true,
+  "cycle": "Annual call for research plus program specific calls",
+  "access": "open"
+ },
+ {
+  "funder": "NIST CHIPS R&D Funding Opportunities (NSTC successor to Natcast)",
+  "category": "adjacent_domain",
+  "link": "https://www.nist.gov/chips/chips-rd-funding-opportunities",
+  "link_verified": true,
+  "cycle": "Rolling CRDO Broad Agency Announcement",
+  "access": "open"
+ },
+ {
+  "funder": "Cadence Academic Network",
+  "category": "industry_longtail",
+  "link": "https://www.cadence.com/en_US/home/company/cadence-academic-network.html",
+  "link_verified": true,
+  "cycle": "Ongoing",
+  "access": "open"
+ },
+ {
+  "funder": "Samsung Global Research Outreach (GRO)",
+  "category": "industry_longtail",
+  "link": "https://semiconductor.samsung.com/sait/event/global-research-outreach",
+  "link_verified": true,
+  "cycle": "Annual. 2026 submissions closed Aug 23 2026 with results Nov 2026",
+  "access": "open"
+ },
+ {
+  "funder": "Cisco Research open RFPs",
+  "category": "industry_longtail",
+  "link": "https://research.cisco.com/open-rfps",
+  "link_verified": true,
+  "cycle": "Rolling RFPs",
+  "access": "open"
+ },
+ {
+  "funder": "EPRI (Electric Power Research Institute)",
+  "category": "adjacent_domain",
+  "link": "https://www.epri.com/",
+  "link_verified": false,
+  "cycle": "Irregular university award calls",
+  "access": "unknown"
+ },
+ {
+  "funder": "NYSERDA current funding opportunities",
+  "category": "new_york_regional",
+  "link": "https://www.nyserda.ny.gov/funding-opportunities/current-funding-opportunities",
+  "link_verified": true,
+  "cycle": "Rolling PONs and RFPs",
+  "access": "open"
+ },
+ {
+  "funder": "NYSERDA Innovation R&D funding",
+  "category": "new_york_regional",
+  "link": "https://nyserda.ny.gov/All-Programs/Innovation-at-NYSERDA/Funding-Opportunities",
+  "link_verified": false,
+  "cycle": "Rolling",
+  "access": "open"
+ },
+ {
+  "funder": "Lloyd's Register Foundation calls for funding",
+  "category": "adjacent_domain",
+  "link": "https://www.lrfoundation.org.uk/calls-for-funding",
+  "link_verified": true,
+  "cycle": "Periodic open calls",
+  "access": "open"
+ },
+ {
+  "funder": "NIST Disaster Resilience Research Grants",
+  "category": "adjacent_domain",
+  "link": "https://www.nist.gov/el/disaster-resilience/disaster-resilience-federal-funding-opportunity-ffo",
+  "link_verified": true,
+  "cycle": "Irregular. Last NOFO 2022",
+  "access": "open"
+ },
+ {
+  "funder": "Natural Hazards Center award opportunities",
+  "category": "adjacent_domain",
+  "link": "https://hazards.colorado.edu/resources/award-opportunities",
+  "link_verified": true,
+  "cycle": "Several small award programs per year",
+  "access": "open"
+ },
+ {
+  "funder": "DOE funding opportunities (CESER and Office of Electricity)",
+  "category": "federal_niche",
+  "link": "https://www.energy.gov/funding-opportunities",
+  "link_verified": true,
+  "cycle": "Rolling",
+  "access": "open"
+ },
+ {
+  "funder": "DOT University Transportation Centers competition",
+  "category": "federal_niche",
+  "link": "https://www.transportation.gov/utc/current-competition",
+  "link_verified": true,
+  "cycle": "Multi year recompetitions",
+  "access": "limited_submission"
+ },
+ {
+  "funder": "DOT IIJA UTC list (find consortia with internal seed calls)",
+  "category": "aggregator_early_signal",
+  "link": "https://www.transportation.gov/utc/iija-centers-and-grantees",
+  "link_verified": true,
+  "cycle": "Static list",
+  "access": "open"
+ },
+ {
+  "funder": "Transportation Research Board IDEA programs",
+  "category": "adjacent_domain",
+  "link": "https://www.trb.org/IDEAProgram/IDEAProgram.aspx",
+  "link_verified": true,
+  "cycle": "Annual per program",
+  "access": "open"
+ },
+ {
+  "funder": "Water Research Foundation outbound grants",
+  "category": "adjacent_domain",
+  "link": "https://portal.waterrf.org/outbound-grants",
+  "link_verified": true,
+  "cycle": "Annual batches of RFPs",
+  "access": "open"
+ },
+ {
+  "funder": "Insurance Institute for Business and Home Safety (IBHS)",
+  "category": "adjacent_domain",
+  "link": "https://ibhs.org/about-ibhs/ibhs-research-center/",
+  "link_verified": false,
+  "cycle": "No public call cycle",
+  "access": "invitation"
+ },
+ {
+  "funder": "Critical Infrastructure Resilience Institute (DHS COE at UIUC)",
+  "category": "federal_niche",
+  "link": "https://ciri.illinois.edu/",
+  "link_verified": true,
+  "cycle": "Periodic calls announced by newsletter",
+  "access": "open"
+ },
+ {
+  "funder": "ACL open opportunities (NIDILRR incl RERC, DRRP, FIP)",
+  "category": "federal_niche",
+  "link": "https://acl.gov/grants/open-opportunities",
+  "link_verified": true,
+  "cycle": "FIP typically Oct to Apr",
+  "access": "open"
+ },
+ {
+  "funder": "Grants.gov search for NIDILRR (CFDA 93.433)",
+  "category": "aggregator_early_signal",
+  "link": "https://simpler.grants.gov/search?query=NIDILRR",
+  "link_verified": true,
+  "cycle": "Forecasts posted ahead of NOFOs",
+  "access": "open"
+ },
+ {
+  "funder": "Hearing Health Foundation Emerging Research Grants",
+  "category": "adjacent_domain",
+  "link": "https://hearinghealthfoundation.org/erg",
+  "link_verified": true,
+  "cycle": "Annual. Next RFP expected Oct 2026",
+  "access": "open"
+ },
+ {
+  "funder": "American Hearing Research Foundation",
+  "category": "adjacent_domain",
+  "link": "https://www.american-hearing.org/research-grants/grants-we-offer-2/",
+  "link_verified": true,
+  "cycle": "Annual. Deadline Aug 15",
+  "access": "open"
+ },
+ {
+  "funder": "William Demant Foundation (Oticon Foundation)",
+  "category": "adjacent_domain",
+  "link": "https://www.williamdemantfonden.dk/how-to-apply",
+  "link_verified": true,
+  "cycle": "Rolling for research grants",
+  "access": "non_US_only"
+ },
+ {
+  "funder": "American Academy of Audiology Foundation",
+  "category": "adjacent_domain",
+  "link": "https://www.audiology.org/foundation/our-work/research-and-education/",
+  "link_verified": false,
+  "cycle": "Annual",
+  "access": "open"
+ },
+ {
+  "funder": "CDMRP Hearing Restoration Research Program",
+  "category": "federal_niche",
+  "link": "https://cdmrp.health.mil/funding/hrrp",
+  "link_verified": true,
+  "cycle": "Annual. FY26 closed",
+  "access": "open"
+ },
+ {
+  "funder": "CDMRP Peer Reviewed Medical Research Program",
+  "category": "federal_niche",
+  "link": "https://cdmrp.health.mil/funding/prmrp",
+  "link_verified": true,
+  "cycle": "Annual. FY26 closed",
+  "access": "open"
+ },
+ {
+  "funder": "Retirement Research Foundation",
+  "category": "adjacent_domain",
+  "link": "https://www.rrf.org/apply-for-a-grant/research-grants/",
+  "link_verified": true,
+  "cycle": "LOI deadlines. Next Nov 2 2026",
+  "access": "open"
+ },
+ {
+  "funder": "John A. Hartford Foundation",
+  "category": "adjacent_domain",
+  "link": "https://www.johnahartford.org/grants-strategy",
+  "link_verified": true,
+  "cycle": "2026 Call for Proposals posted",
+  "access": "invitation"
+ },
+ {
+  "funder": "American Federation for Aging Research (AFAR)",
+  "category": "adjacent_domain",
+  "link": "https://www.afar.org/funding-opportunities",
+  "link_verified": true,
+  "cycle": "Annual",
+  "access": "open"
+ },
+ {
+  "funder": "Alzheimer's Drug Discovery Foundation",
+  "category": "adjacent_domain",
+  "link": "https://www.alzdiscovery.org/research-and-grants/funding-opportunities",
+  "link_verified": true,
+  "cycle": "Several RFPs per year",
+  "access": "open"
+ },
+ {
+  "funder": "BrightFocus Foundation Alzheimer's research",
+  "category": "adjacent_domain",
+  "link": "https://www.brightfocus.org/grants/",
+  "link_verified": true,
+  "cycle": "Annual",
+  "access": "open"
+ },
+ {
+  "funder": "Alzheimer's Association International Research Grant Program",
+  "category": "adjacent_domain",
+  "link": "https://www.alz.org/research/for_researchers/grants",
+  "link_verified": true,
+  "cycle": "Annual. FY2027 cycle open",
+  "access": "open"
+ },
+ {
+  "funder": "Cure Alzheimer's Fund",
+  "category": "adjacent_domain",
+  "link": "https://curealz.org/the-research/grant-process/",
+  "link_verified": true,
+  "cycle": "Rolling LOIs",
+  "access": "invitation"
+ },
+ {
+  "funder": "Dana Foundation",
+  "category": "adjacent_domain",
+  "link": "https://dana.org/grants/",
+  "link_verified": true,
+  "cycle": "Multiple calls per year",
+  "access": "open"
+ },
+ {
+  "funder": "Mellon Foundation grant programs",
+  "category": "foundation_general",
+  "link": "https://www.mellon.org/grant-programs",
+  "link_verified": true,
+  "cycle": "Strategy driven",
+  "access": "invitation"
+ },
+ {
+  "funder": "NEA Research Grants in the Arts and NEA Research Labs",
+  "category": "federal_niche",
+  "link": "https://www.arts.gov/grants/research-awards",
+  "link_verified": true,
+  "cycle": "Annual. Spring deadlines",
+  "access": "open"
+ },
+ {
+  "funder": "GRAMMY Museum Grants Program",
+  "category": "adjacent_domain",
+  "link": "https://grammymuseum.org/education/grants-program/",
+  "link_verified": true,
+  "cycle": "Annual. LOI late Sept",
+  "access": "open"
+ },
+ {
+  "funder": "NEH Office of Digital Humanities",
+  "category": "federal_niche",
+  "link": "https://www.neh.gov/divisions/odh",
+  "link_verified": true,
+  "cycle": "Annual",
+  "access": "open"
+ },
+ {
+  "funder": "Brain Research Foundation Seed Grants",
+  "category": "foundation_general",
+  "link": "https://www.thebrf.org/seed-grants/",
+  "link_verified": true,
+  "cycle": "Annual. LOI round opens Aug",
+  "access": "limited_submission"
+ },
+ {
+  "funder": "McKnight Endowment Fund for Neuroscience",
+  "category": "foundation_general",
+  "link": "https://www.mcknight.org/programs/the-mcknight-endowment-fund-for-neuroscience/",
+  "link_verified": true,
+  "cycle": "Annual",
+  "access": "limited_submission"
+ },
+ {
+  "funder": "Simons Foundation funding opportunities",
+  "category": "foundation_general",
+  "link": "https://www.simonsfoundation.org/funding-opportunities/",
+  "link_verified": true,
+  "cycle": "Several per year",
+  "access": "open"
+ },
+ {
+  "funder": "Arnold Ventures RFPs",
+  "category": "foundation_general",
+  "link": "https://www.arnoldventures.org/grants",
+  "link_verified": true,
+  "cycle": "Several RFPs per year",
+  "access": "open"
+ },
+ {
+  "funder": "Schmidt Sciences opportunities",
+  "category": "ai_safety_philanthropy",
+  "link": "https://www.schmidtsciences.org/opportunities",
+  "link_verified": true,
+  "cycle": "Several RFPs per year",
+  "access": "open"
+ },
+ {
+  "funder": "Coefficient Giving (formerly Open Philanthropy) Navigating Transformative AI",
+  "category": "ai_safety_philanthropy",
+  "link": "https://coefficientgiving.org/funds/navigating-transformative-ai/",
+  "link_verified": true,
+  "cycle": "Rolling Technical AI Safety RFP",
+  "access": "open"
+ },
+ {
+  "funder": "Survival and Flourishing Fund",
+  "category": "ai_safety_philanthropy",
+  "link": "https://survivalandflourishing.fund/",
+  "link_verified": true,
+  "cycle": "Annual S process round",
+  "access": "open"
+ },
+ {
+  "funder": "EA Funds Transformative AI Fund",
+  "category": "ai_safety_philanthropy",
+  "link": "https://funds.effectivealtruism.org/funds/transformative-ai",
+  "link_verified": true,
+  "cycle": "Rolling",
+  "access": "open"
+ },
+ {
+  "funder": "Foresight Institute AI safety grants",
+  "category": "ai_safety_philanthropy",
+  "link": "https://foresight.org/grants/",
+  "link_verified": true,
+  "cycle": "Rolling quarterly reviews",
+  "access": "open"
+ },
+ {
+  "funder": "Future of Life Institute grant programs",
+  "category": "ai_safety_philanthropy",
+  "link": "https://futureoflife.org/grant-programs/",
+  "link_verified": true,
+  "cycle": "Irregular",
+  "access": "open"
+ },
+ {
+  "funder": "Cooperative AI Foundation",
+  "category": "ai_safety_philanthropy",
+  "link": "https://www.cooperativeai.com/",
+  "link_verified": true,
+  "cycle": "Calls announced on blog",
+  "access": "open"
+ },
+ {
+  "funder": "AI Safety Fund (Frontier Model Forum)",
+  "category": "ai_safety_philanthropy",
+  "link": "https://www.frontiermodelforum.org/ai-safety-fund/",
+  "link_verified": true,
+  "cycle": "Rounds announced irregularly",
+  "access": "open"
+ },
+ {
+  "funder": "ARIA (UK Advanced Research and Invention Agency)",
+  "category": "ai_safety_philanthropy",
+  "link": "https://www.aria.org.uk/",
+  "link_verified": true,
+  "cycle": "Rolling program calls",
+  "access": "open"
+ },
+ {
+  "funder": "UK AI Security Institute grants",
+  "category": "ai_safety_philanthropy",
+  "link": "https://www.aisi.gov.uk/grants",
+  "link_verified": true,
+  "cycle": "Irregular",
+  "access": "open"
+ },
+ {
+  "funder": "Manifund",
+  "category": "ai_safety_philanthropy",
+  "link": "https://manifund.org/",
+  "link_verified": true,
+  "cycle": "Rolling regranting",
+  "access": "open"
+ },
+ {
+  "funder": "grantmaking.ai",
+  "category": "ai_safety_philanthropy",
+  "link": "http://grantmaking.ai/",
+  "link_verified": true,
+  "cycle": "Rounds",
+  "access": "open"
+ },
+ {
+  "funder": "Mercor AI Safety Fund",
+  "category": "ai_safety_philanthropy",
+  "link": "https://jobs.ashbyhq.com/mercor/1d59ce50-4207-4d95-b7fd-5a01e90b0897/application?ref=aichoppingblock",
+  "link_verified": true,
+  "cycle": "Rolling",
+  "access": "open"
+ },
+ {
+  "funder": "Astera Institute",
+  "category": "ai_safety_philanthropy",
+  "link": "https://astera.org/",
+  "link_verified": true,
+  "cycle": "Residency cohorts",
+  "access": "open"
+ },
+ {
+  "funder": "Renaissance Philanthropy",
+  "category": "foundation_general",
+  "link": "https://www.renaissancephilanthropy.org/programs",
+  "link_verified": false,
+  "cycle": "Program specific",
+  "access": "unknown"
+ },
+ {
+  "funder": "Convergent Research (FROs)",
+  "category": "foundation_general",
+  "link": "https://www.convergentresearch.org/get-involved",
+  "link_verified": false,
+  "cycle": "Rolling idea submission",
+  "access": "open"
+ },
+ {
+  "funder": "Alfred P. Sloan Foundation open calls",
+  "category": "foundation_general",
+  "link": "https://sloan.org/grants/open-calls",
+  "link_verified": true,
+  "cycle": "Irregular",
+  "access": "open"
+ },
+ {
+  "funder": "John Templeton Foundation grant calendar",
+  "category": "foundation_general",
+  "link": "https://www.templeton.org/grants/grant-calendar",
+  "link_verified": true,
+  "cycle": "Annual OFI. 2026 deadline Jul 15",
+  "access": "open"
+ },
+ {
+  "funder": "W. M. Keck Foundation Research Program",
+  "category": "foundation_general",
+  "link": "https://www.wmkeck.org/research-overview/",
+  "link_verified": true,
+  "cycle": "Dec and Jun deadlines",
+  "access": "limited_submission"
+ },
+ {
+  "funder": "Russell Sage Foundation",
+  "category": "foundation_general",
+  "link": "https://www.russellsage.org/how-to-apply",
+  "link_verified": true,
+  "cycle": "LOI deadlines several per year",
+  "access": "open"
+ },
+ {
+  "funder": "Social Science Research Council",
+  "category": "foundation_general",
+  "link": "https://www.ssrc.org/fellowships/",
+  "link_verified": true,
+  "cycle": "Irregular",
+  "access": "open"
+ },
+ {
+  "funder": "Spencer Foundation",
+  "category": "foundation_general",
+  "link": "https://www.spencer.org/",
+  "link_verified": true,
+  "cycle": "Several deadlines per year",
+  "access": "open"
+ },
+ {
+  "funder": "Robert Wood Johnson Foundation",
+  "category": "foundation_general",
+  "link": "https://www.rwjf.org/en/grants/active-funding-opportunities.html",
+  "link_verified": true,
+  "cycle": "Irregular CFPs",
+  "access": "open"
+ },
+ {
+  "funder": "PCORI funding opportunities",
+  "category": "federal_niche",
+  "link": "https://www.pcori.org/funding-opportunities",
+  "link_verified": false,
+  "cycle": "Cycles 3 per year",
+  "access": "open"
+ },
+ {
+  "funder": "Hewlett Foundation",
+  "category": "foundation_general",
+  "link": "https://hewlett.org/grants/",
+  "link_verified": true,
+  "cycle": "Strategy driven",
+  "access": "invitation"
+ },
+ {
+  "funder": "Knight Foundation",
+  "category": "foundation_general",
+  "link": "https://www.knightfoundation.org/apply/",
+  "link_verified": false,
+  "cycle": "Occasional open calls",
+  "access": "open"
+ },
+ {
+  "funder": "MacArthur Foundation",
+  "category": "foundation_general",
+  "link": "https://www.macfound.org/info-grantseekers/",
+  "link_verified": true,
+  "cycle": "Occasional open calls",
+  "access": "invitation"
+ },
+ {
+  "funder": "Patrick J. McGovern Foundation",
+  "category": "foundation_general",
+  "link": "https://www.mcgovern.org/grants/",
+  "link_verified": false,
+  "cycle": "Irregular",
+  "access": "unknown"
+ },
+ {
+  "funder": "Chan Zuckerberg Initiative RFAs",
+  "category": "foundation_general",
+  "link": "https://chanzuckerberg.com/rfa/",
+  "link_verified": false,
+  "cycle": "Irregular",
+  "access": "open"
+ },
+ {
+  "funder": "AHRQ notices of funding opportunity",
+  "category": "federal_niche",
+  "link": "https://www.ahrq.gov/funding/fund-opps/index.html",
+  "link_verified": true,
+  "cycle": "Rolling",
+  "access": "open"
+ },
+ {
+  "funder": "FDA regulatory science BAA",
+  "category": "federal_niche",
+  "link": "https://www.fda.gov/science-research/advancing-regulatory-science/broad-agency-announcement-baa-advanced-research-and-development-regulatory-science",
+  "link_verified": false,
+  "cycle": "Annual BAA",
+  "access": "open"
+ },
+ {
+  "funder": "VA Office of Research and Development",
+  "category": "federal_niche",
+  "link": "https://www.research.va.gov/funding/",
+  "link_verified": true,
+  "cycle": "Rolling",
+  "access": "invitation"
+ },
+ {
+  "funder": "USDA NIFA funding opportunities",
+  "category": "federal_niche",
+  "link": "https://www.nifa.usda.gov/grants/funding-opportunities",
+  "link_verified": true,
+  "cycle": "Rolling",
+  "access": "open"
+ },
+ {
+  "funder": "CDC grants",
+  "category": "federal_niche",
+  "link": "https://www.cdc.gov/grants/index.html",
+  "link_verified": true,
+  "cycle": "Rolling",
+  "access": "open"
+ },
+ {
+  "funder": "Office of Naval Research current funding opportunities",
+  "category": "defense_niche",
+  "link": "https://www.onr.navy.mil/work-with-us/funding-opportunities/announcements",
+  "link_verified": true,
+  "cycle": "Rolling BAAs",
+  "access": "open"
+ },
+ {
+  "funder": "ONR Global",
+  "category": "defense_niche",
+  "link": "https://www.nre.navy.mil/organization/onr-global",
+  "link_verified": false,
+  "cycle": "Rolling",
+  "access": "open"
+ },
+ {
+  "funder": "NGA BIG-ST BAA",
+  "category": "defense_niche",
+  "link": "https://simpler.grants.gov/opportunity/351404",
+  "link_verified": true,
+  "cycle": "Multi year BAA. Closes Dec 14 2026",
+  "access": "open"
+ },
+ {
+  "funder": "DEVCOM Army Research Laboratory and ARO opportunities",
+  "category": "defense_niche",
+  "link": "https://arl.devcom.army.mil/collaborate-with-us/opportunity/",
+  "link_verified": false,
+  "cycle": "Rolling BAA",
+  "access": "open"
+ },
+ {
+  "funder": "AFRL Information Directorate Rome NY",
+  "category": "defense_niche",
+  "link": "https://www.afrl.af.mil/Work-With-Us/",
+  "link_verified": false,
+  "cycle": "Rolling BAAs FA8750",
+  "access": "open"
+ },
+ {
+  "funder": "DTRA research funding opportunities",
+  "category": "defense_niche",
+  "link": "https://www.dtra.mil/Research/Basic-and-Applied-Science/Research-Funding-Opportunities/",
+  "link_verified": true,
+  "cycle": "Multi year BAA",
+  "access": "open"
+ },
+ {
+  "funder": "NSA Science of Security Virtual Organization",
+  "category": "defense_niche",
+  "link": "https://sos-vo.org/",
+  "link_verified": true,
+  "cycle": "Lablet recompetitions",
+  "access": "invitation"
+ },
+ {
+  "funder": "Empire AI",
+  "category": "new_york_regional",
+  "link": "https://www.empireai.edu/research/",
+  "link_verified": true,
+  "cycle": "No public calls",
+  "access": "open"
+ },
+ {
+  "funder": "NYSTAR Centers for Advanced Technology",
+  "category": "new_york_regional",
+  "link": "https://esd.ny.gov/centers-advanced-technology",
+  "link_verified": true,
+  "cycle": "Periodic designation competitions",
+  "access": "limited_submission"
+ },
+ {
+  "funder": "Greater Rochester Health Foundation",
+  "category": "new_york_regional",
+  "link": "https://thegrhf.org/how-to-apply/",
+  "link_verified": true,
+  "cycle": "Rolling",
+  "access": "open"
+ },
+ {
+  "funder": "Rochester Area Community Foundation",
+  "category": "new_york_regional",
+  "link": "https://www.racf.org/grants/grant-opportunities/",
+  "link_verified": true,
+  "cycle": "Several cycles",
+  "access": "open"
+ },
+ {
+  "funder": "Health Foundation for Western and Central New York",
+  "category": "new_york_regional",
+  "link": "https://www.healthfoundationwcny.org/",
+  "link_verified": false,
+  "cycle": "Irregular",
+  "access": "open"
+ },
+ {
+  "funder": "University of Rochester CTSI pilot awards",
+  "category": "new_york_regional",
+  "link": "https://www.urmc.rochester.edu/clinical-translational-science-institute/funding/request-for-applications-pilot-studies",
+  "link_verified": true,
+  "cycle": "Annual. LOI Oct 26 2026",
+  "access": "open"
+ },
+ {
+  "funder": "Sony Research Award Program",
+  "category": "industry_longtail",
+  "link": "https://www.sony.com/research-award-program",
+  "link_verified": false,
+  "cycle": "Annual. Sept deadline",
+  "access": "open"
+ },
+ {
+  "funder": "Bloomberg Data Science Research Grant Program",
+  "category": "industry_longtail",
+  "link": "https://www.techatbloomberg.com/data-science-research-grant-program/",
+  "link_verified": true,
+  "cycle": "Annual when open",
+  "access": "open"
+ },
+ {
+  "funder": "NVIDIA Academic Grant Program",
+  "category": "industry_longtail",
+  "link": "https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/",
+  "link_verified": true,
+  "cycle": "Periodic",
+  "access": "open"
+ },
+ {
+  "funder": "J.P. Morgan AI Research Faculty Research Awards",
+  "category": "industry_longtail",
+  "link": "https://www.jpmorgan.com/technology/artificial-intelligence/research-awards/faculty-research-awards",
+  "link_verified": false,
+  "cycle": "Annual",
+  "access": "open"
+ },
+ {
+  "funder": "Adobe Research academic programs",
+  "category": "industry_longtail",
+  "link": "https://research.adobe.com/programs/",
+  "link_verified": false,
+  "cycle": "Gift based",
+  "access": "invitation"
+ },
+ {
+  "funder": "ACI Alliance Innovations in Cochlear Implants pilot grants",
+  "category": "adjacent_domain",
+  "link": "https://www.acialliance.org/page/CochlearImplantPilotGrant",
+  "link_verified": true,
+  "cycle": "Irregular. Last 2022",
+  "access": "open"
+ },
+ {
+  "funder": "Grants.gov search with forecasted filter",
+  "category": "aggregator_early_signal",
+  "link": "https://www.grants.gov/search-grants",
+  "link_verified": true,
+  "cycle": "Daily",
+  "access": "open"
+ },
+ {
+  "funder": "USA.gov federal challenges (Challenge.gov successor)",
+  "category": "aggregator_early_signal",
+  "link": "https://www.usa.gov/other-government-challenges",
+  "link_verified": true,
+  "cycle": "Rolling",
+  "access": "open"
+ },
+ {
+  "funder": "HeroX challenges",
+  "category": "aggregator_early_signal",
+  "link": "https://www.herox.com/crowdsourcing-projects",
+  "link_verified": true,
+  "cycle": "Rolling",
+  "access": "open"
+ },
+ {
+  "funder": "AISafety.com funding directory",
+  "category": "aggregator_early_signal",
+  "link": "https://www.aisafety.com/funding",
+  "link_verified": true,
+  "cycle": "Updated continuously",
+  "access": "open"
+ },
+ {
+  "funder": "Federal Register notices search",
+  "category": "aggregator_early_signal",
+  "link": "https://www.federalregister.gov/documents/search",
+  "link_verified": false,
+  "cycle": "Daily",
+  "access": "open"
+ },
+ {
+  "funder": "CCC Blog (Computing Community Consortium)",
+  "category": "aggregator_early_signal",
+  "link": "https://cccblog.org/",
+  "link_verified": true,
+  "cycle": "Several posts per week",
+  "access": "open"
+ },
+ {
+  "funder": "Research Professional News",
+  "category": "aggregator_early_signal",
+  "link": "https://www.researchprofessionalnews.com/",
+  "link_verified": true,
+  "cycle": "Daily",
+  "access": "unknown"
+ },
+ {
+  "funder": "UAlbany funding opportunities",
+  "category": "aggregator_early_signal",
+  "link": "https://www.albany.edu/research-economic-development/researcher-guidance/award-lifecycle/funding-opportunities",
+  "link_verified": true,
+  "cycle": "Updated periodically",
+  "access": "open"
+ },
+ {
+  "funder": "Harvard ORA current opportunities",
+  "category": "aggregator_early_signal",
+  "link": "https://research.fas.harvard.edu/current-opportunities",
+  "link_verified": true,
+  "cycle": "Weekly",
+  "access": "open"
+ },
+ {
+  "funder": "Vanderbilt limited submission opportunities",
+  "category": "aggregator_early_signal",
+  "link": "https://www.vanderbilt.edu/research-development-and-support/limited-submission-opportunities/",
+  "link_verified": true,
+  "cycle": "Rolling",
+  "access": "open"
+ },
+ {
+  "funder": "Pitt limited submissions",
+  "category": "aggregator_early_signal",
+  "link": "https://www.research.pitt.edu/research-development/limited-submissions",
+  "link_verified": true,
+  "cycle": "Rolling",
+  "access": "open"
+ },
+ {
+  "funder": "Purdue OOR weekly funding email",
+  "category": "aggregator_early_signal",
+  "link": "https://research.purdue.edu/resources-for-researchers/find-funding/oor-weekly-email/",
+  "link_verified": true,
+  "cycle": "Weekly",
+  "access": "open"
+ },
+ {
+  "funder": "Boston University funding announcements",
+  "category": "aggregator_early_signal",
+  "link": "https://www.bu.edu/research/funding-grants/finding-funding/external-funding-opportunities/funding-announcements/",
+  "link_verified": true,
+  "cycle": "Monthly",
+  "access": "open"
+ },
+ {
+  "funder": "NC State RDO funding newsletter archive",
+  "category": "aggregator_early_signal",
+  "link": "https://research.ncsu.edu/rdo/funding-newsletter-archive/",
+  "link_verified": true,
+  "cycle": "Biweekly",
+  "access": "open"
+ },
+ {
+  "funder": "Duke institutionally limited nominations",
+  "category": "aggregator_early_signal",
+  "link": "https://myresearchpath.duke.edu/institutionally-limited-nominations",
+  "link_verified": true,
+  "cycle": "Rolling",
+  "access": "open"
+ },
+ {
+  "funder": "University of Michigan limited submissions",
+  "category": "aggregator_early_signal",
+  "link": "https://research.umich.edu/limited-submissions",
+  "link_verified": true,
+  "cycle": "Rolling",
+  "access": "open"
+ },
+ {
+  "funder": "Cornell limited submissions",
+  "category": "aggregator_early_signal",
+  "link": "https://researchservices.cornell.edu/resources/limited-submissions-funding-opportunities",
+  "link_verified": true,
+  "cycle": "Rolling",
+  "access": "open"
+ },
+ {
+  "funder": "University at Buffalo limited submissions",
+  "category": "aggregator_early_signal",
+  "link": "https://www.buffalo.edu/research/research-services/find-funding/limited-submission-funding-opportunities.html",
+  "link_verified": true,
+  "cycle": "Rolling",
+  "access": "open"
+ },
+ {
+  "funder": "Syracuse University limited submissions",
+  "category": "aggregator_early_signal",
+  "link": "https://research.syracuse.edu/research-development/limited-submissions",
+  "link_verified": true,
+  "cycle": "Rolling",
+  "access": "open"
+ },
+ {
+  "funder": "Johns Hopkins limited submissions",
+  "category": "aggregator_early_signal",
+  "link": "https://research.jhu.edu/funding-opportunities/limited-submissions",
+  "link_verified": true,
+  "cycle": "Rolling",
+  "access": "open"
+ },
+ {
+  "funder": "UC San Diego limited submissions",
+  "category": "aggregator_early_signal",
+  "link": "https://researchdevelopment.ucsd.edu/funding/limited-submissions.html",
+  "link_verified": true,
+  "cycle": "Rolling",
+  "access": "open"
+ },
+ {
+  "funder": "University of Rochester limited submissions",
+  "category": "aggregator_early_signal",
+  "link": "https://www.rochester.edu/university-research/awards/limited-submission-opportunities/",
+  "link_verified": true,
+  "cycle": "Rolling",
+  "access": "open"
+ },
+ {
+  "funder": "Northwestern ORD find funding",
+  "category": "aggregator_early_signal",
+  "link": "https://ord.northwestern.edu/funding/",
+  "link_verified": true,
+  "cycle": "Rolling",
+  "access": "open"
+ },
+ {
+  "funder": "NAIRR Pilot (NSF National AI Research Resource)",
+  "category": "federal_niche",
+  "link": "https://nairrpilot.org/opportunities/allocations",
+  "link_verified": false,
+  "cycle": "Rolling, plus periodic calls and Start-Up requests",
+  "access": "open"
+ },
+ {
+  "funder": "Qualcomm Innovation Fellowship North America and Qualcomm Faculty Award",
+  "category": "industry_longtail",
+  "link": "https://www.qualcomm.com/research/university-relations/innovation-fellowship/2027-north-america",
+  "link_verified": false,
+  "cycle": "Annual, launches Oct, deadline late Nov or early Dec",
+  "access": "invitation"
+ },
+ {
+  "funder": "Okawa Foundation for Information and Telecommunications (US Research Grants)",
+  "category": "foundation_general",
+  "link": "https://www.sf.us.emb-japan.go.jp/itpr_en/24_1203.html",
+  "link_verified": false,
+  "cycle": "Annual, awards announced Sep to Dec",
+  "access": "invitation"
+ },
+ {
+  "funder": "Snap Research (academic programs)",
+  "category": "industry_longtail",
+  "link": "https://research.snap.com/fellowships",
+  "link_verified": false,
+  "cycle": "PhD fellowship annual with fall deadline. Faculty gifts ad hoc",
+  "access": "nomination"
+ },
+ {
+  "funder": "AMD University Program / AI and HPC Fund",
+  "category": "industry_longtail",
+  "link": "https://www.amd.com/en/corporate/university-program/ai-hpc-cluster.html",
+  "link_verified": false,
+  "cycle": "Rolling proposals",
+  "access": "open"
+ },
+ {
+  "funder": "NEC Laboratories America",
+  "category": "industry_longtail",
+  "link": "https://www.nec.com/en/global/rd/labs/america/index.html",
+  "link_verified": false,
+  "cycle": "No public call. Gifts and collaborations ad hoc",
+  "access": "invitation"
+ },
+ {
+  "funder": "Toyota Research Institute (University Research Program)",
+  "category": "industry_longtail",
+  "link": "https://www.tri.global/university-research",
+  "link_verified": false,
+  "cycle": "Multi-year program phases (URP 3.0 announced). No open public call",
+  "access": "invitation"
+ },
+ {
+  "funder": "The Home Depot (academic research)",
+  "category": "industry_longtail",
+  "link": "https://uidp.org/?p=20376",
+  "link_verified": false,
+  "cycle": "No public cycle",
+  "access": "invitation"
+ },
+ {
+  "funder": "DHS Science and Technology Directorate (COE program and LRBAA)",
+  "category": "defense_niche",
+  "link": "https://www.dhs.gov/science-and-technology/centers-excellence-and-academia",
+  "link_verified": false,
+  "cycle": "COE lead competitions every several years, LRBAA open continuously with white paper first",
+  "access": "open"
+ },
+ {
+  "funder": "eBay research academic awards",
+  "category": "industry_longtail",
+  "link": "https://cis.cornell.edu/cis-research-professor-receives-ebay-grant",
+  "link_verified": false,
+  "cycle": "No public cycle",
+  "access": "invitation"
+ },
+ {
+  "funder": "Lambda Research Grant program",
+  "category": "industry_longtail",
+  "link": "https://lambda.ai/research",
+  "link_verified": false,
+  "cycle": "Rolling",
+  "access": "open"
+ },
+ {
+  "funder": "Oracle for Research (cloud credits)",
+  "category": "industry_longtail",
+  "link": "https://www.oracle.com/ca-fr/research/project-awards/",
+  "link_verified": false,
+  "cycle": "Rolling",
+  "access": "open"
+ },
+ {
+  "funder": "ARPA-H (Advanced Research Projects Agency for Health)",
+  "category": "federal_niche",
+  "link": "https://arpa-h.gov/explore-funding",
+  "link_verified": false,
+  "cycle": "Rolling open BAA plus program-specific solicitations with set deadlines",
+  "access": "open"
+ },
+ {
+  "funder": "Alexander von Humboldt Foundation (Humboldt Research Fellowship for experienced researchers)",
+  "category": "foundation_general",
+  "link": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship",
+  "link_verified": false,
+  "cycle": "Rolling, apply any time, decisions about 3 times a year",
+  "access": "open"
+ },
+ {
+  "funder": "MathWorks academic research support",
+  "category": "industry_longtail",
+  "link": "https://www.mathworks.com/academia/research/research-collaborations.html",
+  "link_verified": false,
+  "cycle": "Occasional calls and ad hoc proposals via MathWorks academic team",
+  "access": "unknown"
+ },
+ {
+  "funder": "NDIF National Deep Inference Fabric",
+  "category": "federal_niche",
+  "link": "https://ndif.us/",
+  "link_verified": false,
+  "cycle": "Rolling (account signup for remote access)",
+  "access": "open"
+ },
+ {
+  "funder": "Thinking Machines Lab Tinker research grants",
+  "category": "industry_longtail",
+  "link": "https://thinkingmachines.ai/news/tinker-research-and-teaching-grants/",
+  "link_verified": false,
+  "cycle": "Periodic themed calls",
+  "access": "open"
+ },
+ {
+  "funder": "Nebius research credits program",
+  "category": "industry_longtail",
+  "link": "https://nebius.com/nebius-research-credits-program",
+  "link_verified": false,
+  "cycle": "Rolling",
+  "access": "open"
+ },
+ {
+  "funder": "Modal academic compute credits",
+  "category": "industry_longtail",
+  "link": "https://modal.com/academics",
+  "link_verified": false,
+  "cycle": "Rolling",
+  "access": "open"
+ },
+ {
+  "funder": "Cohere Labs research grants (Cohere For AI)",
+  "category": "industry_longtail",
+  "link": "https://cohere.com/research/grants",
+  "link_verified": false,
+  "cycle": "Rolling",
+  "access": "open"
+ },
+ {
+  "funder": "Laude Institute (Slingshots / Moonshots)",
+  "category": "foundation_general",
+  "link": "https://www.laude.org/",
+  "link_verified": false,
+  "cycle": "Cohort based (Slingshots ONE, TWO, THREE so far)",
+  "access": "open"
+ },
+ {
+  "funder": "FAR.AI research grants",
+  "category": "ai_safety_philanthropy",
+  "link": "https://far.ai/programs/grantmaking",
+  "link_verified": false,
+  "cycle": "Unknown, likely periodic or rolling",
+  "access": "unknown"
+ },
+ {
+  "funder": "Gates Foundation Grand Challenges",
+  "category": "adjacent_domain",
+  "link": "https://gcgh.grandchallenges.org/challenge/2026-grand-challenges-annual-meeting-call-action",
+  "link_verified": false,
+  "cycle": "Rolling topic RFPs, several per year",
+  "access": "open"
+ },
+ {
+  "funder": "United States Israel Binational Science Foundation (BSF and NSF-BSF)",
+  "category": "federal_niche",
+  "link": "https://trdf.technion.ac.il/en/calls-for-proposals/nsf-bsf-programs/",
+  "link_verified": false,
+  "cycle": "NSF-BSF follows NSF CISE core deadlines, BSF regular grants annual",
+  "access": "open"
+ },
+ {
+  "funder": "dkNET (NIDDK Information Network) AI pilot awards",
+  "category": "adjacent_domain",
+  "link": "https://dknet.org/about/ai-pilot",
+  "link_verified": false,
+  "cycle": "Annual pilot call, small awards for about one year",
+  "access": "open"
+ },
+ {
+  "funder": "NBME Stemmler Medical Education Research Fund",
+  "category": "adjacent_domain",
+  "link": "https://www.nbme.org/contributions/assessment/stemmler-grants/",
+  "link_verified": false,
+  "cycle": "Annual, letter of intent in spring then invited full proposal",
+  "access": "open"
+ },
+ {
+  "funder": "Teach Access faculty grants and Curriculum Development Awards",
+  "category": "foundation_general",
+  "link": "https://www.teachaccess.org/initiatives/grants/faqs/",
+  "link_verified": false,
+  "cycle": "Annual call around spring for awards in following academic year",
+  "access": "open"
+ },
+ {
+  "funder": "National Institute of Justice (NIJ)",
+  "category": "federal_niche",
+  "link": "https://nij.ojp.gov/funding",
+  "link_verified": false,
+  "cycle": "Annual NOFOs posted roughly Jan to Apr with spring deadlines",
+  "access": "open"
+ },
+ {
+  "funder": "NHTSA research (USDOT)",
+  "category": "federal_niche",
+  "link": "https://www.transportation.gov/sites/dot.gov/files/2026-09/AMRP%20FY2026-2027%20NHTSA.pdf",
+  "link_verified": false,
+  "cycle": "Ad hoc cooperative agreements and contracts posted on Grants.gov and SAM.gov",
+  "access": "open"
+ },
+ {
+  "funder": "CHEST NSF IUCRC (Center for Hardware and Embedded Systems Security and Trust)",
+  "category": "federal_niche",
+  "link": "https://iucrc.nsf.gov/centers/center-for-hardware-and-embedded-system-security-and-trust",
+  "link_verified": false,
+  "cycle": "Member-voted projects at semiannual IAB meetings. New sites via NSF IUCRC site proposals",
+  "access": "invitation"
+ },
+ {
+  "funder": "Arm University Program and Arm research gifts",
+  "category": "industry_longtail",
+  "link": "https://arm.com/resources/research/collaborations",
+  "link_verified": false,
+  "cycle": "Teaching and IP access open year round. Research gifts ad hoc",
+  "access": "invitation"
+ },
+ {
+  "funder": "American Philosophical Society Franklin Research Grants",
+  "category": "foundation_general",
+  "link": "https://www.amphilsoc.org/grants/franklin-research-grants",
+  "link_verified": false,
+  "cycle": "Twice yearly, deadlines Oct 1 and Dec 1",
+  "access": "open"
+ },
+ {
+  "funder": "New York State DOT Transportation Research and Development Bureau",
+  "category": "new_york_regional",
+  "link": "https://www.dot.ny.gov/divisions/engineering/technical-services/transportation-research-development",
+  "link_verified": false,
+  "cycle": "Annual SPR research problem statements and project selection, often via UTC or consultant contracts",
+  "access": "limited_submission"
+ },
+ {
+  "funder": "Open Technology Fund (OTF)",
+  "category": "foundation_general",
+  "link": "https://www.opentech.fund/funds/",
+  "link_verified": false,
+  "cycle": "Rolling concept notes with periodic review rounds",
+  "access": "open"
+ },
+ {
+  "funder": "Griffiss Institute (Information Institute with AFRL/RI)",
+  "category": "new_york_regional",
+  "link": "https://www.griffissinstitute.org/information-institute/",
+  "link_verified": false,
+  "cycle": "Visiting Faculty Research Program summer residencies plus rolling collaborative projects",
+  "access": "open"
+ },
+ {
+  "funder": "DOE Sandia National Labs (Sandia Academic Alliance / University Partnerships Network)",
+  "category": "federal_niche",
+  "link": "https://www.sandia.gov/working-with-sandia/academic-partnerships/sandia-academic-alliance-program/",
+  "link_verified": false,
+  "cycle": "Annual alliance funding to fixed partner universities. Other work via LDRD subcontracts year round",
+  "access": "invitation"
+ },
+ {
+  "funder": "DOE Lawrence Livermore National Lab (university collaborations)",
+  "category": "federal_niche",
+  "link": "https://st.llnl.gov/about-us/AEO/university-collaborations",
+  "link_verified": false,
+  "cycle": "LDRD and program subcontracts year round. Academic Collaboration Teams and institutes on internal cycles",
+  "access": "invitation"
+ },
+ {
+  "funder": "Siemens EDA academic program",
+  "category": "industry_longtail",
+  "link": "https://www.sw.siemens.com/en-US/academic/educators/eda-higher-education-software",
+  "link_verified": false,
+  "cycle": "Software grants open year round. Research gifts ad hoc",
+  "access": "open"
+ },
+ {
+  "funder": "Anthropic (Fellows Program and AI for Science)",
+  "category": "industry_longtail",
+  "link": "https://support.claude.com/en/articles/11199177-anthropics-ai-for-science-program",
+  "link_verified": true,
+  "cycle": "AI for Science monthly review. Fellows rolling cohorts",
+  "access": "open"
+ },
+ {
+  "funder": "OpenAI Researcher Access Program",
+  "category": "industry_longtail",
+  "link": "https://grants.openai.com/prog/openai_researcher_access_program/",
+  "link_verified": true,
+  "cycle": "Quarterly review",
+  "access": "open"
+ },
+ {
+  "funder": "Corrigibility Research Fund (Lightcone)",
+  "category": "ai_safety_philanthropy",
+  "link": "https://corrigibilityresearch.org/",
+  "link_verified": true,
+  "cycle": "Rounds",
+  "access": "open"
+ },
+ {
+  "funder": "Lightcone Commons",
+  "category": "ai_safety_philanthropy",
+  "link": "https://www.lightconecommons.com/apply",
+  "link_verified": true,
+  "cycle": "About quarterly S-Process rounds",
+  "access": "open"
+ },
+ {
+  "funder": "Iliad",
+  "category": "ai_safety_philanthropy",
+  "link": "https://www.iliad.ac/funding",
+  "link_verified": true,
+  "cycle": "Open call plus RFP",
+  "access": "open"
+ },
+ {
+  "funder": "GTR Foundation AI Safety Fund",
+  "category": "ai_safety_philanthropy",
+  "link": "https://www.gtr-foundation.org/gtr-ai-safety-fund",
+  "link_verified": true,
+  "cycle": "Rolling",
+  "access": "open"
+ },
+ {
+  "funder": "AI Alignment Foundation",
+  "category": "ai_safety_philanthropy",
+  "link": "https://www.aialignmentfoundation.org/approach/apply",
+  "link_verified": true,
+  "cycle": "Rolling",
+  "access": "open"
+ },
+ {
+  "funder": "Astralis Foundation and Macroscopic Ventures (Middle Powers)",
+  "category": "ai_safety_philanthropy",
+  "link": "https://middlepowers.ai/",
+  "link_verified": true,
+  "cycle": "RFP based",
+  "access": "open"
+ },
+ {
+  "funder": "Paradigm 3",
+  "category": "ai_safety_philanthropy",
+  "link": "https://www.paradigm3.org/research/fund",
+  "link_verified": true,
+  "cycle": "No formal call",
+  "access": "invitation"
+ },
+ {
+  "funder": "Halcyon Futures",
+  "category": "ai_safety_philanthropy",
+  "link": "https://www.halcyonfutures.org/",
+  "link_verified": false,
+  "cycle": "Unknown",
+  "access": "unknown"
+ },
+ {
+  "funder": "FNIH Music as Medicine",
+  "category": "adjacent_domain",
+  "link": "https://fnih.org/our-programs/powering-science/music-as-medicine/",
+  "link_verified": true,
+  "cycle": "Annual nomination cycle",
+  "access": "nomination"
+ },
+ {
+  "funder": "Unconventional AI (Unconventional Grant)",
+  "category": "industry_longtail",
+  "link": "https://unconv.ai/grant/",
+  "link_verified": true,
+  "cycle": "Annual, 2026 closed Jul 28",
+  "access": "open"
+ },
+ {
+  "funder": "Genesis Mission Consortium",
+  "category": "aggregator_early_signal",
+  "link": "https://www.nextgov.com/artificial-intelligence/2026/10/white-house-unveils-billions-investments-genesis-mission/416517/",
+  "link_verified": false,
+  "cycle": "Announced 2026-10-08",
+  "access": "unknown"
+ },
+ {
+  "funder": "IARPA Solutions Marketplace",
+  "category": "defense_niche",
+  "link": "https://www.iarpa.gov/",
+  "link_verified": false,
+  "cycle": "Rolling monthly review through 2027-07-31",
+  "access": "unknown"
+ },
+ {
+  "funder": "AIMO Interpretability Challenge",
+  "category": "aggregator_early_signal",
+  "link": "https://aimo-interp.github.io/",
+  "link_verified": true,
+  "cycle": "Competition tied to NeurIPS",
+  "access": "open"
+ },
+ {
+  "funder": "AFOSR Open BAA",
+  "category": "defense_niche",
+  "link": "https://simpler.grants.gov/opportunity/de479d2e-aad1-466a-acc3-d5d11cf7918d",
+  "link_verified": true,
+  "cycle": "Open until superseded",
+  "access": "open"
+ },
+ {
+  "funder": "ORAU Ralph E. Powe Junior Faculty Enhancement Awards",
+  "category": "foundation_general",
+  "link": "https://www.orau.org/partnerships/grant-programs/powe/index.html",
+  "link_verified": true,
+  "cycle": "Annual, sponsor deadline early Jan",
+  "access": "limited_submission"
+ },
+ {
+  "funder": "Schmidt Sciences AI Interpretability program",
+  "category": "ai_safety_interp",
+  "link": "https://www.schmidtsciences.org/ai-interpretability/",
+  "link_verified": true,
+  "cycle": "No RFP yet, watch for call",
+  "access": "open"
+ },
+ {
+  "funder": "Center on Long-Term Risk Fund",
+  "category": "ai_safety_interp",
+  "link": "https://longtermrisk.org/grantmaking/",
+  "link_verified": false,
+  "cycle": "Rolling",
+  "access": "unknown"
+ },
+ {
+  "funder": "Microsoft AI for Accessibility",
+  "category": "industry_longtail",
+  "link": "https://www.microsoft.com/en-us/ai/ai-for-accessibility",
+  "link_verified": false,
+  "cycle": "Irregular, currently closed",
+  "access": "open"
+ },
+ {
+  "funder": "FHWA Exploratory Advanced Research",
+  "category": "federal_niche",
+  "link": "https://highways.dot.gov/research/exploratory-advanced-research/funding-opportunities",
+  "link_verified": false,
+  "cycle": "Irregular BAAs, FY26 Data Science BAA 693JJ3-26-BAA-0006 unverified",
+  "access": "open"
+ },
+ {
+  "funder": "IMLS grants",
+  "category": "federal_niche",
+  "link": "https://www.imls.gov/grants/available",
+  "link_verified": false,
+  "cycle": "Annual NLG and LB21, Nov deadline",
+  "access": "open"
+ },
+ {
+  "funder": "USGS WRRA 104g via NY WRRI",
+  "category": "adjacent_domain",
+  "link": "https://simpler.grants.gov/opportunity/2c5fcf26-2264-42ae-9bc9-60f591fd770c",
+  "link_verified": true,
+  "cycle": "Annual, Nov",
+  "access": "via_institute"
+ },
+ {
+  "funder": "NSF Open Knowledge Network / Proto-OKN",
+  "category": "federal_niche",
+  "link": "https://www.nsf.gov/tip",
+  "link_verified": false,
+  "cycle": "Launched 2026-09-25, follow-on calls TBD",
+  "access": "open"
+ },
+ {
+  "funder": "Gallaudet DHH-RERC (NIDILRR)",
+  "category": "partner_route",
+  "link": "https://gallaudet.edu/university-communications/technology-access-program-receives-4-625-million-federal-research-grant-to-advance-accessibility-for-deaf-and-hard-of-hearing-people/",
+  "link_verified": true,
+  "cycle": "RERC 2024 to 2029",
+  "access": "partner"
+ },
+ {
+  "funder": "NIA AITC Coordinating Center (AITCC) and MassAITC annual pilots",
+  "category": "federal_niche",
+  "link": "https://aitcc.ai/rfa/aitc-ara-27-001",
+  "link_verified": true,
+  "cycle": "Annual call released Oct, LOI mid Nov",
+  "access": "open"
+ },
+ {
+  "funder": "Rockefeller Foundation",
+  "category": "foundation_general",
+  "link": "https://www.rockefellerfoundation.org/cities-deliver-ai-solutions-for-public-services/",
+  "link_verified": true,
+  "cycle": "Irregular large calls",
+  "access": "limited"
+ },
+ {
+  "funder": "OpenAI Foundation",
+  "category": "foundation_general",
+  "link": "https://openaifoundation.org/news/2026-people-first-ai-fund",
+  "link_verified": false,
+  "cycle": "Unknown",
+  "access": "unknown"
+ },
+ {
+  "funder": "Alzheimer's Disease Data Initiative (ADDI)",
+  "category": "adjacent_domain",
+  "link": "https://www.alzheimersdata.org/accelerating-research/ai-explorations",
+  "link_verified": false,
+  "cycle": "Challenges and prizes",
+  "access": "open"
+ },
+ {
+  "funder": "Intuit Faculty Research Awards (IFRA)",
+  "category": "industry_longtail",
+  "link": "https://digitalasset.intuit.com/render/content/dam/intuit/ic/en_us/content/IFRA2026_RFP.pdf",
+  "link_verified": false,
+  "cycle": "Annual, window around March",
+  "access": "open"
+ },
+ {
+  "funder": "USACE ERDC BAA (ERDCWERX)",
+  "category": "defense_niche",
+  "link": "https://simpler.grants.gov/opportunity/98696099-8a71-4a7c-8e2d-1dfcf3817f75",
+  "link_verified": true,
+  "cycle": "Rolling BAA",
+  "access": "open"
+ },
+ {
+  "funder": "Army Contracting Command Rock Island Fundamental AI Research BAA",
+  "category": "defense_niche",
+  "link": "https://simpler.grants.gov/opportunity/f3b7c04e-a364-4193-9c76-96aea974d618",
+  "link_verified": true,
+  "cycle": "Forecast",
+  "access": "open"
+ },
+ {
+  "funder": "ESD NeuroCatalyst Commercialization Fund",
+  "category": "new_york_regional",
+  "link": "https://esd.ny.gov/doing-business-ny/requests-proposals/request-proposals-neurocatalyst-commercialization-fund",
+  "link_verified": true,
+  "cycle": "Annual cycles after administrator chosen Jan 2027",
+  "access": "open"
+ },
+ {
+  "funder": "Google.org Impact Challenge AI for Science",
+  "category": "industry_longtail",
+  "link": "https://www.edtechinnovationhub.com/news/googleorg-awards-36m-to-17-ai-science-projects-including-cambridge-and-mit",
+  "link_verified": false,
+  "cycle": "Irregular",
+  "access": "open"
+ },
+ {
+  "funder": "Anthropic Public Benefit Fund",
+  "category": "foundation_general",
+  "link": "https://www.anthropic.com/news/public-benefit-fund",
+  "link_verified": false,
+  "cycle": "TBD",
+  "access": "unknown"
+ },
+ {
+  "funder": "BlueDot Impact grants",
+  "category": "ai_safety_philanthropy",
+  "link": "https://bluedot.org/",
+  "link_verified": false,
+  "cycle": "Rolling",
+  "access": "open"
+ }
+]
