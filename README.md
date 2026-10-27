@@ -1,7 +1,7 @@
 # Computing research funding
 
 Open calls for research funding in AI and computing, from federal agencies, foundations and
-industry, swept twice a week. **127 open now, 57 rolling**, out of
+industry, swept twice a week. **121 open now, 57 rolling**, out of
 197 tracked, plus a watchlist of 192 funders checked on every sweep.
 
 **Browse it as a website:** [https://zhiqian.ai/funding](https://zhiqian.ai/funding)
@@ -10,18 +10,12 @@ industry, swept twice a week. **127 open now, 57 rolling**, out of
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-10-24 (brief of 2026-10-23). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
+Last synced 2026-10-27 (brief of 2026-10-23). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
 
 ## Open calls, soonest first
 
 | Deadline | Sponsor | Program | Type | Award |
 |---|---|---|---|---|
-| 2026-10-26 | NIH | [AREA R15 PAR-25-134](https://grants.nih.gov/grants/guide/pa-files/PAR-25-134.html) | Federal |  |
-| 2026-10-26 | NIH NIDCD | [Strategic Plan 2028 to 2032 RFI](https://www.federalregister.gov/documents/2026/08/25/2026-17311/request-for-information-rfi-request-for-information-on-new-and-emerging-areas-of-science-relevant-to) | Federal |  |
-| 2026-10-26 | NOAA OAR CPO | [ESSSP NOAA-OAR-CPO-2026-33326](https://simpler.grants.gov/opportunity/b00bdf4a-dceb-4714-b4ab-7139bef86dae) | Federal |  |
-| 2026-10-26 | NYS ESD | [Downstate Semiconductor Chip Design Center RFA (partner only)](https://esd.ny.gov/doing-business-ny/requests-proposals/downstate-semiconductor-chip-design-center-rfa) | State |  |
-| 2026-10-26 | UR CTSI | [Pilot Studies TS01](https://www.urmc.rochester.edu/clinical-translational-science-institute/funding/request-for-applications-pilot-studies) | University |  |
-| 2026-10-26 | Water Research Foundation | [RFP 5409 and others](https://portal.waterrf.org/outbound-grants) | Foundation |  |
 | 2026-10-27 | DARPA MXO | [APM DARPA-PS-26-141](https://www.bwcoconsulting.com/fod/darpa-apm-darpa-ps-26-141) | Federal |  |
 | 2026-10-27 | John A. Hartford Foundation | [2026 Call for Proposals](https://www.johnahartford.org/grants-strategy/2026-call-for-proposals) | Foundation |  |
 | 2026-10-28 | CDC | [1CDP Innovation Challenge (ineligible)](https://www.usa.gov/challenges/1cdp-innovation-challenge) | Federal |  |

@@ -1,83 +1,5 @@
 [
  {
-  "sponsor": "NIH",
-  "program": "AREA R15 PAR-25-134",
-  "category": "Federal",
-  "deadline": "2026-10-26",
-  "next_deadline": "2026-10-26",
-  "status": "open",
-  "award": "",
-  "summary": "Research at a campus that is not research-intensive, with undergraduates involved.",
-  "eligibility": "",
-  "link": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-134.html",
-  "first_seen": "2026-10-09"
- },
- {
-  "sponsor": "NIH NIDCD",
-  "program": "Strategic Plan 2028 to 2032 RFI",
-  "category": "Federal",
-  "deadline": "2026-10-26",
-  "next_deadline": "2026-10-26",
-  "status": "open",
-  "award": "",
-  "summary": "A request for comment, not a funding call.",
-  "eligibility": "",
-  "link": "https://www.federalregister.gov/documents/2026/08/25/2026-17311/request-for-information-rfi-request-for-information-on-new-and-emerging-areas-of-science-relevant-to",
-  "first_seen": "2026-10-14"
- },
- {
-  "sponsor": "NOAA OAR CPO",
-  "program": "ESSSP NOAA-OAR-CPO-2026-33326",
-  "category": "Federal",
-  "deadline": "2026-10-26",
-  "next_deadline": "2026-10-26",
-  "status": "open",
-  "award": "",
-  "summary": "A federal research call.",
-  "eligibility": "",
-  "link": "https://simpler.grants.gov/opportunity/b00bdf4a-dceb-4714-b4ab-7139bef86dae",
-  "first_seen": "2026-10-16"
- },
- {
-  "sponsor": "NYS ESD",
-  "program": "Downstate Semiconductor Chip Design Center RFA (partner only)",
-  "category": "State",
-  "deadline": "concept 2026-10-26",
-  "next_deadline": "2026-10-26",
-  "status": "open",
-  "award": "",
-  "summary": "A New York State programme.",
-  "eligibility": "",
-  "link": "https://esd.ny.gov/doing-business-ny/requests-proposals/downstate-semiconductor-chip-design-center-rfa",
-  "first_seen": "2026-10-16"
- },
- {
-  "sponsor": "UR CTSI",
-  "program": "Pilot Studies TS01",
-  "category": "University",
-  "deadline": "LOI 2026-10-26",
-  "next_deadline": "2026-10-26",
-  "status": "open",
-  "award": "",
-  "summary": "A small starter award, usually to produce preliminary data.",
-  "eligibility": "",
-  "link": "https://www.urmc.rochester.edu/clinical-translational-science-institute/funding/request-for-applications-pilot-studies",
-  "first_seen": "2026-10-14"
- },
- {
-  "sponsor": "Water Research Foundation",
-  "program": "RFP 5409 and others",
-  "category": "Foundation",
-  "deadline": "2026-10-26",
-  "next_deadline": "2026-10-26",
-  "status": "open",
-  "award": "",
-  "summary": "An open call, with the funder setting the topic.",
-  "eligibility": "",
-  "link": "https://portal.waterrf.org/outbound-grants",
-  "first_seen": "2026-10-14"
- },
- {
   "sponsor": "DARPA MXO",
   "program": "APM DARPA-PS-26-141",
   "category": "Federal",
@@ -2471,6 +2393,19 @@
  },
  {
   "sponsor": "NIH",
+  "program": "AREA R15 PAR-25-134",
+  "category": "Federal",
+  "deadline": "2026-10-26",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "Research at a campus that is not research-intensive, with undergraduates involved.",
+  "eligibility": "",
+  "link": "https://grants.nih.gov/grants/guide/pa-files/PAR-25-134.html",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "sponsor": "NIH",
   "program": "Parent R21 PA-25-304 and R03 PA-25-302",
   "category": "Federal",
   "deadline": "2026-10-16",
@@ -2522,6 +2457,32 @@
   "first_seen": "2026-10-09"
  },
  {
+  "sponsor": "NIH NIDCD",
+  "program": "Strategic Plan 2028 to 2032 RFI",
+  "category": "Federal",
+  "deadline": "2026-10-26",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "A request for comment, not a funding call.",
+  "eligibility": "",
+  "link": "https://www.federalregister.gov/documents/2026/08/25/2026-17311/request-for-information-rfi-request-for-information-on-new-and-emerging-areas-of-science-relevant-to",
+  "first_seen": "2026-10-14"
+ },
+ {
+  "sponsor": "NOAA OAR CPO",
+  "program": "ESSSP NOAA-OAR-CPO-2026-33326",
+  "category": "Federal",
+  "deadline": "2026-10-26",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "A federal research call.",
+  "eligibility": "",
+  "link": "https://simpler.grants.gov/opportunity/b00bdf4a-dceb-4714-b4ab-7139bef86dae",
+  "first_seen": "2026-10-16"
+ },
+ {
   "sponsor": "NSF",
   "program": "RET Sites NSF 24-503",
   "category": "Federal",
@@ -2548,6 +2509,19 @@
   "first_seen": "2026-10-09"
  },
  {
+  "sponsor": "NYS ESD",
+  "program": "Downstate Semiconductor Chip Design Center RFA (partner only)",
+  "category": "State",
+  "deadline": "concept 2026-10-26",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "A New York State programme.",
+  "eligibility": "",
+  "link": "https://esd.ny.gov/doing-business-ny/requests-proposals/downstate-semiconductor-chip-design-center-rfa",
+  "first_seen": "2026-10-16"
+ },
+ {
   "sponsor": "Russell Sage Foundation",
   "program": "Pipeline Grants, Core LOI, MOS Grants (unverified)",
   "category": "Foundation",
@@ -2559,5 +2533,31 @@
   "eligibility": "",
   "link": "https://www.russellsage.org/how-to-apply",
   "first_seen": "2026-10-16"
+ },
+ {
+  "sponsor": "UR CTSI",
+  "program": "Pilot Studies TS01",
+  "category": "University",
+  "deadline": "LOI 2026-10-26",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "A small starter award, usually to produce preliminary data.",
+  "eligibility": "",
+  "link": "https://www.urmc.rochester.edu/clinical-translational-science-institute/funding/request-for-applications-pilot-studies",
+  "first_seen": "2026-10-14"
+ },
+ {
+  "sponsor": "Water Research Foundation",
+  "program": "RFP 5409 and others",
+  "category": "Foundation",
+  "deadline": "2026-10-26",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "An open call, with the funder setting the topic.",
+  "eligibility": "",
+  "link": "https://portal.waterrf.org/outbound-grants",
+  "first_seen": "2026-10-14"
  }
 ]
