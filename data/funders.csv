@@ -191,3 +191,39 @@ ESD NeuroCatalyst Commercialization Fund,new_york_regional,https://esd.ny.gov/do
 Google.org Impact Challenge AI for Science,industry_longtail,https://www.edtechinnovationhub.com/news/googleorg-awards-36m-to-17-ai-science-projects-including-cambridge-and-mit,false,Irregular,open
 Anthropic Public Benefit Fund,foundation_general,https://www.anthropic.com/news/public-benefit-fund,false,TBD,unknown
 BlueDot Impact grants,ai_safety_philanthropy,https://bluedot.org/,false,Rolling,open
+Arena Academic Partnerships Program,industry_longtail,https://arena.ai/blog/academic-program-fall-2026,true,"Two cycles per year, spring and fall",open
+UCSF Music and Dementia Research Network (NIH U24 Music Networks),health_accessibility,https://mdrn.ucsf.edu/funding-opportunities,true,"Annual pilot RFA, posted Sept, due Nov",open
+UCI ENSEMBLE Network (NIH U24 music and pain),health_accessibility,https://ssihi.uci.edu/research/ensemble-network/pilot-research-program,true,Pilot program 2025 to 2027,open
+Music Man Foundation (Meredith Willson Pilot Research Grants),health_accessibility,https://www.musicmanfoundation.org/2025-meredith-willson-pilot-research-grants,true,"Unclear, 2025 cycle",unknown
+Google Academic Research Awards,industry_longtail,https://research.google/programs-and-events/google-academic-research-awards/,true,"Themed calls, 2026 was quantum",open
+Meta Research Awards (RFPs),industry_longtail,https://research.facebook.com/research-awards/,true,Irregular RFPs,open
+FAA Aviation Research Grants Program,federal_niche,https://simpler.grants.gov/opportunity/721d5c2c-af72-4c33-8ce6-013b1e8ad59b,true,"Standing unsolicited, open to 2027-09-07",open
+Yotta Labs Academic Research Credit Program,compute,https://www.yottalabs.ai/post/research-credits-update,true,Rolling,open
+RNID Discovery Grants,health_accessibility,https://rnid.org.uk/,false,"Annual, 2026 closed 2026-09-10",open
+NYS DOH funding opportunities,new_york_regional,https://www.health.ny.gov/funding/,true,Rolling RFAs,open
+ENERGYWERX,federal_niche,https://www.energywerx.org/opportunities,false,Rolling vouchers and prizes,open
+Eastman Performing Arts Medicine (URMC) pilot awards,new_york_regional,https://www.urmc.rochester.edu/eastman-performance-medicine/research,false,"Annual, LOI around Nov",partner_only
+National Organization for Hearing Research Foundation,health_accessibility,https://www.nohr.org/,false,Unknown,unknown
+NIH Challenges and Prize Competitions (NIH wide),prize_challenge,https://www.nih.gov/challenges,true,"Rolling, most launch Sept to Oct, close Jan to Feb",open
+CrowdPlat (NIH challenge host),prize_challenge,https://work.crowdplat.com/challenge/nih-temporal-knowledge-graph-challenge,false,Per NIH contract,open
+NIMHD SCHARE Grand Challenges,prize_challenge,https://www.nih.gov/challenges,true,"Fall launch, 2 to 3 phases over about 15 months",open
+DrivenData competitions,prize_challenge,https://www.drivendata.org/competitions/,true,"Several per year, many federal (NIA PREPARE, DOE)",open
+Kaggle competitions,prize_challenge,https://www.kaggle.com/competitions,false,Continuous,open
+AIcrowd challenges,prize_challenge,https://www.aicrowd.com/challenges,true,KDD Cup and NeurIPS rounds Mar to Oct,open
+ARC Prize,prize_challenge,https://arcprize.org/competitions/2026,true,"Annual, Mar launch, Nov close, Dec results",open
+NeurIPS competition track,prize_challenge,https://blog.neurips.cc/2026/07/28/neurips-2026-competitions-announced/,true,"Proposals due about May, run Jun to Oct, workshop Dec",open
+SemEval tasks,prize_challenge,https://semeval.github.io/SemEval2027/tasks,true,"Tasks chosen June, evaluation January, papers Feb",open
+ICASSP Grand Challenges,prize_challenge,https://2027.ieeeicassp.org/?p=5002,true,"Run Sept to Dec, 2 page papers due early Jan",open
+DCASE challenge,prize_challenge,https://dcase.community/,true,"Launch Apr 1, submit mid June, workshop Oct",open
+Cadenza Challenge,prize_challenge,https://cadenzachallenge.org/,true,"Yearly, tied to ICASSP or Interspeech",open
+Clarity Challenge,prize_challenge,https://claritychallenge.org/,true,About yearly,open
+ICCAD CAD Contest,prize_challenge,https://iccad-contest.org/,true,"Register Apr to May, final Aug, award Nov",open
+ISPD Contest,prize_challenge,https://github.com/ABKGroup/ISPD27-Contest,true,"Register Oct to Dec, final March",open
+MLCAD contest,prize_challenge,https://mlcad.org/,false,"With MLCAD symposium, Sept",unknown
+KDD Cup,prize_challenge,https://kdd2026.kdd.org/kdd-cup/,false,"Announced Feb to Mar, ends Jun to Jul",open
+Gray Swan Arena,prize_challenge,https://app.grayswan.ai/arena,true,"Continuous waves, 1 to 4 weeks each",open
+DARPA challenges,prize_challenge,https://www.darpa.mil/research/challenges,true,Irregular,open
+"NASA prizes, challenges and crowdsourcing (CoECI)",prize_challenge,https://www.nasa.gov/prizes-challenges-and-crowdsourcing/,true,"Rolling, student challenges Sept to Oct",open
+DOE American-Made Challenges,prize_challenge,https://americanmadeprogram.org/compete/prizes-and-competitions,false,"Rolling, many per year",open
+ACL Caregiver AI Prize Challenge,prize_challenge,https://acl.gov/caregiver-ai-competition,true,"Multi phase, Phase 1 closed 2026-07-31",open
+MIREX (ISMIR),prize_challenge,https://www.music-ir.org/mirex/wiki/MIREX_HOME,false,Aug to Oct before ISMIR,open

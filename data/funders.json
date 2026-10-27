@@ -1534,5 +1534,293 @@
   "link_verified": false,
   "cycle": "Rolling",
   "access": "open"
+ },
+ {
+  "funder": "Arena Academic Partnerships Program",
+  "category": "industry_longtail",
+  "link": "https://arena.ai/blog/academic-program-fall-2026",
+  "link_verified": true,
+  "cycle": "Two cycles per year, spring and fall",
+  "access": "open"
+ },
+ {
+  "funder": "UCSF Music and Dementia Research Network (NIH U24 Music Networks)",
+  "category": "health_accessibility",
+  "link": "https://mdrn.ucsf.edu/funding-opportunities",
+  "link_verified": true,
+  "cycle": "Annual pilot RFA, posted Sept, due Nov",
+  "access": "open"
+ },
+ {
+  "funder": "UCI ENSEMBLE Network (NIH U24 music and pain)",
+  "category": "health_accessibility",
+  "link": "https://ssihi.uci.edu/research/ensemble-network/pilot-research-program",
+  "link_verified": true,
+  "cycle": "Pilot program 2025 to 2027",
+  "access": "open"
+ },
+ {
+  "funder": "Music Man Foundation (Meredith Willson Pilot Research Grants)",
+  "category": "health_accessibility",
+  "link": "https://www.musicmanfoundation.org/2025-meredith-willson-pilot-research-grants",
+  "link_verified": true,
+  "cycle": "Unclear, 2025 cycle",
+  "access": "unknown"
+ },
+ {
+  "funder": "Google Academic Research Awards",
+  "category": "industry_longtail",
+  "link": "https://research.google/programs-and-events/google-academic-research-awards/",
+  "link_verified": true,
+  "cycle": "Themed calls, 2026 was quantum",
+  "access": "open"
+ },
+ {
+  "funder": "Meta Research Awards (RFPs)",
+  "category": "industry_longtail",
+  "link": "https://research.facebook.com/research-awards/",
+  "link_verified": true,
+  "cycle": "Irregular RFPs",
+  "access": "open"
+ },
+ {
+  "funder": "FAA Aviation Research Grants Program",
+  "category": "federal_niche",
+  "link": "https://simpler.grants.gov/opportunity/721d5c2c-af72-4c33-8ce6-013b1e8ad59b",
+  "link_verified": true,
+  "cycle": "Standing unsolicited, open to 2027-09-07",
+  "access": "open"
+ },
+ {
+  "funder": "Yotta Labs Academic Research Credit Program",
+  "category": "compute",
+  "link": "https://www.yottalabs.ai/post/research-credits-update",
+  "link_verified": true,
+  "cycle": "Rolling",
+  "access": "open"
+ },
+ {
+  "funder": "RNID Discovery Grants",
+  "category": "health_accessibility",
+  "link": "https://rnid.org.uk/",
+  "link_verified": false,
+  "cycle": "Annual, 2026 closed 2026-09-10",
+  "access": "open"
+ },
+ {
+  "funder": "NYS DOH funding opportunities",
+  "category": "new_york_regional",
+  "link": "https://www.health.ny.gov/funding/",
+  "link_verified": true,
+  "cycle": "Rolling RFAs",
+  "access": "open"
+ },
+ {
+  "funder": "ENERGYWERX",
+  "category": "federal_niche",
+  "link": "https://www.energywerx.org/opportunities",
+  "link_verified": false,
+  "cycle": "Rolling vouchers and prizes",
+  "access": "open"
+ },
+ {
+  "funder": "Eastman Performing Arts Medicine (URMC) pilot awards",
+  "category": "new_york_regional",
+  "link": "https://www.urmc.rochester.edu/eastman-performance-medicine/research",
+  "link_verified": false,
+  "cycle": "Annual, LOI around Nov",
+  "access": "partner_only"
+ },
+ {
+  "funder": "National Organization for Hearing Research Foundation",
+  "category": "health_accessibility",
+  "link": "https://www.nohr.org/",
+  "link_verified": false,
+  "cycle": "Unknown",
+  "access": "unknown"
+ },
+ {
+  "funder": "NIH Challenges and Prize Competitions (NIH wide)",
+  "category": "prize_challenge",
+  "link": "https://www.nih.gov/challenges",
+  "link_verified": true,
+  "cycle": "Rolling, most launch Sept to Oct, close Jan to Feb",
+  "access": "open"
+ },
+ {
+  "funder": "CrowdPlat (NIH challenge host)",
+  "category": "prize_challenge",
+  "link": "https://work.crowdplat.com/challenge/nih-temporal-knowledge-graph-challenge",
+  "link_verified": false,
+  "cycle": "Per NIH contract",
+  "access": "open"
+ },
+ {
+  "funder": "NIMHD SCHARE Grand Challenges",
+  "category": "prize_challenge",
+  "link": "https://www.nih.gov/challenges",
+  "link_verified": true,
+  "cycle": "Fall launch, 2 to 3 phases over about 15 months",
+  "access": "open"
+ },
+ {
+  "funder": "DrivenData competitions",
+  "category": "prize_challenge",
+  "link": "https://www.drivendata.org/competitions/",
+  "link_verified": true,
+  "cycle": "Several per year, many federal (NIA PREPARE, DOE)",
+  "access": "open"
+ },
+ {
+  "funder": "Kaggle competitions",
+  "category": "prize_challenge",
+  "link": "https://www.kaggle.com/competitions",
+  "link_verified": false,
+  "cycle": "Continuous",
+  "access": "open"
+ },
+ {
+  "funder": "AIcrowd challenges",
+  "category": "prize_challenge",
+  "link": "https://www.aicrowd.com/challenges",
+  "link_verified": true,
+  "cycle": "KDD Cup and NeurIPS rounds Mar to Oct",
+  "access": "open"
+ },
+ {
+  "funder": "ARC Prize",
+  "category": "prize_challenge",
+  "link": "https://arcprize.org/competitions/2026",
+  "link_verified": true,
+  "cycle": "Annual, Mar launch, Nov close, Dec results",
+  "access": "open"
+ },
+ {
+  "funder": "NeurIPS competition track",
+  "category": "prize_challenge",
+  "link": "https://blog.neurips.cc/2026/07/28/neurips-2026-competitions-announced/",
+  "link_verified": true,
+  "cycle": "Proposals due about May, run Jun to Oct, workshop Dec",
+  "access": "open"
+ },
+ {
+  "funder": "SemEval tasks",
+  "category": "prize_challenge",
+  "link": "https://semeval.github.io/SemEval2027/tasks",
+  "link_verified": true,
+  "cycle": "Tasks chosen June, evaluation January, papers Feb",
+  "access": "open"
+ },
+ {
+  "funder": "ICASSP Grand Challenges",
+  "category": "prize_challenge",
+  "link": "https://2027.ieeeicassp.org/?p=5002",
+  "link_verified": true,
+  "cycle": "Run Sept to Dec, 2 page papers due early Jan",
+  "access": "open"
+ },
+ {
+  "funder": "DCASE challenge",
+  "category": "prize_challenge",
+  "link": "https://dcase.community/",
+  "link_verified": true,
+  "cycle": "Launch Apr 1, submit mid June, workshop Oct",
+  "access": "open"
+ },
+ {
+  "funder": "Cadenza Challenge",
+  "category": "prize_challenge",
+  "link": "https://cadenzachallenge.org/",
+  "link_verified": true,
+  "cycle": "Yearly, tied to ICASSP or Interspeech",
+  "access": "open"
+ },
+ {
+  "funder": "Clarity Challenge",
+  "category": "prize_challenge",
+  "link": "https://claritychallenge.org/",
+  "link_verified": true,
+  "cycle": "About yearly",
+  "access": "open"
+ },
+ {
+  "funder": "ICCAD CAD Contest",
+  "category": "prize_challenge",
+  "link": "https://iccad-contest.org/",
+  "link_verified": true,
+  "cycle": "Register Apr to May, final Aug, award Nov",
+  "access": "open"
+ },
+ {
+  "funder": "ISPD Contest",
+  "category": "prize_challenge",
+  "link": "https://github.com/ABKGroup/ISPD27-Contest",
+  "link_verified": true,
+  "cycle": "Register Oct to Dec, final March",
+  "access": "open"
+ },
+ {
+  "funder": "MLCAD contest",
+  "category": "prize_challenge",
+  "link": "https://mlcad.org/",
+  "link_verified": false,
+  "cycle": "With MLCAD symposium, Sept",
+  "access": "unknown"
+ },
+ {
+  "funder": "KDD Cup",
+  "category": "prize_challenge",
+  "link": "https://kdd2026.kdd.org/kdd-cup/",
+  "link_verified": false,
+  "cycle": "Announced Feb to Mar, ends Jun to Jul",
+  "access": "open"
+ },
+ {
+  "funder": "Gray Swan Arena",
+  "category": "prize_challenge",
+  "link": "https://app.grayswan.ai/arena",
+  "link_verified": true,
+  "cycle": "Continuous waves, 1 to 4 weeks each",
+  "access": "open"
+ },
+ {
+  "funder": "DARPA challenges",
+  "category": "prize_challenge",
+  "link": "https://www.darpa.mil/research/challenges",
+  "link_verified": true,
+  "cycle": "Irregular",
+  "access": "open"
+ },
+ {
+  "funder": "NASA prizes, challenges and crowdsourcing (CoECI)",
+  "category": "prize_challenge",
+  "link": "https://www.nasa.gov/prizes-challenges-and-crowdsourcing/",
+  "link_verified": true,
+  "cycle": "Rolling, student challenges Sept to Oct",
+  "access": "open"
+ },
+ {
+  "funder": "DOE American-Made Challenges",
+  "category": "prize_challenge",
+  "link": "https://americanmadeprogram.org/compete/prizes-and-competitions",
+  "link_verified": false,
+  "cycle": "Rolling, many per year",
+  "access": "open"
+ },
+ {
+  "funder": "ACL Caregiver AI Prize Challenge",
+  "category": "prize_challenge",
+  "link": "https://acl.gov/caregiver-ai-competition",
+  "link_verified": true,
+  "cycle": "Multi phase, Phase 1 closed 2026-07-31",
+  "access": "open"
+ },
+ {
+  "funder": "MIREX (ISMIR)",
+  "category": "prize_challenge",
+  "link": "https://www.music-ir.org/mirex/wiki/MIREX_HOME",
+  "link_verified": false,
+  "cycle": "Aug to Oct before ISMIR",
+  "access": "open"
  }
 ]
