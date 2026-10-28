@@ -1,7 +1,7 @@
 # Computing research funding
 
 Open calls for research funding in AI and computing, from federal agencies, foundations and
-industry, swept twice a week. **144 open now, 69 rolling**, out of
+industry, swept twice a week. **143 open now, 69 rolling**, out of
 232 tracked, plus a watchlist of 228 funders checked on every sweep.
 
 **Browse it as a website:** [https://zhiqian.ai/funding](https://zhiqian.ai/funding)
@@ -10,14 +10,12 @@ industry, swept twice a week. **144 open now, 69 rolling**, out of
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-10-27 (brief of 2026-10-26). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
+Last synced 2026-10-28 (brief of 2026-10-26). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
 
 ## Open calls, soonest first
 
 | Deadline | Sponsor | Program | Type | Award |
 |---|---|---|---|---|
-| 2026-10-27 | DARPA MXO | [APM DARPA-PS-26-141](https://www.bwcoconsulting.com/fod/darpa-apm-darpa-ps-26-141) | Federal |  |
-| 2026-10-27 | John A. Hartford Foundation | [2026 Call for Proposals](https://www.johnahartford.org/grants-strategy/2026-call-for-proposals) | Foundation |  |
 | 2026-10-28 | CDC | [1CDP Innovation Challenge (ineligible)](https://www.usa.gov/challenges/1cdp-innovation-challenge) | Federal |  |
 | 2026-10-28 | NASA | [STRI26 B3 NNH26ZTR001N-26STRI-B3 and NIAC Phase I 27NIAC-A1](https://simpler.grants.gov/opportunity/8e88d1fa-97f8-4244-a067-3682d3ac3818) | Federal |  |
 | 2026-10-29 | ARPA-H | [UNIQUE ARPA-H-SOL-26-162](https://arpa-h.gov/explore-funding/programs/unique) | Federal |  |
@@ -118,6 +116,7 @@ Last synced 2026-10-27 (brief of 2026-10-26). Entries marked unverified were not
 | 2026-12-15 | NSF | [TechAccess NSF 26-508 (limited)](https://www.nsf.gov/funding/opportunities/techaccess-ai-ready-america/nsf26-508/solicitation) | Federal | ~$3M to $4M |
 | 2026-12-16 | Microsoft Research | [Research Fellowship 2027 (not yet posted)](https://www.microsoft.com/en-us/research/academic-program/microsoft-research-fellowship/how-to-apply/) | Industry |  |
 | 2026-12-16 | NEH | [Public Humanities Projects](https://simpler.grants.gov/opportunity/502a1727-5555-4ce5-b929-2f3d78a884a9) | Federal |  |
+| 2026-12-18 | DARPA MXO | [APM DARPA-PS-26-141](https://www.bwcoconsulting.com/fod/darpa-apm-darpa-ps-26-141) | Federal |  |
 | 2026-12-18 | NSF | [ELEGANT OTA](https://www.nsf.gov/tip/elegant) | Federal |  |
 | 2026-12-31 | ONR | [Long Range BAA N0001425SB001](https://www.onr.navy.mil/work-with-us/funding-opportunities/fy25-long-range-broad-agency-announcement-baa-navy-and-marine) | Federal |  |
 | 2027-01-01 | USACE ERDC | [ERDC BAA W912HZ26S0001](https://simpler.grants.gov/opportunity/98696099-8a71-4a7c-8e2d-1dfcf3817f75) |  |  |

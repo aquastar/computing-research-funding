@@ -1,31 +1,5 @@
 [
  {
-  "sponsor": "DARPA MXO",
-  "program": "APM DARPA-PS-26-141",
-  "category": "Federal",
-  "deadline": "abstract 2026-10-27, full 2026-12-18",
-  "next_deadline": "2026-10-27",
-  "status": "open",
-  "award": "",
-  "summary": "A DARPA programme call, narrow in scope and run to its own schedule.",
-  "eligibility": "",
-  "link": "https://www.bwcoconsulting.com/fod/darpa-apm-darpa-ps-26-141",
-  "first_seen": "2026-10-14"
- },
- {
-  "sponsor": "John A. Hartford Foundation",
-  "program": "2026 Call for Proposals",
-  "category": "Foundation",
-  "deadline": "LOI 2026-10-27",
-  "next_deadline": "2026-10-27",
-  "status": "open",
-  "award": "",
-  "summary": "An open call, with the funder setting the topic.",
-  "eligibility": "",
-  "link": "https://www.johnahartford.org/grants-strategy/2026-call-for-proposals",
-  "first_seen": "2026-10-14"
- },
- {
   "sponsor": "CDC",
   "program": "1CDP Innovation Challenge (ineligible)",
   "category": "Federal",
@@ -1324,6 +1298,19 @@
   "eligibility": "",
   "link": "https://simpler.grants.gov/opportunity/502a1727-5555-4ce5-b929-2f3d78a884a9",
   "first_seen": "2026-10-23"
+ },
+ {
+  "sponsor": "DARPA MXO",
+  "program": "APM DARPA-PS-26-141",
+  "category": "Federal",
+  "deadline": "abstract 2026-10-27, full 2026-12-18",
+  "next_deadline": "2026-12-18",
+  "status": "open",
+  "award": "",
+  "summary": "A DARPA programme call, narrow in scope and run to its own schedule.",
+  "eligibility": "",
+  "link": "https://www.bwcoconsulting.com/fod/darpa-apm-darpa-ps-26-141",
+  "first_seen": "2026-10-14"
  },
  {
   "sponsor": "NSF",
@@ -2832,6 +2819,19 @@
   "eligibility": "",
   "link": "https://humanityai.ai/open-call/",
   "first_seen": "2026-10-09"
+ },
+ {
+  "sponsor": "John A. Hartford Foundation",
+  "program": "2026 Call for Proposals",
+  "category": "Foundation",
+  "deadline": "LOI 2026-10-27",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "An open call, with the funder setting the topic.",
+  "eligibility": "",
+  "link": "https://www.johnahartford.org/grants-strategy/2026-call-for-proposals",
+  "first_seen": "2026-10-14"
  },
  {
   "sponsor": "NASA SMD",
