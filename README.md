@@ -1,7 +1,7 @@
 # Computing research funding
 
 Open calls for research funding in AI and computing, from federal agencies, foundations and
-industry, swept twice a week. **143 open now, 69 rolling**, out of
+industry, swept twice a week. **142 open now, 69 rolling**, out of
 232 tracked, plus a watchlist of 228 funders checked on every sweep.
 
 **Browse it as a website:** [https://zhiqian.ai/funding](https://zhiqian.ai/funding)
@@ -10,14 +10,12 @@ industry, swept twice a week. **143 open now, 69 rolling**, out of
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-10-28 (brief of 2026-10-26). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
+Last synced 2026-10-29 (brief of 2026-10-26). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
 
 ## Open calls, soonest first
 
 | Deadline | Sponsor | Program | Type | Award |
 |---|---|---|---|---|
-| 2026-10-28 | CDC | [1CDP Innovation Challenge (ineligible)](https://www.usa.gov/challenges/1cdp-innovation-challenge) | Federal |  |
-| 2026-10-28 | NASA | [STRI26 B3 NNH26ZTR001N-26STRI-B3 and NIAC Phase I 27NIAC-A1](https://simpler.grants.gov/opportunity/8e88d1fa-97f8-4244-a067-3682d3ac3818) | Federal |  |
 | 2026-10-29 | ARPA-H | [UNIQUE ARPA-H-SOL-26-162](https://arpa-h.gov/explore-funding/programs/unique) | Federal |  |
 | 2026-10-29 | Simons Foundation | [Collaborations in MPS](https://www.simonsfoundation.org/grant/simons-collaborations-in-mathematics-and-the-physical-sciences/) | Foundation |  |
 | 2026-10-30 | Alzheimer's Association | [BFDN Bridge Funding](https://www.alz.org/research/for_researchers/grants/types-of-grants) | Nonprofit |  |
@@ -44,6 +42,7 @@ Last synced 2026-10-28 (brief of 2026-10-26). Entries marked unverified were not
 | 2026-11-03 | ACLS | [Digital Justice Grants (unverified)](https://research.fas.harvard.edu/current-opportunities) | University |  |
 | 2026-11-03 | DARPA DSO | [Liquid Surge DARPA-PA-25-07-05](https://www.darpa.mil/research/programs/liquid-surge) | Federal |  |
 | 2026-11-03 | Mellon, McKnight | [Emerging Faculty Leaders, Scholar Awards (unverified)](https://research.fas.harvard.edu/current-opportunities) | University |  |
+| 2026-11-03 | NASA | [STRI26 B3 NNH26ZTR001N-26STRI-B3 and NIAC Phase I 27NIAC-A1](https://simpler.grants.gov/opportunity/8e88d1fa-97f8-4244-a067-3682d3ac3818) | Federal |  |
 | 2026-11-03 | Water Research Foundation | [RFP 5407 and RFP 5408](https://portal.waterrf.org/outbound-grants) | Foundation |  |
 | 2026-11-04 | Amazon | [Amazon Research Awards Fall 2026 (9 calls)](https://www.amazon.science/research-awards/call-for-proposals) | Industry |  |
 | 2026-11-04 | CIFAR | [Global Scholars 2027 to 2029](https://www.cifar.ca/global-scholars/) | Public (non-US) |  |

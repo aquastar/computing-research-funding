@@ -1,6 +1,4 @@
 sponsor,program,category,deadline,next_deadline,status,award,summary,eligibility,link,first_seen
-CDC,1CDP Innovation Challenge (ineligible),Federal,2026-10-28,2026-10-28,open,,"An open competition judged on results, not on a proposal.",,https://www.usa.gov/challenges/1cdp-innovation-challenge,2026-10-16
-NASA,STRI26 B3 NNH26ZTR001N-26STRI-B3 and NIAC Phase I 27NIAC-A1,Federal,"2026-11-03, 2026-10-28",2026-10-28,open,,A federal research call.,,https://simpler.grants.gov/opportunity/8e88d1fa-97f8-4244-a067-3682d3ac3818,2026-10-16
 ARPA-H,UNIQUE ARPA-H-SOL-26-162,Federal,Solution Summary 2026-10-29,2026-10-29,open,,"An ARPA-H solicitation, judged on a short solution summary first.",,https://arpa-h.gov/explore-funding/programs/unique,2026-10-09
 Simons Foundation,Collaborations in MPS,Foundation,LOI 2026-10-29,2026-10-29,open,,A private foundation grant.,,https://www.simonsfoundation.org/grant/simons-collaborations-in-mathematics-and-the-physical-sciences/,2026-10-09
 Alzheimer's Association,BFDN Bridge Funding,Nonprofit,LOI 2026-10-30,2026-10-30,open,,"A small starter award, usually to produce preliminary data.",,https://www.alz.org/research/for_researchers/grants/types-of-grants,2026-10-14
@@ -27,6 +25,7 @@ USDA NIFA,"SBIR II, HSI, 1890, Citrus, Tribal, NLGCA NOFOs (low fit)",Federal,20
 ACLS,Digital Justice Grants (unverified),University,2026-11-03,2026-11-03,open,,An internal university programme.,,https://research.fas.harvard.edu/current-opportunities,2026-10-16
 DARPA DSO,Liquid Surge DARPA-PA-25-07-05,Federal,"abstract 2026-11-03, full 2026-12-14",2026-11-03,open,,"A standing NIH announcement, open to the usual activity codes.",,https://www.darpa.mil/research/programs/liquid-surge,2026-10-23
 "Mellon, McKnight","Emerging Faculty Leaders, Scholar Awards (unverified)",University,"2026-12-01, 2026-11-03",2026-11-03,open,,An internal university programme.,,https://research.fas.harvard.edu/current-opportunities,2026-10-16
+NASA,STRI26 B3 NNH26ZTR001N-26STRI-B3 and NIAC Phase I 27NIAC-A1,Federal,"2026-11-03, 2026-10-28",2026-11-03,open,,A federal research call.,,https://simpler.grants.gov/opportunity/8e88d1fa-97f8-4244-a067-3682d3ac3818,2026-10-16
 Water Research Foundation,RFP 5407 and RFP 5408,Foundation,2026-11-03,2026-11-03,open,,"An open call, with the funder setting the topic.",,https://portal.waterrf.org/outbound-grants,2026-10-23
 Amazon,Amazon Research Awards Fall 2026 (9 calls),Industry,2026-11-04,2026-11-04,open,,"An unrestricted gift to one PI, decided in a single global round.",,https://www.amazon.science/research-awards/call-for-proposals,2026-10-09
 CIFAR,Global Scholars 2027 to 2029,Public (non-US),2026-11-04,2026-11-04,open,,A call from a public funder outside the US.,,https://www.cifar.ca/global-scholars/,2026-10-14
@@ -214,6 +213,7 @@ Yotta Labs,Academic Research Credit Program,Industry,rolling,,rolling,"Up to 1,0
 Alzheimer's Association,PTC Phase 1/2 and PTC-CTP,Nonprofit,LOI 2026-10-20,,closed,,A nonprofit grant.,,https://www.alz.org/research/for_researchers/grants/types-of-grants,2026-10-16
 ARPA-H,HEARING ARPA-H-SOL-26-154 (under review),Federal,closed,,closed,,"An ARPA-H solicitation, judged on a short solution summary first.",,https://arpa-h.gov/explore-funding/programs/hearing,2026-10-14
 Astralis and Macroscopic,Middle Powers and Transformative AI RFP,Industry,2026-10-23,,closed,,"An open call, with the funder setting the topic.",,https://middlepowers.ai/,2026-10-14
+CDC,1CDP Innovation Challenge (ineligible),Federal,2026-10-28,,closed,,"An open competition judged on results, not on a proposal.",,https://www.usa.gov/challenges/1cdp-innovation-challenge,2026-10-16
 DARPA IPTO,Intrinsic Market Resilience DARPA-PS-26-138,Federal,abstract 2026-10-22,,closed,,"A DARPA programme call, narrow in scope and run to its own schedule.",,https://www.darpa.mil/research/programs/intrinsic-market-resilience-imr,2026-10-09
 Humanity AI,Communities Leading on AI open call,Industry,2026-10-21,,closed,,"An open call, with the funder setting the topic.",,https://humanityai.ai/open-call/,2026-10-09
 John A. Hartford Foundation,2026 Call for Proposals,Foundation,LOI 2026-10-27,,closed,,"An open call, with the funder setting the topic.",,https://www.johnahartford.org/grants-strategy/2026-call-for-proposals,2026-10-14

@@ -1,31 +1,5 @@
 [
  {
-  "sponsor": "CDC",
-  "program": "1CDP Innovation Challenge (ineligible)",
-  "category": "Federal",
-  "deadline": "2026-10-28",
-  "next_deadline": "2026-10-28",
-  "status": "open",
-  "award": "",
-  "summary": "An open competition judged on results, not on a proposal.",
-  "eligibility": "",
-  "link": "https://www.usa.gov/challenges/1cdp-innovation-challenge",
-  "first_seen": "2026-10-16"
- },
- {
-  "sponsor": "NASA",
-  "program": "STRI26 B3 NNH26ZTR001N-26STRI-B3 and NIAC Phase I 27NIAC-A1",
-  "category": "Federal",
-  "deadline": "2026-11-03, 2026-10-28",
-  "next_deadline": "2026-10-28",
-  "status": "open",
-  "award": "",
-  "summary": "A federal research call.",
-  "eligibility": "",
-  "link": "https://simpler.grants.gov/opportunity/8e88d1fa-97f8-4244-a067-3682d3ac3818",
-  "first_seen": "2026-10-16"
- },
- {
   "sponsor": "ARPA-H",
   "program": "UNIQUE ARPA-H-SOL-26-162",
   "category": "Federal",
@@ -361,6 +335,19 @@
   "summary": "An internal university programme.",
   "eligibility": "",
   "link": "https://research.fas.harvard.edu/current-opportunities",
+  "first_seen": "2026-10-16"
+ },
+ {
+  "sponsor": "NASA",
+  "program": "STRI26 B3 NNH26ZTR001N-26STRI-B3 and NIAC Phase I 27NIAC-A1",
+  "category": "Federal",
+  "deadline": "2026-11-03, 2026-10-28",
+  "next_deadline": "2026-11-03",
+  "status": "open",
+  "award": "",
+  "summary": "A federal research call.",
+  "eligibility": "",
+  "link": "https://simpler.grants.gov/opportunity/8e88d1fa-97f8-4244-a067-3682d3ac3818",
   "first_seen": "2026-10-16"
  },
  {
@@ -2793,6 +2780,19 @@
   "eligibility": "",
   "link": "https://middlepowers.ai/",
   "first_seen": "2026-10-14"
+ },
+ {
+  "sponsor": "CDC",
+  "program": "1CDP Innovation Challenge (ineligible)",
+  "category": "Federal",
+  "deadline": "2026-10-28",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "An open competition judged on results, not on a proposal.",
+  "eligibility": "",
+  "link": "https://www.usa.gov/challenges/1cdp-innovation-challenge",
+  "first_seen": "2026-10-16"
  },
  {
   "sponsor": "DARPA IPTO",
