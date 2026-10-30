@@ -1,31 +1,5 @@
 [
  {
-  "sponsor": "ARPA-H",
-  "program": "UNIQUE ARPA-H-SOL-26-162",
-  "category": "Federal",
-  "deadline": "Solution Summary 2026-10-29",
-  "next_deadline": "2026-10-29",
-  "status": "open",
-  "award": "",
-  "summary": "An ARPA-H solicitation, judged on a short solution summary first.",
-  "eligibility": "",
-  "link": "https://arpa-h.gov/explore-funding/programs/unique",
-  "first_seen": "2026-10-09"
- },
- {
-  "sponsor": "Simons Foundation",
-  "program": "Collaborations in MPS",
-  "category": "Foundation",
-  "deadline": "LOI 2026-10-29",
-  "next_deadline": "2026-10-29",
-  "status": "open",
-  "award": "",
-  "summary": "A private foundation grant.",
-  "eligibility": "",
-  "link": "https://www.simonsfoundation.org/grant/simons-collaborations-in-mathematics-and-the-physical-sciences/",
-  "first_seen": "2026-10-09"
- },
- {
   "sponsor": "Alzheimer's Association",
   "program": "BFDN Bridge Funding",
   "category": "Nonprofit",
@@ -2757,6 +2731,19 @@
  },
  {
   "sponsor": "ARPA-H",
+  "program": "UNIQUE ARPA-H-SOL-26-162",
+  "category": "Federal",
+  "deadline": "Solution Summary 2026-10-29",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "An ARPA-H solicitation, judged on a short solution summary first.",
+  "eligibility": "",
+  "link": "https://arpa-h.gov/explore-funding/programs/unique",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "sponsor": "ARPA-H",
   "program": "HEARING ARPA-H-SOL-26-154 (under review)",
   "category": "Federal",
   "deadline": "closed",
@@ -2988,6 +2975,19 @@
   "eligibility": "",
   "link": "https://www.russellsage.org/how-to-apply",
   "first_seen": "2026-10-16"
+ },
+ {
+  "sponsor": "Simons Foundation",
+  "program": "Collaborations in MPS",
+  "category": "Foundation",
+  "deadline": "LOI 2026-10-29",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "A private foundation grant.",
+  "eligibility": "",
+  "link": "https://www.simonsfoundation.org/grant/simons-collaborations-in-mathematics-and-the-physical-sciences/",
+  "first_seen": "2026-10-09"
  },
  {
   "sponsor": "UR CTSI",

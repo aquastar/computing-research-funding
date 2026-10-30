@@ -1,7 +1,7 @@
 # Computing research funding
 
 Open calls for research funding in AI and computing, from federal agencies, foundations and
-industry, swept twice a week. **142 open now, 69 rolling**, out of
+industry, swept twice a week. **140 open now, 69 rolling**, out of
 232 tracked, plus a watchlist of 228 funders checked on every sweep.
 
 **Browse it as a website:** [https://zhiqian.ai/funding](https://zhiqian.ai/funding)
@@ -10,14 +10,12 @@ industry, swept twice a week. **142 open now, 69 rolling**, out of
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-10-29 (brief of 2026-10-26). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
+Last synced 2026-10-30 (brief of 2026-10-26). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
 
 ## Open calls, soonest first
 
 | Deadline | Sponsor | Program | Type | Award |
 |---|---|---|---|---|
-| 2026-10-29 | ARPA-H | [UNIQUE ARPA-H-SOL-26-162](https://arpa-h.gov/explore-funding/programs/unique) | Federal |  |
-| 2026-10-29 | Simons Foundation | [Collaborations in MPS](https://www.simonsfoundation.org/grant/simons-collaborations-in-mathematics-and-the-physical-sciences/) | Foundation |  |
 | 2026-10-30 | Alzheimer's Association | [BFDN Bridge Funding](https://www.alz.org/research/for_researchers/grants/types-of-grants) | Nonprofit |  |
 | 2026-10-30 | Arena | [Academic Partnerships Program Fall 2026](https://arena.ai/blog/academic-program-fall-2026) | Industry | Up to $50K per award, duration not listed |
 | 2026-10-30 | ARPA-H | [Emerging Health Innovators ARPA-H-SOL-26-150](https://arpa-h.gov/explore-funding/programs/ehi) | Federal |  |
