@@ -1,7 +1,7 @@
 # Computing research funding
 
 Open calls for research funding in AI and computing, from federal agencies, foundations and
-industry, swept twice a week. **140 open now, 69 rolling**, out of
+industry, swept twice a week. **133 open now, 69 rolling**, out of
 232 tracked, plus a watchlist of 228 funders checked on every sweep.
 
 **Browse it as a website:** [https://zhiqian.ai/funding](https://zhiqian.ai/funding)
@@ -10,19 +10,12 @@ industry, swept twice a week. **140 open now, 69 rolling**, out of
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-10-30 (brief of 2026-10-26). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
+Last synced 2026-10-31 (brief of 2026-10-26). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
 
 ## Open calls, soonest first
 
 | Deadline | Sponsor | Program | Type | Award |
 |---|---|---|---|---|
-| 2026-10-30 | Alzheimer's Association | [BFDN Bridge Funding](https://www.alz.org/research/for_researchers/grants/types-of-grants) | Nonprofit |  |
-| 2026-10-30 | Arena | [Academic Partnerships Program Fall 2026](https://arena.ai/blog/academic-program-fall-2026) | Industry | Up to $50K per award, duration not listed |
-| 2026-10-30 | ARPA-H | [Emerging Health Innovators ARPA-H-SOL-26-150](https://arpa-h.gov/explore-funding/programs/ehi) | Federal |  |
-| 2026-10-30 | NSF | [X-Labs future topics RFI](https://www.nsf.gov/news/nsf-announces-3-additional-topics-part-nsf-x-labs-initiative) | Federal |  |
-| 2026-10-30 | NVIDIA | [Graduate Fellowship 2027 to 2028](https://blogs.nvidia.com/?p=98499) | Industry |  |
-| 2026-10-30 | NYS ESD | [CAT RFP 2026 (limited)](https://esd.ny.gov/sites/default/files/media/document/CAT2026-RFPFINAL-CORRECTED-DUEDATE.pdf) | State |  |
-| 2026-10-30 | ONR | [FY2027 Young Investigator Program N0001426SF004](https://www.onr.navy.mil/work-with-us/funding-opportunities/fiscal-year-fy-2027-young-investigator-program-yip) | Federal |  |
 | 2026-10-31 | ARIA | [Safeguarded AI and Scaling Trust rolling batch](https://www.aria.org.uk/) | Public (non-US) |  |
 | 2026-10-31 | Foresight Institute | [AI for Science and Safety Nodes RFP](https://foresight.org/grants/ai-science-safety-nodes-rfp/) | Nonprofit |  |
 | 2026-10-31 | Lightcone | [Corrigibility Research Fund Round 2](https://corrigibilityresearch.org/) | Foundation |  |

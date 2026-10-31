@@ -1,96 +1,5 @@
 [
  {
-  "sponsor": "Alzheimer's Association",
-  "program": "BFDN Bridge Funding",
-  "category": "Nonprofit",
-  "deadline": "LOI 2026-10-30",
-  "next_deadline": "2026-10-30",
-  "status": "open",
-  "award": "",
-  "summary": "A small starter award, usually to produce preliminary data.",
-  "eligibility": "",
-  "link": "https://www.alz.org/research/for_researchers/grants/types-of-grants",
-  "first_seen": "2026-10-14"
- },
- {
-  "sponsor": "Arena",
-  "program": "Academic Partnerships Program Fall 2026",
-  "category": "Industry",
-  "deadline": "2026-10-30",
-  "next_deadline": "2026-10-30",
-  "status": "open",
-  "award": "Up to $50K per award, duration not listed",
-  "summary": "A company programme.",
-  "eligibility": "US university tenure-track faculty, individuals or teams",
-  "link": "https://arena.ai/blog/academic-program-fall-2026",
-  "first_seen": "2026-10-26"
- },
- {
-  "sponsor": "ARPA-H",
-  "program": "Emerging Health Innovators ARPA-H-SOL-26-150",
-  "category": "Federal",
-  "deadline": "Solution Summary 2026-10-30",
-  "next_deadline": "2026-10-30",
-  "status": "open",
-  "award": "",
-  "summary": "An ARPA-H solicitation, judged on a short solution summary first.",
-  "eligibility": "",
-  "link": "https://arpa-h.gov/explore-funding/programs/ehi",
-  "first_seen": "2026-10-09"
- },
- {
-  "sponsor": "NSF",
-  "program": "X-Labs future topics RFI",
-  "category": "Federal",
-  "deadline": "2026-10-30",
-  "next_deadline": "2026-10-30",
-  "status": "open",
-  "award": "",
-  "summary": "A request for comment, not a funding call.",
-  "eligibility": "",
-  "link": "https://www.nsf.gov/news/nsf-announces-3-additional-topics-part-nsf-x-labs-initiative",
-  "first_seen": "2026-10-14"
- },
- {
-  "sponsor": "NVIDIA",
-  "program": "Graduate Fellowship 2027 to 2028",
-  "category": "Industry",
-  "deadline": "2026-10-30",
-  "next_deadline": "2026-10-30",
-  "status": "open",
-  "award": "",
-  "summary": "Supports a named individual rather than a project.",
-  "eligibility": "",
-  "link": "https://blogs.nvidia.com/?p=98499",
-  "first_seen": "2026-10-09"
- },
- {
-  "sponsor": "NYS ESD",
-  "program": "CAT RFP 2026 (limited)",
-  "category": "State",
-  "deadline": "2026-10-30",
-  "next_deadline": "2026-10-30",
-  "status": "open",
-  "award": "",
-  "summary": "An open call, with the funder setting the topic.",
-  "eligibility": "",
-  "link": "https://esd.ny.gov/sites/default/files/media/document/CAT2026-RFPFINAL-CORRECTED-DUEDATE.pdf",
-  "first_seen": "2026-10-14"
- },
- {
-  "sponsor": "ONR",
-  "program": "FY2027 Young Investigator Program N0001426SF004",
-  "category": "Federal",
-  "deadline": "2026-10-30",
-  "next_deadline": "2026-10-30",
-  "status": "open",
-  "award": "",
-  "summary": "A single-PI award for someone within a few years of the PhD.",
-  "eligibility": "",
-  "link": "https://www.onr.navy.mil/work-with-us/funding-opportunities/fiscal-year-fy-2027-young-investigator-program-yip",
-  "first_seen": "2026-10-09"
- },
- {
   "sponsor": "ARIA",
   "program": "Safeguarded AI and Scaling Trust rolling batch",
   "category": "Public (non-US)",
@@ -2718,6 +2627,19 @@
  },
  {
   "sponsor": "Alzheimer's Association",
+  "program": "BFDN Bridge Funding",
+  "category": "Nonprofit",
+  "deadline": "LOI 2026-10-30",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "A small starter award, usually to produce preliminary data.",
+  "eligibility": "",
+  "link": "https://www.alz.org/research/for_researchers/grants/types-of-grants",
+  "first_seen": "2026-10-14"
+ },
+ {
+  "sponsor": "Alzheimer's Association",
   "program": "PTC Phase 1/2 and PTC-CTP",
   "category": "Nonprofit",
   "deadline": "LOI 2026-10-20",
@@ -2728,6 +2650,32 @@
   "eligibility": "",
   "link": "https://www.alz.org/research/for_researchers/grants/types-of-grants",
   "first_seen": "2026-10-16"
+ },
+ {
+  "sponsor": "Arena",
+  "program": "Academic Partnerships Program Fall 2026",
+  "category": "Industry",
+  "deadline": "2026-10-30",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "Up to $50K per award, duration not listed",
+  "summary": "A company programme.",
+  "eligibility": "US university tenure-track faculty, individuals or teams",
+  "link": "https://arena.ai/blog/academic-program-fall-2026",
+  "first_seen": "2026-10-26"
+ },
+ {
+  "sponsor": "ARPA-H",
+  "program": "Emerging Health Innovators ARPA-H-SOL-26-150",
+  "category": "Federal",
+  "deadline": "Solution Summary 2026-10-30",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "An ARPA-H solicitation, judged on a short solution summary first.",
+  "eligibility": "",
+  "link": "https://arpa-h.gov/explore-funding/programs/ehi",
+  "first_seen": "2026-10-09"
  },
  {
   "sponsor": "ARPA-H",
@@ -2938,6 +2886,32 @@
   "first_seen": "2026-10-09"
  },
  {
+  "sponsor": "NSF",
+  "program": "X-Labs future topics RFI",
+  "category": "Federal",
+  "deadline": "2026-10-30",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "A request for comment, not a funding call.",
+  "eligibility": "",
+  "link": "https://www.nsf.gov/news/nsf-announces-3-additional-topics-part-nsf-x-labs-initiative",
+  "first_seen": "2026-10-14"
+ },
+ {
+  "sponsor": "NVIDIA",
+  "program": "Graduate Fellowship 2027 to 2028",
+  "category": "Industry",
+  "deadline": "2026-10-30",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "Supports a named individual rather than a project.",
+  "eligibility": "",
+  "link": "https://blogs.nvidia.com/?p=98499",
+  "first_seen": "2026-10-09"
+ },
+ {
   "sponsor": "NY Health Foundation",
   "program": "2027 Special Projects Fund",
   "category": "Foundation",
@@ -2952,6 +2926,19 @@
  },
  {
   "sponsor": "NYS ESD",
+  "program": "CAT RFP 2026 (limited)",
+  "category": "State",
+  "deadline": "2026-10-30",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "An open call, with the funder setting the topic.",
+  "eligibility": "",
+  "link": "https://esd.ny.gov/sites/default/files/media/document/CAT2026-RFPFINAL-CORRECTED-DUEDATE.pdf",
+  "first_seen": "2026-10-14"
+ },
+ {
+  "sponsor": "NYS ESD",
   "program": "Downstate Semiconductor Chip Design Center RFA (partner only)",
   "category": "State",
   "deadline": "concept 2026-10-26",
@@ -2962,6 +2949,19 @@
   "eligibility": "",
   "link": "https://esd.ny.gov/doing-business-ny/requests-proposals/downstate-semiconductor-chip-design-center-rfa",
   "first_seen": "2026-10-16"
+ },
+ {
+  "sponsor": "ONR",
+  "program": "FY2027 Young Investigator Program N0001426SF004",
+  "category": "Federal",
+  "deadline": "2026-10-30",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "A single-PI award for someone within a few years of the PhD.",
+  "eligibility": "",
+  "link": "https://www.onr.navy.mil/work-with-us/funding-opportunities/fiscal-year-fy-2027-young-investigator-program-yip",
+  "first_seen": "2026-10-09"
  },
  {
   "sponsor": "Russell Sage Foundation",
