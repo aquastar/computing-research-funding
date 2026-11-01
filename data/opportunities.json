@@ -1,57 +1,5 @@
 [
  {
-  "sponsor": "ARIA",
-  "program": "Safeguarded AI and Scaling Trust rolling batch",
-  "category": "Public (non-US)",
-  "deadline": "2026-10-31",
-  "next_deadline": "2026-10-31",
-  "status": "open",
-  "award": "",
-  "summary": "A call from a public funder outside the US.",
-  "eligibility": "",
-  "link": "https://www.aria.org.uk/",
-  "first_seen": "2026-10-14"
- },
- {
-  "sponsor": "Foresight Institute",
-  "program": "AI for Science and Safety Nodes RFP",
-  "category": "Nonprofit",
-  "deadline": "2026-10-31",
-  "next_deadline": "2026-10-31",
-  "status": "open",
-  "award": "",
-  "summary": "A center-scale award for a large multi-investigator team.",
-  "eligibility": "",
-  "link": "https://foresight.org/grants/ai-science-safety-nodes-rfp/",
-  "first_seen": "2026-10-09"
- },
- {
-  "sponsor": "Lightcone",
-  "program": "Corrigibility Research Fund Round 2",
-  "category": "Foundation",
-  "deadline": "2026-10-31",
-  "next_deadline": "2026-10-31",
-  "status": "open",
-  "award": "",
-  "summary": "A private foundation grant.",
-  "eligibility": "",
-  "link": "https://corrigibilityresearch.org/",
-  "first_seen": "2026-10-14"
- },
- {
-  "sponsor": "Treasury",
-  "program": "RESTORE COE GR-RCE-25-001 (Gulf states only)",
-  "category": "",
-  "deadline": "2026-10-31",
-  "next_deadline": "2026-10-31",
-  "status": "open",
-  "award": "",
-  "summary": "",
-  "eligibility": "",
-  "link": "https://simpler.grants.gov/search?query=GR-RCE-25-001",
-  "first_seen": "2026-10-16"
- },
- {
   "sponsor": "AFRL RI",
   "program": "Targeting Operations and Analytics Development BAA FA875025S7002 (unverified)",
   "category": "Federal",
@@ -2665,6 +2613,19 @@
   "first_seen": "2026-10-26"
  },
  {
+  "sponsor": "ARIA",
+  "program": "Safeguarded AI and Scaling Trust rolling batch",
+  "category": "Public (non-US)",
+  "deadline": "2026-10-31",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "A call from a public funder outside the US.",
+  "eligibility": "",
+  "link": "https://www.aria.org.uk/",
+  "first_seen": "2026-10-14"
+ },
+ {
   "sponsor": "ARPA-H",
   "program": "Emerging Health Innovators ARPA-H-SOL-26-150",
   "category": "Federal",
@@ -2743,6 +2704,19 @@
   "first_seen": "2026-10-09"
  },
  {
+  "sponsor": "Foresight Institute",
+  "program": "AI for Science and Safety Nodes RFP",
+  "category": "Nonprofit",
+  "deadline": "2026-10-31",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "A center-scale award for a large multi-investigator team.",
+  "eligibility": "",
+  "link": "https://foresight.org/grants/ai-science-safety-nodes-rfp/",
+  "first_seen": "2026-10-09"
+ },
+ {
   "sponsor": "Humanity AI",
   "program": "Communities Leading on AI open call",
   "category": "Industry",
@@ -2766,6 +2740,19 @@
   "summary": "An open call, with the funder setting the topic.",
   "eligibility": "",
   "link": "https://www.johnahartford.org/grants-strategy/2026-call-for-proposals",
+  "first_seen": "2026-10-14"
+ },
+ {
+  "sponsor": "Lightcone",
+  "program": "Corrigibility Research Fund Round 2",
+  "category": "Foundation",
+  "deadline": "2026-10-31",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "A private foundation grant.",
+  "eligibility": "",
+  "link": "https://corrigibilityresearch.org/",
   "first_seen": "2026-10-14"
  },
  {
@@ -2988,6 +2975,19 @@
   "eligibility": "",
   "link": "https://www.simonsfoundation.org/grant/simons-collaborations-in-mathematics-and-the-physical-sciences/",
   "first_seen": "2026-10-09"
+ },
+ {
+  "sponsor": "Treasury",
+  "program": "RESTORE COE GR-RCE-25-001 (Gulf states only)",
+  "category": "",
+  "deadline": "2026-10-31",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "",
+  "eligibility": "",
+  "link": "https://simpler.grants.gov/search?query=GR-RCE-25-001",
+  "first_seen": "2026-10-16"
  },
  {
   "sponsor": "UR CTSI",

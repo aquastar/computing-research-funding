@@ -1,8 +1,4 @@
 sponsor,program,category,deadline,next_deadline,status,award,summary,eligibility,link,first_seen
-ARIA,Safeguarded AI and Scaling Trust rolling batch,Public (non-US),2026-10-31,2026-10-31,open,,A call from a public funder outside the US.,,https://www.aria.org.uk/,2026-10-14
-Foresight Institute,AI for Science and Safety Nodes RFP,Nonprofit,2026-10-31,2026-10-31,open,,A center-scale award for a large multi-investigator team.,,https://foresight.org/grants/ai-science-safety-nodes-rfp/,2026-10-09
-Lightcone,Corrigibility Research Fund Round 2,Foundation,2026-10-31,2026-10-31,open,,A private foundation grant.,,https://corrigibilityresearch.org/,2026-10-14
-Treasury,RESTORE COE GR-RCE-25-001 (Gulf states only),,2026-10-31,2026-10-31,open,,,,https://simpler.grants.gov/search?query=GR-RCE-25-001,2026-10-16
 AFRL RI,Targeting Operations and Analytics Development BAA FA875025S7002 (unverified),Federal,FY27 white paper 2026-11-01,2026-11-01,open,,"A standing call across the office's whole portfolio, white paper first.","Fully open competition, export controls may apply. Military targeting mission, use your own judgment",https://govcontractfinder.com/contracts/targeting-operations-and-analytics-development-fa875025s7002,2026-10-26
 AIMO,Interpretability Challenge NeurIPS 2026,Industry,2026-11-01,2026-11-01,open,,"An open competition judged on results, not on a proposal.",,https://aimo-interp.github.io/,2026-10-14
 Griffiss Institute,STFP fellowship,Nonprofit,2026-11-01,2026-11-01,open,,A center-scale award for a large multi-investigator team.,,https://www.griffissinstitute.org/information-institute/,2026-10-14
@@ -204,14 +200,17 @@ Yotta Labs,Academic Research Credit Program,Industry,rolling,,rolling,"Up to 1,0
 Alzheimer's Association,BFDN Bridge Funding,Nonprofit,LOI 2026-10-30,,closed,,"A small starter award, usually to produce preliminary data.",,https://www.alz.org/research/for_researchers/grants/types-of-grants,2026-10-14
 Alzheimer's Association,PTC Phase 1/2 and PTC-CTP,Nonprofit,LOI 2026-10-20,,closed,,A nonprofit grant.,,https://www.alz.org/research/for_researchers/grants/types-of-grants,2026-10-16
 Arena,Academic Partnerships Program Fall 2026,Industry,2026-10-30,,closed,"Up to $50K per award, duration not listed",A company programme.,"US university tenure-track faculty, individuals or teams",https://arena.ai/blog/academic-program-fall-2026,2026-10-26
+ARIA,Safeguarded AI and Scaling Trust rolling batch,Public (non-US),2026-10-31,,closed,,A call from a public funder outside the US.,,https://www.aria.org.uk/,2026-10-14
 ARPA-H,Emerging Health Innovators ARPA-H-SOL-26-150,Federal,Solution Summary 2026-10-30,,closed,,"An ARPA-H solicitation, judged on a short solution summary first.",,https://arpa-h.gov/explore-funding/programs/ehi,2026-10-09
 ARPA-H,UNIQUE ARPA-H-SOL-26-162,Federal,Solution Summary 2026-10-29,,closed,,"An ARPA-H solicitation, judged on a short solution summary first.",,https://arpa-h.gov/explore-funding/programs/unique,2026-10-09
 ARPA-H,HEARING ARPA-H-SOL-26-154 (under review),Federal,closed,,closed,,"An ARPA-H solicitation, judged on a short solution summary first.",,https://arpa-h.gov/explore-funding/programs/hearing,2026-10-14
 Astralis and Macroscopic,Middle Powers and Transformative AI RFP,Industry,2026-10-23,,closed,,"An open call, with the funder setting the topic.",,https://middlepowers.ai/,2026-10-14
 CDC,1CDP Innovation Challenge (ineligible),Federal,2026-10-28,,closed,,"An open competition judged on results, not on a proposal.",,https://www.usa.gov/challenges/1cdp-innovation-challenge,2026-10-16
 DARPA IPTO,Intrinsic Market Resilience DARPA-PS-26-138,Federal,abstract 2026-10-22,,closed,,"A DARPA programme call, narrow in scope and run to its own schedule.",,https://www.darpa.mil/research/programs/intrinsic-market-resilience-imr,2026-10-09
+Foresight Institute,AI for Science and Safety Nodes RFP,Nonprofit,2026-10-31,,closed,,A center-scale award for a large multi-investigator team.,,https://foresight.org/grants/ai-science-safety-nodes-rfp/,2026-10-09
 Humanity AI,Communities Leading on AI open call,Industry,2026-10-21,,closed,,"An open call, with the funder setting the topic.",,https://humanityai.ai/open-call/,2026-10-09
 John A. Hartford Foundation,2026 Call for Proposals,Foundation,LOI 2026-10-27,,closed,,"An open call, with the funder setting the topic.",,https://www.johnahartford.org/grants-strategy/2026-call-for-proposals,2026-10-14
+Lightcone,Corrigibility Research Fund Round 2,Foundation,2026-10-31,,closed,,A private foundation grant.,,https://corrigibilityresearch.org/,2026-10-14
 NASA SMD,ROSES-25 A.13 AES,Federal,2026-10-15,,closed,,"A NASA omnibus call, one element of many under a single solicitation.",,https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-62-new-opportunity-a-13-accelerating-earth-solutions/,2026-10-14
 NIH,AREA R15 PAR-25-134,Federal,2026-10-26,,closed,,"Research at a campus that is not research-intensive, with undergraduates involved.",,https://grants.nih.gov/grants/guide/pa-files/PAR-25-134.html,2026-10-09
 NIH,Parent R21 PA-25-304 and R03 PA-25-302,Federal,2026-10-16,,closed,,"An exploratory project of up to two years, no preliminary data expected.",,https://grants.nih.gov/grants/guide/pa-files/PA-25-304.html,2026-10-09
@@ -229,5 +228,6 @@ NYS ESD,Downstate Semiconductor Chip Design Center RFA (partner only),State,conc
 ONR,FY2027 Young Investigator Program N0001426SF004,Federal,2026-10-30,,closed,,A single-PI award for someone within a few years of the PhD.,,https://www.onr.navy.mil/work-with-us/funding-opportunities/fiscal-year-fy-2027-young-investigator-program-yip,2026-10-09
 Russell Sage Foundation,"Pipeline Grants, Core LOI, MOS Grants (unverified)",Foundation,"2026-10-21, 10-28, 12-01",,closed,,"An open call, with the funder setting the topic.",,https://www.russellsage.org/how-to-apply,2026-10-16
 Simons Foundation,Collaborations in MPS,Foundation,LOI 2026-10-29,,closed,,A private foundation grant.,,https://www.simonsfoundation.org/grant/simons-collaborations-in-mathematics-and-the-physical-sciences/,2026-10-09
+Treasury,RESTORE COE GR-RCE-25-001 (Gulf states only),,2026-10-31,,closed,,,,https://simpler.grants.gov/search?query=GR-RCE-25-001,2026-10-16
 UR CTSI,Pilot Studies TS01,University,LOI 2026-10-26,,closed,,"A small starter award, usually to produce preliminary data.",,https://www.urmc.rochester.edu/clinical-translational-science-institute/funding/request-for-applications-pilot-studies,2026-10-14
 Water Research Foundation,RFP 5409 and others,Foundation,2026-10-26,,closed,,"An open call, with the funder setting the topic.",,https://portal.waterrf.org/outbound-grants,2026-10-14
