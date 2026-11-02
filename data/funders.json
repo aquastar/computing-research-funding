@@ -1822,5 +1822,37 @@
   "link_verified": false,
   "cycle": "Aug to Oct before ISMIR",
   "access": "open"
+ },
+ {
+  "funder": "Laboratory for Analytic Sciences (LAS, NC State, NSA/DoD funded) annual white paper call",
+  "category": "defense_niche",
+  "link": "https://ncsu-las.org/what-we-do/call-for-white-papers/",
+  "link_verified": true,
+  "cycle": "annual, call opens July 1, abstracts due late July, full proposals Sept, awards Nov, projects start Jan, capability statements accepted year round",
+  "access": "open"
+ },
+ {
+  "funder": "Center for AI Safety Compute Cluster",
+  "category": "ai_safety_philanthropy",
+  "link": "https://www.safe.ai/compute-cluster",
+  "link_verified": true,
+  "cycle": "rolling when open, currently not accepting new external applications",
+  "access": "unknown"
+ },
+ {
+  "funder": "Mozilla Foundation grantmaking (Incubator, Fellows, Responsible Computing Challenge, Collaborative Funds)",
+  "category": "foundation_general",
+  "link": "https://www.mozillafoundation.org/ca/what-we-do/grantmaking/",
+  "link_verified": true,
+  "cycle": "irregular open calls, e.g. Democracy x AI cohort spring 2026 (about $50k each)",
+  "access": "open"
+ },
+ {
+  "funder": "Fulbright U.S. Scholar Program",
+  "category": "federal_niche",
+  "link": "https://fulbrightscholars.org/us-scholar-awards",
+  "link_verified": true,
+  "cycle": "annual, opens February, deadline mid September",
+  "access": "open"
  }
 ]

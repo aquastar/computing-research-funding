@@ -227,3 +227,7 @@ DARPA challenges,prize_challenge,https://www.darpa.mil/research/challenges,true,
 DOE American-Made Challenges,prize_challenge,https://americanmadeprogram.org/compete/prizes-and-competitions,false,"Rolling, many per year",open
 ACL Caregiver AI Prize Challenge,prize_challenge,https://acl.gov/caregiver-ai-competition,true,"Multi phase, Phase 1 closed 2026-07-31",open
 MIREX (ISMIR),prize_challenge,https://www.music-ir.org/mirex/wiki/MIREX_HOME,false,Aug to Oct before ISMIR,open
+"Laboratory for Analytic Sciences (LAS, NC State, NSA/DoD funded) annual white paper call",defense_niche,https://ncsu-las.org/what-we-do/call-for-white-papers/,true,"annual, call opens July 1, abstracts due late July, full proposals Sept, awards Nov, projects start Jan, capability statements accepted year round",open
+Center for AI Safety Compute Cluster,ai_safety_philanthropy,https://www.safe.ai/compute-cluster,true,"rolling when open, currently not accepting new external applications",unknown
+"Mozilla Foundation grantmaking (Incubator, Fellows, Responsible Computing Challenge, Collaborative Funds)",foundation_general,https://www.mozillafoundation.org/ca/what-we-do/grantmaking/,true,"irregular open calls, e.g. Democracy x AI cohort spring 2026 (about $50k each)",open
+Fulbright U.S. Scholar Program,federal_niche,https://fulbrightscholars.org/us-scholar-awards,true,"annual, opens February, deadline mid September",open

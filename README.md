@@ -1,8 +1,8 @@
 # Computing research funding
 
 Open calls for research funding in AI and computing, from federal agencies, foundations and
-industry, swept twice a week. **129 open now, 69 rolling**, out of
-232 tracked, plus a watchlist of 228 funders checked on every sweep.
+industry, swept twice a week. **126 open now, 69 rolling**, out of
+232 tracked, plus a watchlist of 232 funders checked on every sweep.
 
 **Browse it as a website:** [https://zhiqian.ai/funding](https://zhiqian.ai/funding)
 
@@ -10,15 +10,12 @@ industry, swept twice a week. **129 open now, 69 rolling**, out of
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-11-01 (brief of 2026-10-26). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
+Last synced 2026-11-02 (brief of 2026-10-26). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
 
 ## Open calls, soonest first
 
 | Deadline | Sponsor | Program | Type | Award |
 |---|---|---|---|---|
-| 2026-11-01 | AFRL RI | [Targeting Operations and Analytics Development BAA FA875025S7002 (unverified)](https://govcontractfinder.com/contracts/targeting-operations-and-analytics-development-fa875025s7002) | Federal |  |
-| 2026-11-01 | AIMO | [Interpretability Challenge NeurIPS 2026](https://aimo-interp.github.io/) | Industry |  |
-| 2026-11-01 | Griffiss Institute | [STFP fellowship](https://www.griffissinstitute.org/information-institute/) | Nonprofit |  |
 | 2026-11-02 | [PRIZE] ARC Prize Foundation | [ARC Prize 2026 incl Paper Prize](https://arcprize.org/competitions/2026) | Foundation |  |
 | 2026-11-02 | [PRIZE] Gray Swan AI | [Arena Indirect Prompt Injection wave](https://app.grayswan.ai/arena) | Industry |  |
 | 2026-11-02 | Anthropic | [AI for Science API credits](https://support.claude.com/en/articles/11199177-anthropics-ai-for-science-program) | Industry |  |

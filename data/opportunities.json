@@ -1,44 +1,5 @@
 [
  {
-  "sponsor": "AFRL RI",
-  "program": "Targeting Operations and Analytics Development BAA FA875025S7002 (unverified)",
-  "category": "Federal",
-  "deadline": "FY27 white paper 2026-11-01",
-  "next_deadline": "2026-11-01",
-  "status": "open",
-  "award": "",
-  "summary": "A standing call across the office's whole portfolio, white paper first.",
-  "eligibility": "Fully open competition, export controls may apply. Military targeting mission, use your own judgment",
-  "link": "https://govcontractfinder.com/contracts/targeting-operations-and-analytics-development-fa875025s7002",
-  "first_seen": "2026-10-26"
- },
- {
-  "sponsor": "AIMO",
-  "program": "Interpretability Challenge NeurIPS 2026",
-  "category": "Industry",
-  "deadline": "2026-11-01",
-  "next_deadline": "2026-11-01",
-  "status": "open",
-  "award": "",
-  "summary": "An open competition judged on results, not on a proposal.",
-  "eligibility": "",
-  "link": "https://aimo-interp.github.io/",
-  "first_seen": "2026-10-14"
- },
- {
-  "sponsor": "Griffiss Institute",
-  "program": "STFP fellowship",
-  "category": "Nonprofit",
-  "deadline": "2026-11-01",
-  "next_deadline": "2026-11-01",
-  "status": "open",
-  "award": "",
-  "summary": "A center-scale award for a large multi-investigator team.",
-  "eligibility": "",
-  "link": "https://www.griffissinstitute.org/information-institute/",
-  "first_seen": "2026-10-14"
- },
- {
   "sponsor": "[PRIZE] ARC Prize Foundation",
   "program": "ARC Prize 2026 incl Paper Prize",
   "category": "Foundation",
@@ -2574,6 +2535,32 @@
   "first_seen": "2026-10-26"
  },
  {
+  "sponsor": "AFRL RI",
+  "program": "Targeting Operations and Analytics Development BAA FA875025S7002 (unverified)",
+  "category": "Federal",
+  "deadline": "FY27 white paper 2026-11-01",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "A standing call across the office's whole portfolio, white paper first.",
+  "eligibility": "Fully open competition, export controls may apply. Military targeting mission, use your own judgment",
+  "link": "https://govcontractfinder.com/contracts/targeting-operations-and-analytics-development-fa875025s7002",
+  "first_seen": "2026-10-26"
+ },
+ {
+  "sponsor": "AIMO",
+  "program": "Interpretability Challenge NeurIPS 2026",
+  "category": "Industry",
+  "deadline": "2026-11-01",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "An open competition judged on results, not on a proposal.",
+  "eligibility": "",
+  "link": "https://aimo-interp.github.io/",
+  "first_seen": "2026-10-14"
+ },
+ {
   "sponsor": "Alzheimer's Association",
   "program": "BFDN Bridge Funding",
   "category": "Nonprofit",
@@ -2715,6 +2702,19 @@
   "eligibility": "",
   "link": "https://foresight.org/grants/ai-science-safety-nodes-rfp/",
   "first_seen": "2026-10-09"
+ },
+ {
+  "sponsor": "Griffiss Institute",
+  "program": "STFP fellowship",
+  "category": "Nonprofit",
+  "deadline": "2026-11-01",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "A center-scale award for a large multi-investigator team.",
+  "eligibility": "",
+  "link": "https://www.griffissinstitute.org/information-institute/",
+  "first_seen": "2026-10-14"
  },
  {
   "sponsor": "Humanity AI",
