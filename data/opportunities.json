@@ -247,6 +247,32 @@
   "first_seen": "2026-10-14"
  },
  {
+  "sponsor": "DARPA IPTO",
+  "program": "FastVacc RFI DARPA-SN-27-13 (unverified)",
+  "category": "Federal",
+  "deadline": "about 2026-11-06 to 11-13",
+  "next_deadline": "2026-11-06",
+  "status": "open",
+  "award": "",
+  "summary": "A request for comment, not a funding call.",
+  "eligibility": "",
+  "link": "https://www.darpa.mil/rss/opportunities.xml",
+  "first_seen": "2026-11-02"
+ },
+ {
+  "sponsor": "DARPA via Riverside Research",
+  "program": "AI Forge Cycle 2 Project Ventures (limited at peers)",
+  "category": "University",
+  "deadline": "abstract 2026-11-06, full 2026-12-08, Pitch Day 2026-12-11",
+  "next_deadline": "2026-11-06",
+  "status": "open",
+  "award": "",
+  "summary": "An internal university programme.",
+  "eligibility": "",
+  "link": "https://www.stonybrook.edu/proposal-development/funding-opportunities/limited-competitions/_current-competitions/darpa-ai-forge-cycle-2.html",
+  "first_seen": "2026-11-02"
+ },
+ {
   "sponsor": "DoD",
   "program": "FY2027 DURIP N0001426SF003",
   "category": "Federal",
@@ -258,6 +284,19 @@
   "eligibility": "",
   "link": "https://simpler.grants.gov/opportunity/812b55e0-deb1-43cc-a2e2-f9f82ad735ad",
   "first_seen": "2026-10-14"
+ },
+ {
+  "sponsor": "DARPA IPTO",
+  "program": "Nassau Proposers Day DARPA-SN-27-08",
+  "category": "Federal",
+  "deadline": "registration 2026-11-07, event 2026-12-10",
+  "next_deadline": "2026-11-07",
+  "status": "open",
+  "award": "",
+  "summary": "A DARPA programme call, narrow in scope and run to its own schedule.",
+  "eligibility": "",
+  "link": "https://www.darpa.mil/events/2026/proposers-day-nassau",
+  "first_seen": "2026-11-02"
  },
  {
   "sponsor": "ARIA",
@@ -351,6 +390,19 @@
   "first_seen": "2026-10-09"
  },
  {
+  "sponsor": "NSF EDU TIP",
+  "program": "DCL NSF 27-011 Presidential SI Challenge supplements (ineligible)",
+  "category": "Federal",
+  "deadline": "2026-11-10",
+  "next_deadline": "2026-11-10",
+  "status": "open",
+  "award": "",
+  "summary": "An open competition judged on results, not on a proposal.",
+  "eligibility": "",
+  "link": "https://www.nsf.gov/funding/opportunities/dcl-supplemental-funding-requests-support-super-intelligence-si",
+  "first_seen": "2026-11-02"
+ },
+ {
   "sponsor": "NYSERDA",
   "program": "PON 6240 BESS Health Operations",
   "category": "State",
@@ -362,6 +414,19 @@
   "eligibility": "",
   "link": "https://www.nyserda.ny.gov/All-Programs/Grid-Modernization-Program",
   "first_seen": "2026-10-14"
+ },
+ {
+  "sponsor": "Amazon",
+  "program": "UPDATE Research Awards Fall 2026 extended",
+  "category": "Industry",
+  "deadline": "2026-11-11",
+  "next_deadline": "2026-11-11",
+  "status": "open",
+  "award": "",
+  "summary": "An unrestricted gift to one PI, decided in a single global round.",
+  "eligibility": "",
+  "link": "https://www.amazon.science/research-awards/call-for-proposals",
+  "first_seen": "2026-11-02"
  },
  {
   "sponsor": "NSF",
@@ -448,11 +513,24 @@
   "deadline": "2026-11-16, 2026-11-23",
   "next_deadline": "2026-11-16",
   "status": "open",
-  "award": "Unverified",
+  "award": "",
   "summary": "A federal research call.",
-  "eligibility": "Universities are usually eligible, check the solicitation",
+  "eligibility": "",
   "link": "https://nij.ojp.gov/funding/current",
   "first_seen": "2026-10-26"
+ },
+ {
+  "sponsor": "DOJ NIJ",
+  "program": "Byrne SCIP O-NIJ-2026-172798, Illegal Immigration O-NIJ-2026-172800, Gender Dysphoria O-NIJ-2026-172802 (low)",
+  "category": "Federal",
+  "deadline": "2026-11-16, 11-16, 11-23",
+  "next_deadline": "2026-11-16",
+  "status": "open",
+  "award": "",
+  "summary": "A federal research call.",
+  "eligibility": "",
+  "link": "https://nij.ojp.gov/funding/current",
+  "first_seen": "2026-11-02"
  },
  {
   "sponsor": "NIA AITC network",
@@ -531,6 +609,19 @@
   "eligibility": "",
   "link": "https://simpler.grants.gov/opportunity/e4e8aa66-546b-4bf7-994e-395c11b8b7cf",
   "first_seen": "2026-10-14"
+ },
+ {
+  "sponsor": "NOAA OAR CPO",
+  "program": "SI/ML Innovation for Earth System Science and Hazard Resilience NOAA-OAR-CPO-2027-33392",
+  "category": "Federal",
+  "deadline": "LOI 2026-11-17, full 2027-02-09",
+  "next_deadline": "2026-11-17",
+  "status": "open",
+  "award": "",
+  "summary": "A federal research call.",
+  "eligibility": "",
+  "link": "https://simpler.grants.gov/opportunity/df29db0f-809b-40ad-9cbe-c7954b9e5cfd",
+  "first_seen": "2026-11-02"
  },
  {
   "sponsor": "NSF",
@@ -617,9 +708,9 @@
   "deadline": "2026-11-20 (page year conflict)",
   "next_deadline": "2026-11-20",
   "status": "open",
-  "award": "Up to $50K direct, in $25K tiers, 1 year, no indirect costs, earliest start summer 2027",
+  "award": "",
   "summary": "A small starter award, usually to produce preliminary data.",
-  "eligibility": "Any US university that can apply to NIH is eligible, RIT is eligible. ESI encouraged. Teams must span at least two disciplines. Mechanism studies only",
+  "eligibility": "",
   "link": "https://mdrn.ucsf.edu/funding-opportunities",
   "first_seen": "2026-10-26"
  },
@@ -630,11 +721,24 @@
   "deadline": "2026-11-21",
   "next_deadline": "2026-11-21",
   "status": "open",
-  "award": "$40K and up, top 3 in each track",
+  "award": "",
   "summary": "An open competition judged on results, not on a proposal.",
-  "eligibility": "Teams of 2 to 5 people, must present at the NeurIPS 2026 Paris workshop",
+  "eligibility": "",
   "link": "https://steerability.github.io/competition/",
   "first_seen": "2026-10-27"
+ },
+ {
+  "sponsor": "[PRIZE] IBM and partners",
+  "program": "UPDATE Steerability registration closed 2026-11-01 AoE, final 2026-11-21",
+  "category": "Industry",
+  "deadline": "2026-11-21",
+  "next_deadline": "2026-11-21",
+  "status": "open",
+  "award": "",
+  "summary": "An open competition judged on results, not on a proposal.",
+  "eligibility": "",
+  "link": "https://steerability.github.io/competition/",
+  "first_seen": "2026-11-02"
  },
  {
   "sponsor": "NIH Common Fund",
@@ -689,6 +793,19 @@
   "first_seen": "2026-10-14"
  },
  {
+  "sponsor": "AFRL RI",
+  "program": "ATA-AI BAA FA8750-24-S-7004 Amd 5 (unverified)",
+  "category": "Federal",
+  "deadline": "FY27 white paper 2026-11-30",
+  "next_deadline": "2026-11-30",
+  "status": "open",
+  "award": "",
+  "summary": "A standing call across the office's whole portfolio, white paper first.",
+  "eligibility": "",
+  "link": "https://www.bwcoconsulting.com/fod/afrl-ata-ai-baa-fa8750-24-s-7004",
+  "first_seen": "2026-11-02"
+ },
+ {
   "sponsor": "ARPA-H",
   "program": "SURPASS ARPA-H-SOL-26-164",
   "category": "Federal",
@@ -713,6 +830,32 @@
   "eligibility": "",
   "link": "https://simpler.grants.gov/opportunity/a7a290db-16f3-4dde-a454-1edd1ac0dd55",
   "first_seen": "2026-10-23"
+ },
+ {
+  "sponsor": "Microsoft AI Economy Institute",
+  "program": "AIEI Cohort 4 Open Call AI and Jobs",
+  "category": "Industry",
+  "deadline": "2026-11-30",
+  "next_deadline": "2026-11-30",
+  "status": "open",
+  "award": "",
+  "summary": "A center-scale award for a large multi-investigator team.",
+  "eligibility": "",
+  "link": "https://www.microsoft.com/en-us/research/group/aiei/aiei-open-call-4/",
+  "first_seen": "2026-11-02"
+ },
+ {
+  "sponsor": "[PRIZE] ICASSP 2027",
+  "program": "GC-11 EEG-sAAD",
+  "category": "Nonprofit",
+  "deadline": "submission 2026-12-01",
+  "next_deadline": "2026-12-01",
+  "status": "open",
+  "award": "",
+  "summary": "An open competition judged on results, not on a proposal.",
+  "eligibility": "",
+  "link": "https://www.codabench.org/competitions/17856/",
+  "first_seen": "2026-11-02"
  },
  {
   "sponsor": "APS",
@@ -864,11 +1007,24 @@
   "deadline": "registration 2026-12-05, final 2027-03-20",
   "next_deadline": "2026-12-05",
   "status": "open",
-  "award": "$1,500 / $750 / $375 plus NVIDIA GPU",
+  "award": "",
   "summary": "An open competition judged on results, not on a proposal.",
-  "eligibility": "Not stated, historically student teams plus a mentor",
+  "eligibility": "",
   "link": "https://github.com/ABKGroup/ISPD27-Contest",
   "first_seen": "2026-10-27"
+ },
+ {
+  "sponsor": "[PRIZE] Kaggle and Enveda",
+  "program": "CASMI 2026 (unverified)",
+  "category": "Industry",
+  "deadline": "entry 2026-12-07",
+  "next_deadline": "2026-12-07",
+  "status": "open",
+  "award": "Unverified",
+  "summary": "An open competition judged on results, not on a proposal.",
+  "eligibility": "",
+  "link": "https://www.kaggle.com/competitions",
+  "first_seen": "2026-11-02"
  },
  {
   "sponsor": "Alzheimer's Drug Discovery Foundation",
@@ -910,6 +1066,19 @@
   "first_seen": "2026-10-14"
  },
  {
+  "sponsor": "[PRIZE] ICASSP 2027",
+  "program": "GC-4 Audio Editing Challenge",
+  "category": "Industry",
+  "deadline": "ranking 2026-12-08, papers 2027-01-07",
+  "next_deadline": "2026-12-08",
+  "status": "open",
+  "award": "",
+  "summary": "An open competition judged on results, not on a proposal.",
+  "eligibility": "Unverified",
+  "link": "https://audio-editing-challenge.github.io/",
+  "first_seen": "2026-11-02"
+ },
+ {
   "sponsor": "[PRIZE] NIH ODSS",
   "program": "It's About Time: Temporal Reasoning in Biomedical Knowledge Graphs Challenge",
   "category": "Federal",
@@ -918,7 +1087,7 @@
   "status": "open",
   "award": "",
   "summary": "An open competition judged on results, not on a proposal.",
-  "eligibility": "Individuals must be US citizens or permanent residents. Organizations must be registered in the US. Non-citizen team members may take part but cannot receive prize money. Federal grant or cooperative agreement funds may not be used (neither CAREER nor NIH funds can be used)",
+  "eligibility": "",
   "link": "https://www.nih.gov/challenges/its-about-time-temporal-reasoning-biomedical-knowledge-graphs-challenge",
   "first_seen": "2026-10-27"
  },
@@ -1079,6 +1248,19 @@
   "first_seen": "2026-10-23"
  },
  {
+  "sponsor": "Mozilla Foundation",
+  "program": "Fellowship 2027 to 2028 (unverified)",
+  "category": "Foundation",
+  "deadline": "LOI 2026-12-17",
+  "next_deadline": "2026-12-17",
+  "status": "open",
+  "award": "",
+  "summary": "Supports a named individual rather than a project.",
+  "eligibility": "",
+  "link": "https://www.mozillafoundation.org/en/what-we-do/grantmaking/fellowship/2027-call-for-applications/",
+  "first_seen": "2026-11-02"
+ },
+ {
   "sponsor": "DARPA MXO",
   "program": "APM DARPA-PS-26-141",
   "category": "Federal",
@@ -1183,15 +1365,28 @@
   "first_seen": "2026-10-09"
  },
  {
+  "sponsor": "NIH Common Fund",
+  "program": "Kids First RFA-RM-27-010 and RFA-RM-27-008 (low)",
+  "category": "Federal",
+  "deadline": "2027-01-08",
+  "next_deadline": "2027-01-08",
+  "status": "open",
+  "award": "Unverified",
+  "summary": "An NIH request for applications, one topic and a fixed pot.",
+  "eligibility": "",
+  "link": "https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-27-010.html",
+  "first_seen": "2026-11-02"
+ },
+ {
   "sponsor": "[PRIZE] SemEval 2027",
   "program": "Task 7 CLaS Cross Lingual Alignment and Steering, and Task 3 Semantic Change",
   "category": "Industry",
   "deadline": "evaluation 2027-01-10 to 2027-01-31",
   "next_deadline": "2027-01-10",
   "status": "open",
-  "award": "No cash, first place and Best Interpretability Insights Award",
+  "award": "",
   "summary": "An open competition judged on results, not on a proposal.",
-  "eligibility": "No restrictions, prompt-style steering is banned",
+  "eligibility": "No restrictions",
   "link": "https://clas-semeval2027.github.io/clas.semeval2027/task/",
   "first_seen": "2026-10-27"
  },
@@ -1228,9 +1423,9 @@
   "deadline": "2027-01-15",
   "next_deadline": "2027-01-15",
   "status": "open",
-  "award": "1M USD, up to 20 x 50k",
+  "award": "",
   "summary": "An open competition judged on results, not on a proposal.",
-  "eligibility": "US citizen or permanent resident to receive prize, no federal funds, materials must be 508 compliant",
+  "eligibility": "No federal funds allowed",
   "link": "https://www.nih.gov/challenges/advancing-inclusion-people-disabilities-clinical-research-challenge",
   "first_seen": "2026-10-27"
  },
@@ -1241,9 +1436,9 @@
   "deadline": "code 2027-01-15, submissions 2027-01-18 to 2027-01-31",
   "next_deadline": "2027-01-15",
   "status": "open",
-  "award": "$250K, two tasks at $100K plus $25K each",
+  "award": "",
   "summary": "An open competition judged on results, not on a proposal.",
-  "eligibility": "US citizen or permanent resident to receive prize, open-weight models only. Federal funds may be used only if the original award terms allow",
+  "eligibility": "",
   "link": "https://www.nih.gov/challenges/semantic-precision-ai-retrieval-knowledge-spark-dbgap-challenge",
   "first_seen": "2026-10-27"
  },
@@ -1267,9 +1462,9 @@
   "deadline": "2027-01-25",
   "next_deadline": "2027-01-25",
   "status": "open",
-  "award": "Per solicitation",
+  "award": "$50K to $1.2M",
   "summary": "An NSF solicitation with its own topic and deadline.",
-  "eligibility": "Private universities can apply",
+  "eligibility": "",
   "link": "https://simpler.grants.gov/opportunity/be60945c-b310-496b-aacd-b21483440fa2",
   "first_seen": "2026-10-26"
  },
@@ -1287,6 +1482,19 @@
   "first_seen": "2026-10-14"
  },
  {
+  "sponsor": "NASA OSTEM",
+  "program": "FY2027 EPSCoR Basic Research NNH27ZHA001C (EPSCoR states only)",
+  "category": "Federal",
+  "deadline": "2027-02-01",
+  "next_deadline": "2027-02-01",
+  "status": "open",
+  "award": "",
+  "summary": "A federal research call.",
+  "eligibility": "",
+  "link": "https://simpler.grants.gov/search?query=NNH27ZHA001C",
+  "first_seen": "2026-11-02"
+ },
+ {
   "sponsor": "NIH NIBIB",
   "program": "NextTech R18 RFA-EB-28-004",
   "category": "Federal",
@@ -1295,7 +1503,7 @@
   "status": "open",
   "award": "",
   "summary": "An NIH request for applications, one topic and a fixed pot.",
-  "eligibility": "Private universities are eligible, no limit on submissions. Must align with BRAIN or HEAL, ESI gets no extra advantage",
+  "eligibility": "",
   "link": "https://simpler.grants.gov/opportunity/50e5b762-c9bc-49bb-817e-ece3e37c28e6",
   "first_seen": "2026-10-26"
  },
@@ -1306,9 +1514,9 @@
   "deadline": "registration 2027-02-02",
   "next_deadline": "2027-02-02",
   "status": "open",
-  "award": "Amount unverified",
+  "award": "",
   "summary": "An open competition judged on results, not on a proposal.",
-  "eligibility": "US citizen or permanent resident team lead, optional ESI recognition",
+  "eligibility": "",
   "link": "https://www.nih.gov/challenges/real-world-evidence-innovation-challenge",
   "first_seen": "2026-10-27"
  },
@@ -1337,6 +1545,19 @@
   "eligibility": "",
   "link": "https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf25-543/solicitation",
   "first_seen": "2026-10-14"
+ },
+ {
+  "sponsor": "DOE NETL",
+  "program": "SCALED DE-FOA-0003641 (low)",
+  "category": "Federal",
+  "deadline": "2027-02-08",
+  "next_deadline": "2027-02-08",
+  "status": "open",
+  "award": "$1 to $237M",
+  "summary": "A federal research call.",
+  "eligibility": "",
+  "link": "https://simpler.grants.gov/opportunity/f5ae758f-11a7-4897-81c2-553821ff2270",
+  "first_seen": "2026-11-02"
  },
  {
   "sponsor": "NIH NLM",
@@ -1371,11 +1592,24 @@
   "deadline": "2027-02-12",
   "next_deadline": "2027-02-12",
   "status": "open",
-  "award": "$500K to $2M per award, up to 4 years",
+  "award": "",
   "summary": "A federal research call.",
-  "eligibility": "Universities can apply, teams must include regional users",
+  "eligibility": "",
   "link": "https://simpler.grants.gov/opportunity/d7849569-60f9-44bc-879c-d356b0460132",
   "first_seen": "2026-10-26"
+ },
+ {
+  "sponsor": "AFOSR and Taiwan NSTC",
+  "program": "Frontiers in Materials and Nanostructures FA955027S0002",
+  "category": "Federal",
+  "deadline": "2027-02-19",
+  "next_deadline": "2027-02-19",
+  "status": "open",
+  "award": "$150K to $450K",
+  "summary": "A federal research call.",
+  "eligibility": "",
+  "link": "https://simpler.grants.gov/opportunity/d08645c9-6162-453f-84dc-92d4614dc711",
+  "first_seen": "2026-11-02"
  },
  {
   "sponsor": "DARPA",
@@ -1410,9 +1644,9 @@
   "deadline": "2027-03-02",
   "next_deadline": "2027-03-02",
   "status": "open",
-  "award": "Track 1 up to $300K (about 30 awards), Tracks 2 and 3 up to $1.5M (about 10 awards each)",
+  "award": "",
   "summary": "An NSF solicitation with its own topic and deadline.",
-  "eligibility": "Standard NSF eligibility, title must start with \"PESOSE / AI: Track #:\"",
+  "eligibility": "",
   "link": "https://www.nsf.gov/funding/opportunities/dcl-advancing-artificial-intelligence-ai-agent-ecosystems",
   "first_seen": "2026-10-26"
  },
@@ -1449,9 +1683,9 @@
   "deadline": "2027-04-29",
   "next_deadline": "2027-04-29",
   "status": "open",
-  "award": "100k USD",
+  "award": "",
   "summary": "An open competition judged on results, not on a proposal.",
-  "eligibility": "No federal funds allowed",
+  "eligibility": "",
   "link": "https://www.nih.gov/challenges/kidney-artificial-intelligence-discovery-challenge-nebulae-nephrons",
   "first_seen": "2026-10-27"
  },
@@ -1501,9 +1735,9 @@
   "deadline": "open to 2027-09-07",
   "next_deadline": "2027-09-07",
   "status": "open",
-  "award": "Page award field shows $6,000,000, verify in the NOFO",
+  "award": "",
   "summary": "",
-  "eligibility": "Private universities can apply, no matching",
+  "eligibility": "",
   "link": "https://simpler.grants.gov/opportunity/721d5c2c-af72-4c33-8ce6-013b1e8ad59b",
   "first_seen": "2026-10-26"
  },
@@ -1560,6 +1794,19 @@
   "first_seen": "2026-10-14"
  },
  {
+  "sponsor": "NOAA NOS",
+  "program": "FY2026 to 2028 BAA NOAA-NOS-MB-2027-33927",
+  "category": "Federal",
+  "deadline": "2028-09-30",
+  "next_deadline": "2028-09-30",
+  "status": "open",
+  "award": "Unverified",
+  "summary": "A standing call across the office's whole portfolio, white paper first.",
+  "eligibility": "Unverified",
+  "link": "https://simpler.grants.gov/search?query=NOAA-NOS-MB-2027-33927",
+  "first_seen": "2026-11-02"
+ },
+ {
   "sponsor": "AFRL RI",
   "program": "Foundations of Trusted Systems BAA FA875025S7001",
   "category": "Federal",
@@ -1568,7 +1815,7 @@
   "status": "open",
   "award": "Up to $99.9M",
   "summary": "A standing call across the office's whole portfolio, white paper first.",
-  "eligibility": "Eligibility \"Other\", details in the SAM notice",
+  "eligibility": "",
   "link": "https://simpler.grants.gov/opportunity/ff8fbbe7-3760-439d-bfbc-4b5de37295d6",
   "first_seen": "2026-10-26"
  },
@@ -1581,7 +1828,7 @@
   "status": "open",
   "award": "Up to $24.9M",
   "summary": "A standing call across the office's whole portfolio, white paper first.",
-  "eligibility": "not listed",
+  "eligibility": "",
   "link": "https://simpler.grants.gov/search?query=FA875024S7003",
   "first_seen": "2026-10-26"
  },
@@ -1592,9 +1839,9 @@
   "deadline": "rolling to 2029-05-31",
   "next_deadline": "2029-05-31",
   "status": "open",
-  "award": "Depends on topic: contract, grant, cooperative agreement, or OT",
+  "award": "",
   "summary": "A standing call across the office's whole portfolio, white paper first.",
-  "eligibility": "Universities are explicitly eligible, no limit on submissions",
+  "eligibility": "",
   "link": "https://dhs.gov/science-and-technology/st-lrbaa",
   "first_seen": "2026-10-26"
  },
@@ -1605,9 +1852,9 @@
   "deadline": "rolling to 2029-08-31",
   "next_deadline": "2029-08-31",
   "status": "open",
-  "award": "Small conference grants",
+  "award": "$1 to $2M",
   "summary": "Supports a meeting rather than research.",
-  "eligibility": "Universities can apply",
+  "eligibility": "",
   "link": "https://simpler.grants.gov/search?query=FA955026S0002",
   "first_seen": "2026-10-26"
  },
@@ -1644,9 +1891,9 @@
   "deadline": "open now, deadline unverified",
   "next_deadline": "",
   "status": "rolling",
-  "award": "No cash, prize is an ICASSP 2027 paper",
+  "award": "",
   "summary": "An open competition judged on results, not on a proposal.",
-  "eligibility": "No restrictions",
+  "eligibility": "",
   "link": "https://cadenzachallenge.org/docs/clip2/intro",
   "first_seen": "2026-10-27"
  },
@@ -1657,11 +1904,24 @@
   "deadline": "see dates",
   "next_deadline": "",
   "status": "rolling",
-  "award": "",
+  "award": "1M USD",
   "summary": "An open competition judged on results, not on a proposal.",
   "eligibility": "",
   "link": "https://www.nih.gov/challenges",
   "first_seen": "2026-10-27"
+ },
+ {
+  "sponsor": "[PRIZE] Prima Mente and AD Data Initiative",
+  "program": "Alzheimer's Translation Challenge (unverified)",
+  "category": "Nonprofit",
+  "deadline": "data spring 2027",
+  "next_deadline": "",
+  "status": "rolling",
+  "award": "",
+  "summary": "An open competition judged on results, not on a proposal.",
+  "eligibility": "",
+  "link": "https://www.alzheimersdata.org/accelerating-research/data-challenges",
+  "first_seen": "2026-11-02"
  },
  {
   "sponsor": "[PRIZE] SIGNALS",
@@ -1690,6 +1950,19 @@
   "first_seen": "2026-10-16"
  },
  {
+  "sponsor": "ACL NIDILRR",
+  "program": "RERC RecTech HHS-2027-ACL-NIDILRR-REGE-0312 and other FY27 forecasts",
+  "category": "Federal",
+  "deadline": "TBD",
+  "next_deadline": "",
+  "status": "rolling",
+  "award": "$970K to $975K",
+  "summary": "A disability and rehabilitation research project, three years.",
+  "eligibility": "",
+  "link": "https://simpler.grants.gov/search?query=NIDILRR",
+  "first_seen": "2026-11-02"
+ },
+ {
   "sponsor": "AFOSR",
   "program": "Open BAA FA955026S0001",
   "category": "Federal",
@@ -1714,6 +1987,19 @@
   "eligibility": "",
   "link": "https://www.aialignmentfoundation.org/approach/apply",
   "first_seen": "2026-10-14"
+ },
+ {
+  "sponsor": "American Academy of Audiology Foundation",
+  "program": "Investigator Research Grant",
+  "category": "Foundation",
+  "deadline": "next cycle unverified",
+  "next_deadline": "",
+  "status": "rolling",
+  "award": "Up to 20k, 1 years",
+  "summary": "A private foundation grant.",
+  "eligibility": "",
+  "link": "https://www.audiology.org/foundation/our-work/research-and-education/",
+  "first_seen": "2026-11-02"
  },
  {
   "sponsor": "Anthropic",
@@ -1787,9 +2073,9 @@
   "deadline": "rolling",
   "next_deadline": "",
   "status": "rolling",
-  "award": "Typically $25K to $40K, indirect costs capped at 10%",
+  "award": "",
   "summary": "A nonprofit grant.",
-  "eligibility": "Scholars can apply, must be s-risk related",
+  "eligibility": "",
   "link": "https://longtermrisk.org/grantmaking/",
   "first_seen": "2026-10-26"
  },
@@ -1846,6 +2132,32 @@
   "first_seen": "2026-10-14"
  },
  {
+  "sponsor": "Convergent Research",
+  "program": "Ideas for Focused Research Organizations",
+  "category": "Nonprofit",
+  "deadline": "anytime",
+  "next_deadline": "",
+  "status": "rolling",
+  "award": "",
+  "summary": "A nonprofit grant.",
+  "eligibility": "",
+  "link": "https://www.convergentresearch.org/get-involved",
+  "first_seen": "2026-11-02"
+ },
+ {
+  "sponsor": "Cure Alzheimer's Fund",
+  "program": "Letter of inquiry",
+  "category": "Nonprofit",
+  "deadline": "rolling",
+  "next_deadline": "",
+  "status": "rolling",
+  "award": "",
+  "summary": "A nonprofit grant.",
+  "eligibility": "",
+  "link": "https://curealz.org/the-research/grant-process/",
+  "first_seen": "2026-11-02"
+ },
+ {
   "sponsor": "DARPA",
   "program": "YFA 2027 (not yet posted)",
   "category": "Federal",
@@ -1870,6 +2182,19 @@
   "eligibility": "",
   "link": "https://www.darpa.mil/research/programs/ai-forge",
   "first_seen": "2026-10-14"
+ },
+ {
+  "sponsor": "DEVCOM Analysis Center",
+  "program": "Applied Research BAA (unverified)",
+  "category": "",
+  "deadline": "about 2028-01",
+  "next_deadline": "",
+  "status": "rolling",
+  "award": "",
+  "summary": "A standing call across the office's whole portfolio, white paper first.",
+  "eligibility": "",
+  "link": "none",
+  "first_seen": "2026-11-02"
  },
  {
   "sponsor": "DOE SC",
@@ -1982,9 +2307,9 @@
   "deadline": "rolling",
   "next_deadline": "",
   "status": "rolling",
-  "award": "Not listed, 2 months to 1 years",
+  "award": "",
   "summary": "A center-scale award for a large multi-investigator team.",
-  "eligibility": "US citizen or permanent resident",
+  "eligibility": "",
   "link": "https://www.griffissinstitute.org/information-institute/",
   "first_seen": "2026-10-26"
  },
@@ -2023,7 +2348,7 @@
   "status": "rolling",
   "award": "",
   "summary": "A federal research call.",
-  "eligibility": "Not stated whether universities are accepted, procurement style",
+  "eligibility": "",
   "link": "https://www.iarpa.gov/marketplace",
   "first_seen": "2026-10-26"
  },
@@ -2039,6 +2364,19 @@
   "eligibility": "",
   "link": "https://www.iliad.ac/opportunity/2026-request-for-proposals",
   "first_seen": "2026-10-14"
+ },
+ {
+  "sponsor": "Iliad",
+  "program": "Open Call for Research Projects",
+  "category": "Foundation",
+  "deadline": "rolling",
+  "next_deadline": "",
+  "status": "rolling",
+  "award": "",
+  "summary": "An open call, with the funder setting the topic.",
+  "eligibility": "",
+  "link": "https://www.iliad.ac/opportunity/open-call-fund-your-bet",
+  "first_seen": "2026-11-02"
  },
  {
   "sponsor": "Lambda",
@@ -2060,9 +2398,9 @@
   "deadline": "rolling",
   "next_deadline": "",
   "status": "rolling",
-  "award": "Not listed on the page ($250K unconfirmed)",
+  "award": "",
   "summary": "A center-scale award for a large multi-investigator team.",
-  "eligibility": "Research turned into open source infrastructure or a startup",
+  "eligibility": "",
   "link": "https://laude.org/slingshots",
   "first_seen": "2026-10-26"
  },
@@ -2075,7 +2413,7 @@
   "status": "rolling",
   "award": "",
   "summary": "A federal research call.",
-  "eligibility": "Terms unverified",
+  "eligibility": "",
   "link": "https://st.llnl.gov/about-us/AEO/university-collaborations",
   "first_seen": "2026-10-26"
  },
@@ -2327,6 +2665,19 @@
   "first_seen": "2026-10-16"
  },
  {
+  "sponsor": "NSF and BSF",
+  "program": "NSF-BSF joint route",
+  "category": "Federal",
+  "deadline": "follows NSF dates",
+  "next_deadline": "",
+  "status": "rolling",
+  "award": "",
+  "summary": "A federal research call.",
+  "eligibility": "",
+  "link": "https://trdf.technion.ac.il/en/calls-for-proposals/nsf-bsf-programs/",
+  "first_seen": "2026-11-02"
+ },
+ {
   "sponsor": "NSF ENG",
   "program": "ECCS NSF 26-514 (EPCL)",
   "category": "Federal",
@@ -2426,7 +2777,7 @@
   "status": "rolling",
   "award": "",
   "summary": "A nonprofit grant.",
-  "eligibility": "not listed",
+  "eligibility": "",
   "link": "https://www.paradigm3.org/research/fund",
   "first_seen": "2026-10-26"
  },
@@ -2455,6 +2806,19 @@
   "eligibility": "",
   "link": "https://www.schmidtsciences.org/ai-interpretability/",
   "first_seen": "2026-10-16"
+ },
+ {
+  "sponsor": "Siemens EDA",
+  "program": "Academic Partner Grant",
+  "category": "Industry",
+  "deadline": "not stated",
+  "next_deadline": "",
+  "status": "rolling",
+  "award": "",
+  "summary": "A company programme.",
+  "eligibility": "",
+  "link": "https://www.siemens.com/en-us/company/academic-future-workforce/educators/eda-higher-education-software/",
+  "first_seen": "2026-11-02"
  },
  {
   "sponsor": "SIGNALS",
@@ -2496,6 +2860,32 @@
   "first_seen": "2026-10-16"
  },
  {
+  "sponsor": "Survival and Flourishing Fund",
+  "program": "Rolling Application (Speculation Grants)",
+  "category": "",
+  "deadline": "rolling",
+  "next_deadline": "",
+  "status": "rolling",
+  "award": "",
+  "summary": "",
+  "eligibility": "",
+  "link": "https://survivalandflourishing.fund/2026/application",
+  "first_seen": "2026-11-02"
+ },
+ {
+  "sponsor": "Teach Access",
+  "program": "Faculty Grants",
+  "category": "Nonprofit",
+  "deadline": "not stated",
+  "next_deadline": "",
+  "status": "rolling",
+  "award": "",
+  "summary": "A nonprofit grant.",
+  "eligibility": "",
+  "link": "https://www.teachaccess.org/initiatives/grants/faqs/",
+  "first_seen": "2026-11-02"
+ },
+ {
   "sponsor": "Thinking Machines",
   "program": "Tinker Research Grants",
   "category": "Industry",
@@ -2528,11 +2918,24 @@
   "deadline": "rolling",
   "next_deadline": "",
   "status": "rolling",
-  "award": "Up to 1,000 USD GPU in credits",
+  "award": "",
   "summary": "An allocation of compute or model access rather than money.",
-  "eligibility": "academic researchers",
+  "eligibility": "",
   "link": "https://www.yottalabs.ai/post/research-credits-update",
   "first_seen": "2026-10-26"
+ },
+ {
+  "sponsor": "[PRIZE] Cadenza",
+  "program": "UPDATE CLIP2 deadline verified as 2026-10-30 AoE, passed",
+  "category": "Nonprofit",
+  "deadline": "2026-10-30",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "An open competition judged on results, not on a proposal.",
+  "eligibility": "",
+  "link": "https://cadenzachallenge.org/docs/clip2/key_dates",
+  "first_seen": "2026-11-02"
  },
  {
   "sponsor": "AFRL RI",
@@ -2543,7 +2946,7 @@
   "status": "closed",
   "award": "",
   "summary": "A standing call across the office's whole portfolio, white paper first.",
-  "eligibility": "Fully open competition, export controls may apply. Military targeting mission, use your own judgment",
+  "eligibility": "",
   "link": "https://govcontractfinder.com/contracts/targeting-operations-and-analytics-development-fa875025s7002",
   "first_seen": "2026-10-26"
  },
@@ -2593,9 +2996,9 @@
   "deadline": "2026-10-30",
   "next_deadline": "",
   "status": "closed",
-  "award": "Up to $50K per award, duration not listed",
+  "award": "",
   "summary": "A company programme.",
-  "eligibility": "US university tenure-track faculty, individuals or teams",
+  "eligibility": "",
   "link": "https://arena.ai/blog/academic-program-fall-2026",
   "first_seen": "2026-10-26"
  },
