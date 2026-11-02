@@ -231,18 +231,3 @@ MIREX (ISMIR),prize_challenge,https://www.music-ir.org/mirex/wiki/MIREX_HOME,fal
 Center for AI Safety Compute Cluster,ai_safety_philanthropy,https://www.safe.ai/compute-cluster,true,"rolling when open, currently not accepting new external applications",unknown
 "Mozilla Foundation grantmaking (Incubator, Fellows, Responsible Computing Challenge, Collaborative Funds)",foundation_general,https://www.mozillafoundation.org/ca/what-we-do/grantmaking/,true,"irregular open calls, e.g. Democracy x AI cohort spring 2026 (about $50k each)",open
 Fulbright U.S. Scholar Program,federal_niche,https://fulbrightscholars.org/us-scholar-awards,true,"annual, opens February, deadline mid September",open
-DARPA opportunities RSS,aggregator_early_signal,https://www.darpa.mil/rss/opportunities.xml,true,Continuous,open
-DARPA AI Forge (Riverside Research),defense_niche,https://www.darpa.mil/research/programs/ai-forge,true,"Cycles, Cycle 2 fall 2026",limited
-Stony Brook limited competitions,aggregator_early_signal,https://www.stonybrook.edu/proposal-development/funding-opportunities/limited-competitions/,true,Continuous,open
-Microsoft AI Economy Institute,industry_longtail,https://www.microsoft.com/en-us/research/group/aiei/,true,Cohort calls,open
-Hevolution Foundation,adjacent_domain,https://hevolution.com,false,Unknown,unknown
-Open Source for Science Fund (Renaissance Philanthropy),foundation_general,https://www.renaissancephilanthropy.org/insights/open-source-for-science-fund-launches,false,LOI based,open
-Oberkotter Foundation,health_accessibility,https://www.acialliance.org/page/ACIAResearch,false,Annual RFP,open
-Fondation Pour l'Audition,health_accessibility,https://www.fondationpourlaudition.org/,false,Annual,unknown
-ALCF AI for Science,compute,https://www.alcf.anl.gov/,false,"Annual, about February",open
-ICLAD GenAI Chip Hackathon at DAC,prize_challenge,https://dac.com/Conference/ICLAD-GenAI-Chip-HackathonDAC,false,Annual with DAC,open
-EDAthon (CityU Hong Kong),prize_challenge,https://sites.google.com/view/ceda-hk/edathon-2026,false,Annual,open
-AD Data Initiative data challenges,prize_challenge,https://www.alzheimersdata.org/accelerating-research/data-challenges,false,Irregular,open
-Text2SPARQL challenge,prize_challenge,https://text2sparql.aksw.org/2026/,true,Annual,open
-DOE OE Digitizing Utilities Prize,prize_challenge,https://www.energy.gov/oe/articles/energy-department-relaunches-digitizing-utilities-prize-round-3,true,Rounds,open
-IEEE DataPort competitions,prize_challenge,https://ieee-dataport.org/competitions/good-datasets-ai-model-training-power-and-energy-domain,false,Irregular,open
