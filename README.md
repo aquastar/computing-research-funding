@@ -1,7 +1,7 @@
 # Computing research funding
 
 Open calls for research funding in AI and computing, from federal agencies, foundations and
-industry, swept twice a week. **126 open now, 69 rolling**, out of
+industry, swept twice a week. **120 open now, 69 rolling**, out of
 232 tracked, plus a watchlist of 232 funders checked on every sweep.
 
 **Browse it as a website:** [https://zhiqian.ai/funding](https://zhiqian.ai/funding)
@@ -10,19 +10,12 @@ industry, swept twice a week. **126 open now, 69 rolling**, out of
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-11-02 (brief of 2026-10-26). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
+Last synced 2026-11-03 (brief of 2026-10-26). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
 
 ## Open calls, soonest first
 
 | Deadline | Sponsor | Program | Type | Award |
 |---|---|---|---|---|
-| 2026-11-02 | [PRIZE] ARC Prize Foundation | [ARC Prize 2026 incl Paper Prize](https://arcprize.org/competitions/2026) | Foundation |  |
-| 2026-11-02 | [PRIZE] Gray Swan AI | [Arena Indirect Prompt Injection wave](https://app.grayswan.ai/arena) | Industry |  |
-| 2026-11-02 | Anthropic | [AI for Science API credits](https://support.claude.com/en/articles/11199177-anthropics-ai-for-science-program) | Industry |  |
-| 2026-11-02 | MathWorks | [Research Support CFP Fall 2026](https://www.mathworks.com/academia/research/call-for-research-proposals.html) | Industry |  |
-| 2026-11-02 | National Academies | [NRC Research Associateship Programs senior](https://www.nationalacademies.org/our-work/rap/for-applicants) | Nonprofit |  |
-| 2026-11-02 | Retirement Research Foundation | [Research grants LOI](https://www.rrf.org/apply-for-a-grant/research-grants/) | Foundation |  |
-| 2026-11-02 | USDA NIFA | [SBIR II, HSI, 1890, Citrus, Tribal, NLGCA NOFOs (low fit)](https://www.nifa.usda.gov/grants/funding-opportunities) | Federal |  |
 | 2026-11-03 | ACLS | [Digital Justice Grants (unverified)](https://research.fas.harvard.edu/current-opportunities) | University |  |
 | 2026-11-03 | DARPA DSO | [Liquid Surge DARPA-PA-25-07-05](https://www.darpa.mil/research/programs/liquid-surge) | Federal |  |
 | 2026-11-03 | Mellon, McKnight | [Emerging Faculty Leaders, Scholar Awards (unverified)](https://research.fas.harvard.edu/current-opportunities) | University |  |
@@ -36,6 +29,7 @@ Last synced 2026-11-02 (brief of 2026-10-26). Entries marked unverified were not
 | 2026-11-05 | DARPA BTO | [Hubble DARPA-SN-26-121](https://www.darpa.mil/research/programs/hubble) | Federal |  |
 | 2026-11-06 | Dana Foundation | [Professional Development Awards and MA3 Challenge](https://dana.org/grants/) | Foundation |  |
 | 2026-11-06 | DoD | [FY2027 DURIP N0001426SF003](https://simpler.grants.gov/opportunity/812b55e0-deb1-43cc-a2e2-f9f82ad735ad) | Federal |  |
+| 2026-11-08 | [PRIZE] ARC Prize Foundation | [ARC Prize 2026 incl Paper Prize](https://arcprize.org/competitions/2026) | Foundation |  |
 | 2026-11-09 | ARIA | [Precision Mitochondria RFP](https://aria.org.uk/opportunity-spaces/programmable-physiology/precision-mitochondria/funding) | Public (non-US) |  |
 | 2026-11-09 | DARPA | [Firefox DARPA-PS-26-137](https://www.darpa.mil/research/programs/firefox) | Federal |  |
 | 2026-11-09 | DOE SC | [Genesis Mission Graduate Fellowship DE-FOA-0003673](https://science.osti.gov/grants/FOAs/FOAs/2027/DE-FOA-0003673) | Federal | Up to $20M |
