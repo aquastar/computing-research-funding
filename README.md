@@ -1,7 +1,7 @@
 # Computing research funding
 
 Open calls for research funding in AI and computing, from federal agencies, foundations and
-industry, swept twice a week. **120 open now, 69 rolling**, out of
+industry, swept twice a week. **117 open now, 69 rolling**, out of
 232 tracked, plus a watchlist of 232 funders checked on every sweep.
 
 **Browse it as a website:** [https://zhiqian.ai/funding](https://zhiqian.ai/funding)
@@ -10,17 +10,12 @@ industry, swept twice a week. **120 open now, 69 rolling**, out of
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-11-03 (brief of 2026-10-26). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
+Last synced 2026-11-04 (brief of 2026-10-26). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
 
 ## Open calls, soonest first
 
 | Deadline | Sponsor | Program | Type | Award |
 |---|---|---|---|---|
-| 2026-11-03 | ACLS | [Digital Justice Grants (unverified)](https://research.fas.harvard.edu/current-opportunities) | University |  |
-| 2026-11-03 | DARPA DSO | [Liquid Surge DARPA-PA-25-07-05](https://www.darpa.mil/research/programs/liquid-surge) | Federal |  |
-| 2026-11-03 | Mellon, McKnight | [Emerging Faculty Leaders, Scholar Awards (unverified)](https://research.fas.harvard.edu/current-opportunities) | University |  |
-| 2026-11-03 | NASA | [STRI26 B3 NNH26ZTR001N-26STRI-B3 and NIAC Phase I 27NIAC-A1](https://simpler.grants.gov/opportunity/8e88d1fa-97f8-4244-a067-3682d3ac3818) | Federal |  |
-| 2026-11-03 | Water Research Foundation | [RFP 5407 and RFP 5408](https://portal.waterrf.org/outbound-grants) | Foundation |  |
 | 2026-11-04 | Amazon | [Amazon Research Awards Fall 2026 (9 calls)](https://www.amazon.science/research-awards/call-for-proposals) | Industry |  |
 | 2026-11-04 | CIFAR | [Global Scholars 2027 to 2029](https://www.cifar.ca/global-scholars/) | Public (non-US) |  |
 | 2026-11-04 | NSF | [AI Datasets NSF 26-512](https://www.nsf.gov/funding/opportunities/ai-datasets-unlocking-dataset-value-ai-enabled-scientific-discovery/nsf26-512/solicitation) | Federal | ~$1.2M to $4M |
@@ -67,6 +62,7 @@ Last synced 2026-11-03 (brief of 2026-10-26). Entries marked unverified were not
 | 2026-11-30 | DOJ NIJ | [Elder Abuse O-NIJ-2026-172804, Gangs O-NIJ-2026-172806, Drones O-NIJ-2026-172805](https://simpler.grants.gov/opportunity/a7a290db-16f3-4dde-a454-1edd1ac0dd55) |  |  |
 | 2026-12-01 | APS | [Franklin Research Grants](https://www.amphilsoc.org/grants/franklin-research-grants) | Nonprofit |  |
 | 2026-12-01 | ARIA | [Robot Dexterity Benchmarks Standards RFP](https://aria.org.uk/opportunity-spaces/adaptive-machines/robot-dexterity/funding) | Public (non-US) |  |
+| 2026-12-01 | Mellon, McKnight | [Emerging Faculty Leaders, Scholar Awards (unverified)](https://research.fas.harvard.edu/current-opportunities) | University |  |
 | 2026-12-01 | Simons Foundation | [Utilizing the Full Power of Empire AI RFA](https://www.simonsfoundation.org/grant/utilizing-the-full-power-of-empire-ai-request-for-applications/) | Foundation |  |
 | 2026-12-01 | Simons Foundation | [Math+AI Institutes 2027 (unverified) and SPARK Research Match](https://www.simonsfoundation.org/funding-opportunities/) | Foundation |  |
 | 2026-12-02 | ARPA-H | [SPECTRA ARPA-H-SOL-26-163](https://arpa-h.gov/explore-funding/programs/spectra) | Federal |  |
@@ -87,6 +83,7 @@ Last synced 2026-11-03 (brief of 2026-10-26). Entries marked unverified were not
 | 2026-12-11 | ONR | [DoN HBCU/MI N0001426SF001 (ineligible)](https://www.onr.navy.mil/work-with-us/funding-opportunities/announcements) | Federal |  |
 | 2026-12-14 | ACL NIDILRR | [FIP Development HHS-2027-ACL-NIDILRR-IFDV-0304 (forecast)](https://simpler.grants.gov/opportunity/9179a04a-da76-447f-8d23-3a5e899ddd47) | Federal | $245K to $250K |
 | 2026-12-14 | ACL NIDILRR | [FIP Research HHS-2027-ACL-NIDILRR-IFRE-0303 (forecast)](https://simpler.grants.gov/opportunity/23540a91-8dc4-454a-89d1-9ecc031b819c) | Federal | $245K to $250K |
+| 2026-12-14 | DARPA DSO | [Liquid Surge DARPA-PA-25-07-05](https://www.darpa.mil/research/programs/liquid-surge) | Federal |  |
 | 2026-12-14 | NIH NHGRI | [IGVF Computational Modeling RFA-HG-27-010](https://simpler.grants.gov/opportunity/c223b7bc-1da4-4533-a09f-d35659e6d29b) | Federal | Up to $800K |
 | 2026-12-15 | AFAR | [Grants for Junior Faculty and Sagol GerOmic Award](https://www.afar.org/funding-opportunities) | Nonprofit |  |
 | 2026-12-15 | Alzheimer's Association | [PTC-EM-AI](https://www.alz.org/research/for_researchers/grants/types-of-grants) | Nonprofit |  |
