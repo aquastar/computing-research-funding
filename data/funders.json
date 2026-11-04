@@ -1854,5 +1854,125 @@
   "link_verified": true,
   "cycle": "annual, opens February, deadline mid September",
   "access": "open"
+ },
+ {
+  "funder": "DARPA opportunities RSS",
+  "category": "aggregator_early_signal",
+  "link": "https://www.darpa.mil/rss/opportunities.xml",
+  "link_verified": true,
+  "cycle": "Continuous",
+  "access": "open"
+ },
+ {
+  "funder": "DARPA AI Forge (Riverside Research)",
+  "category": "defense_niche",
+  "link": "https://www.darpa.mil/research/programs/ai-forge",
+  "link_verified": true,
+  "cycle": "Cycles, Cycle 2 fall 2026",
+  "access": "limited"
+ },
+ {
+  "funder": "Stony Brook limited competitions",
+  "category": "aggregator_early_signal",
+  "link": "https://www.stonybrook.edu/proposal-development/funding-opportunities/limited-competitions/",
+  "link_verified": true,
+  "cycle": "Continuous",
+  "access": "open"
+ },
+ {
+  "funder": "Microsoft AI Economy Institute",
+  "category": "industry_longtail",
+  "link": "https://www.microsoft.com/en-us/research/group/aiei/",
+  "link_verified": true,
+  "cycle": "Cohort calls",
+  "access": "open"
+ },
+ {
+  "funder": "Hevolution Foundation",
+  "category": "adjacent_domain",
+  "link": "https://hevolution.com",
+  "link_verified": false,
+  "cycle": "Unknown",
+  "access": "unknown"
+ },
+ {
+  "funder": "Open Source for Science Fund (Renaissance Philanthropy)",
+  "category": "foundation_general",
+  "link": "https://www.renaissancephilanthropy.org/insights/open-source-for-science-fund-launches",
+  "link_verified": false,
+  "cycle": "LOI based",
+  "access": "open"
+ },
+ {
+  "funder": "Oberkotter Foundation",
+  "category": "health_accessibility",
+  "link": "https://www.acialliance.org/page/ACIAResearch",
+  "link_verified": false,
+  "cycle": "Annual RFP",
+  "access": "open"
+ },
+ {
+  "funder": "Fondation Pour l'Audition",
+  "category": "health_accessibility",
+  "link": "https://www.fondationpourlaudition.org/",
+  "link_verified": false,
+  "cycle": "Annual",
+  "access": "unknown"
+ },
+ {
+  "funder": "ALCF AI for Science",
+  "category": "compute",
+  "link": "https://www.alcf.anl.gov/",
+  "link_verified": false,
+  "cycle": "Annual, about February",
+  "access": "open"
+ },
+ {
+  "funder": "ICLAD GenAI Chip Hackathon at DAC",
+  "category": "prize_challenge",
+  "link": "https://dac.com/Conference/ICLAD-GenAI-Chip-HackathonDAC",
+  "link_verified": false,
+  "cycle": "Annual with DAC",
+  "access": "open"
+ },
+ {
+  "funder": "EDAthon (CityU Hong Kong)",
+  "category": "prize_challenge",
+  "link": "https://sites.google.com/view/ceda-hk/edathon-2026",
+  "link_verified": false,
+  "cycle": "Annual",
+  "access": "open"
+ },
+ {
+  "funder": "AD Data Initiative data challenges",
+  "category": "prize_challenge",
+  "link": "https://www.alzheimersdata.org/accelerating-research/data-challenges",
+  "link_verified": false,
+  "cycle": "Irregular",
+  "access": "open"
+ },
+ {
+  "funder": "Text2SPARQL challenge",
+  "category": "prize_challenge",
+  "link": "https://text2sparql.aksw.org/2026/",
+  "link_verified": true,
+  "cycle": "Annual",
+  "access": "open"
+ },
+ {
+  "funder": "DOE OE Digitizing Utilities Prize",
+  "category": "prize_challenge",
+  "link": "https://www.energy.gov/oe/articles/energy-department-relaunches-digitizing-utilities-prize-round-3",
+  "link_verified": true,
+  "cycle": "Rounds",
+  "access": "open"
+ },
+ {
+  "funder": "IEEE DataPort competitions",
+  "category": "prize_challenge",
+  "link": "https://ieee-dataport.org/competitions/good-datasets-ai-model-training-power-and-energy-domain",
+  "link_verified": false,
+  "cycle": "Irregular",
+  "access": "open"
  }
 ]
