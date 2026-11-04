@@ -246,3 +246,7 @@ AD Data Initiative data challenges,prize_challenge,https://www.alzheimersdata.or
 Text2SPARQL challenge,prize_challenge,https://text2sparql.aksw.org/2026/,true,Annual,open
 DOE OE Digitizing Utilities Prize,prize_challenge,https://www.energy.gov/oe/articles/energy-department-relaunches-digitizing-utilities-prize-round-3,true,Rounds,open
 IEEE DataPort competitions,prize_challenge,https://ieee-dataport.org/competitions/good-datasets-ai-model-training-power-and-energy-domain,false,Irregular,open
+NAMM Foundation Music Research Grants,adjacent_domain,https://www.nammfoundation.org/node/1494,false,Annual. Round 1 deadline in spring (June 6 2025 and April 1 2026 seen),open
+Sound Health (NIH with the Kennedy Center and NEA),federal_niche,https://www.nih.gov/sound-health,false,Irregular. NIH Music and Health notices (PAR-21-099 and PAR-21-100 era) and NEA Sound Health Network solicitations,open
+Sony CSL Paris music team,industry_longtail,https://cslmusicteam.sony.fr/,false,No call. Collaboration by contact,invitation
+Moises (Music.AI),industry_longtail,https://moises.ai/newsroom/,false,No grant program seen. Sponsors ISMIR and runs academic partnerships,invitation

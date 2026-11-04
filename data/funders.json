@@ -1974,5 +1974,37 @@
   "link_verified": false,
   "cycle": "Irregular",
   "access": "open"
+ },
+ {
+  "funder": "NAMM Foundation Music Research Grants",
+  "category": "adjacent_domain",
+  "link": "https://www.nammfoundation.org/node/1494",
+  "link_verified": false,
+  "cycle": "Annual. Round 1 deadline in spring (June 6 2025 and April 1 2026 seen)",
+  "access": "open"
+ },
+ {
+  "funder": "Sound Health (NIH with the Kennedy Center and NEA)",
+  "category": "federal_niche",
+  "link": "https://www.nih.gov/sound-health",
+  "link_verified": false,
+  "cycle": "Irregular. NIH Music and Health notices (PAR-21-099 and PAR-21-100 era) and NEA Sound Health Network solicitations",
+  "access": "open"
+ },
+ {
+  "funder": "Sony CSL Paris music team",
+  "category": "industry_longtail",
+  "link": "https://cslmusicteam.sony.fr/",
+  "link_verified": false,
+  "cycle": "No call. Collaboration by contact",
+  "access": "invitation"
+ },
+ {
+  "funder": "Moises (Music.AI)",
+  "category": "industry_longtail",
+  "link": "https://moises.ai/newsroom/",
+  "link_verified": false,
+  "cycle": "No grant program seen. Sponsors ISMIR and runs academic partnerships",
+  "access": "invitation"
  }
 ]

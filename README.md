@@ -2,7 +2,7 @@
 
 Open calls for research funding in AI and computing, from federal agencies, foundations and
 industry, swept twice a week. **136 open now, 80 rolling**, out of
-263 tracked, plus a watchlist of 247 funders checked on every sweep.
+263 tracked, plus a watchlist of 251 funders checked on every sweep.
 
 **Browse it as a website:** [https://zhiqian.ai/funding](https://zhiqian.ai/funding)
 
