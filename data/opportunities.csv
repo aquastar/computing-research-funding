@@ -1,8 +1,4 @@
 sponsor,program,category,deadline,next_deadline,status,award,summary,eligibility,link,first_seen
-Amazon,Amazon Research Awards Fall 2026 (9 calls),Industry,2026-11-04,2026-11-04,open,,"An unrestricted gift to one PI, decided in a single global round.",,https://www.amazon.science/research-awards/call-for-proposals,2026-10-09
-CIFAR,Global Scholars 2027 to 2029,Public (non-US),2026-11-04,2026-11-04,open,,A call from a public funder outside the US.,,https://www.cifar.ca/global-scholars/,2026-10-14
-NSF,AI Datasets NSF 26-512,Federal,2026-11-04,2026-11-04,open,~$1.2M to $4M,An NSF solicitation with its own topic and deadline.,,https://www.nsf.gov/funding/opportunities/ai-datasets-unlocking-dataset-value-ai-enabled-scientific-discovery/nsf26-512/solicitation,2026-10-09
-NSF,AI Infrastructure Hubs NSF 26-513 (limited),Federal,2026-11-04,2026-11-04,open,~$4M to $10M,A center-scale award for a large multi-investigator team.,,https://www.nsf.gov/funding/opportunities/us-national-science-foundation-state-regional-artificial/nsf26-513/solicitation,2026-10-09
 Anthropic,Guest Investigator Program in the Life Sciences,Industry,about 2026-11-05,2026-11-05,open,,A company programme.,,https://www.anthropic.com/news/open-call-guest-investigators-life-sciences,2026-10-23
 DARPA BTO,Hubble DARPA-SN-26-121,Federal,2026-11-05,2026-11-05,open,,"A DARPA programme call, narrow in scope and run to its own schedule.",,https://www.darpa.mil/research/programs/hubble,2026-10-14
 Dana Foundation,Professional Development Awards and MA3 Challenge,Foundation,"2026-11-06, 2027-01-08",2026-11-06,open,,"An open competition judged on results, not on a proposal.",,https://dana.org/grants/,2026-10-14
@@ -222,6 +218,7 @@ AFRL RI,Targeting Operations and Analytics Development BAA FA875025S7002 (unveri
 AIMO,Interpretability Challenge NeurIPS 2026,Industry,2026-11-01,,closed,,"An open competition judged on results, not on a proposal.",,https://aimo-interp.github.io/,2026-10-14
 Alzheimer's Association,BFDN Bridge Funding,Nonprofit,LOI 2026-10-30,,closed,,"A small starter award, usually to produce preliminary data.",,https://www.alz.org/research/for_researchers/grants/types-of-grants,2026-10-14
 Alzheimer's Association,PTC Phase 1/2 and PTC-CTP,Nonprofit,LOI 2026-10-20,,closed,,A nonprofit grant.,,https://www.alz.org/research/for_researchers/grants/types-of-grants,2026-10-16
+Amazon,Amazon Research Awards Fall 2026 (9 calls),Industry,2026-11-04,,closed,,"An unrestricted gift to one PI, decided in a single global round.",,https://www.amazon.science/research-awards/call-for-proposals,2026-10-09
 Anthropic,AI for Science API credits,Industry,monthly review 2026-11-02,,closed,,An allocation of compute or model access rather than money.,,https://support.claude.com/en/articles/11199177-anthropics-ai-for-science-program,2026-10-14
 Arena,Academic Partnerships Program Fall 2026,Industry,2026-10-30,,closed,,A company programme.,,https://arena.ai/blog/academic-program-fall-2026,2026-10-26
 ARIA,Safeguarded AI and Scaling Trust rolling batch,Public (non-US),2026-10-31,,closed,,A call from a public funder outside the US.,,https://www.aria.org.uk/,2026-10-14
@@ -230,6 +227,7 @@ ARPA-H,UNIQUE ARPA-H-SOL-26-162,Federal,Solution Summary 2026-10-29,,closed,,"An
 ARPA-H,HEARING ARPA-H-SOL-26-154 (under review),Federal,closed,,closed,,"An ARPA-H solicitation, judged on a short solution summary first.",,https://arpa-h.gov/explore-funding/programs/hearing,2026-10-14
 Astralis and Macroscopic,Middle Powers and Transformative AI RFP,Industry,2026-10-23,,closed,,"An open call, with the funder setting the topic.",,https://middlepowers.ai/,2026-10-14
 CDC,1CDP Innovation Challenge (ineligible),Federal,2026-10-28,,closed,,"An open competition judged on results, not on a proposal.",,https://www.usa.gov/challenges/1cdp-innovation-challenge,2026-10-16
+CIFAR,Global Scholars 2027 to 2029,Public (non-US),2026-11-04,,closed,,A call from a public funder outside the US.,,https://www.cifar.ca/global-scholars/,2026-10-14
 DARPA IPTO,Intrinsic Market Resilience DARPA-PS-26-138,Federal,abstract 2026-10-22,,closed,,"A DARPA programme call, narrow in scope and run to its own schedule.",,https://www.darpa.mil/research/programs/intrinsic-market-resilience-imr,2026-10-09
 Foresight Institute,AI for Science and Safety Nodes RFP,Nonprofit,2026-10-31,,closed,,A center-scale award for a large multi-investigator team.,,https://foresight.org/grants/ai-science-safety-nodes-rfp/,2026-10-09
 Griffiss Institute,STFP fellowship,Nonprofit,2026-11-01,,closed,,A center-scale award for a large multi-investigator team.,,https://www.griffissinstitute.org/information-institute/,2026-10-14
@@ -247,6 +245,8 @@ NIH Common Fund,PRIMED-AI RFA-RM-27-013 and RFA-RM-27-012,Federal,2026-10-19,,cl
 NIH NIDCD,"ECR R21 PAR-25-120 (ineligible, prior federal PI)",Federal,2026-10-19,,closed,,"An exploratory project of up to two years, no preliminary data expected.",,https://grants.nih.gov/grants/guide/pa-files/PAR-25-120.html,2026-10-09
 NIH NIDCD,Strategic Plan 2028 to 2032 RFI,Federal,2026-10-26,,closed,,"A request for comment, not a funding call.",,https://www.federalregister.gov/documents/2026/08/25/2026-17311/request-for-information-rfi-request-for-information-on-new-and-emerging-areas-of-science-relevant-to,2026-10-14
 NOAA OAR CPO,ESSSP NOAA-OAR-CPO-2026-33326,Federal,2026-10-26,,closed,,A federal research call.,,https://simpler.grants.gov/opportunity/b00bdf4a-dceb-4714-b4ab-7139bef86dae,2026-10-16
+NSF,AI Datasets NSF 26-512,Federal,2026-11-04,,closed,~$1.2M to $4M,An NSF solicitation with its own topic and deadline.,,https://www.nsf.gov/funding/opportunities/ai-datasets-unlocking-dataset-value-ai-enabled-scientific-discovery/nsf26-512/solicitation,2026-10-09
+NSF,AI Infrastructure Hubs NSF 26-513 (limited),Federal,2026-11-04,,closed,~$4M to $10M,A center-scale award for a large multi-investigator team.,,https://www.nsf.gov/funding/opportunities/us-national-science-foundation-state-regional-artificial/nsf26-513/solicitation,2026-10-09
 NSF,RET Sites NSF 24-503,Federal,2026-10-14,,closed,From $600K,Summer research placements for K-12 teachers.,,https://www.nsf.gov/funding/opportunities/research-experiences-teachers-engineering-computer-science/nsf24-503/solicitation,2026-10-09
 NSF,X-Labs future topics RFI,Federal,2026-10-30,,closed,,"A request for comment, not a funding call.",,https://www.nsf.gov/news/nsf-announces-3-additional-topics-part-nsf-x-labs-initiative,2026-10-14
 NVIDIA,Graduate Fellowship 2027 to 2028,Industry,2026-10-30,,closed,,Supports a named individual rather than a project.,,https://blogs.nvidia.com/?p=98499,2026-10-09

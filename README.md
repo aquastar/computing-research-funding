@@ -1,7 +1,7 @@
 # Computing research funding
 
 Open calls for research funding in AI and computing, from federal agencies, foundations and
-industry, swept twice a week. **136 open now, 80 rolling**, out of
+industry, swept twice a week. **132 open now, 80 rolling**, out of
 263 tracked, plus a watchlist of 251 funders checked on every sweep.
 
 **Browse it as a website:** [https://zhiqian.ai/funding](https://zhiqian.ai/funding)
@@ -10,16 +10,12 @@ industry, swept twice a week. **136 open now, 80 rolling**, out of
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-11-04 (brief of 2026-11-02). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
+Last synced 2026-11-05 (brief of 2026-11-02). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
 
 ## Open calls, soonest first
 
 | Deadline | Sponsor | Program | Type | Award |
 |---|---|---|---|---|
-| 2026-11-04 | Amazon | [Amazon Research Awards Fall 2026 (9 calls)](https://www.amazon.science/research-awards/call-for-proposals) | Industry |  |
-| 2026-11-04 | CIFAR | [Global Scholars 2027 to 2029](https://www.cifar.ca/global-scholars/) | Public (non-US) |  |
-| 2026-11-04 | NSF | [AI Datasets NSF 26-512](https://www.nsf.gov/funding/opportunities/ai-datasets-unlocking-dataset-value-ai-enabled-scientific-discovery/nsf26-512/solicitation) | Federal | ~$1.2M to $4M |
-| 2026-11-04 | NSF | [AI Infrastructure Hubs NSF 26-513 (limited)](https://www.nsf.gov/funding/opportunities/us-national-science-foundation-state-regional-artificial/nsf26-513/solicitation) | Federal | ~$4M to $10M |
 | 2026-11-05 | Anthropic | [Guest Investigator Program in the Life Sciences](https://www.anthropic.com/news/open-call-guest-investigators-life-sciences) | Industry |  |
 | 2026-11-05 | DARPA BTO | [Hubble DARPA-SN-26-121](https://www.darpa.mil/research/programs/hubble) | Federal |  |
 | 2026-11-06 | Dana Foundation | [Professional Development Awards and MA3 Challenge](https://dana.org/grants/) | Foundation |  |

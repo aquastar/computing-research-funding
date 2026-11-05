@@ -1,57 +1,5 @@
 [
  {
-  "sponsor": "Amazon",
-  "program": "Amazon Research Awards Fall 2026 (9 calls)",
-  "category": "Industry",
-  "deadline": "2026-11-04",
-  "next_deadline": "2026-11-04",
-  "status": "open",
-  "award": "",
-  "summary": "An unrestricted gift to one PI, decided in a single global round.",
-  "eligibility": "",
-  "link": "https://www.amazon.science/research-awards/call-for-proposals",
-  "first_seen": "2026-10-09"
- },
- {
-  "sponsor": "CIFAR",
-  "program": "Global Scholars 2027 to 2029",
-  "category": "Public (non-US)",
-  "deadline": "2026-11-04",
-  "next_deadline": "2026-11-04",
-  "status": "open",
-  "award": "",
-  "summary": "A call from a public funder outside the US.",
-  "eligibility": "",
-  "link": "https://www.cifar.ca/global-scholars/",
-  "first_seen": "2026-10-14"
- },
- {
-  "sponsor": "NSF",
-  "program": "AI Datasets NSF 26-512",
-  "category": "Federal",
-  "deadline": "2026-11-04",
-  "next_deadline": "2026-11-04",
-  "status": "open",
-  "award": "~$1.2M to $4M",
-  "summary": "An NSF solicitation with its own topic and deadline.",
-  "eligibility": "",
-  "link": "https://www.nsf.gov/funding/opportunities/ai-datasets-unlocking-dataset-value-ai-enabled-scientific-discovery/nsf26-512/solicitation",
-  "first_seen": "2026-10-09"
- },
- {
-  "sponsor": "NSF",
-  "program": "AI Infrastructure Hubs NSF 26-513 (limited)",
-  "category": "Federal",
-  "deadline": "2026-11-04",
-  "next_deadline": "2026-11-04",
-  "status": "open",
-  "award": "~$4M to $10M",
-  "summary": "A center-scale award for a large multi-investigator team.",
-  "eligibility": "",
-  "link": "https://www.nsf.gov/funding/opportunities/us-national-science-foundation-state-regional-artificial/nsf26-513/solicitation",
-  "first_seen": "2026-10-09"
- },
- {
   "sponsor": "Anthropic",
   "program": "Guest Investigator Program in the Life Sciences",
   "category": "Industry",
@@ -2899,6 +2847,19 @@
   "first_seen": "2026-10-16"
  },
  {
+  "sponsor": "Amazon",
+  "program": "Amazon Research Awards Fall 2026 (9 calls)",
+  "category": "Industry",
+  "deadline": "2026-11-04",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "An unrestricted gift to one PI, decided in a single global round.",
+  "eligibility": "",
+  "link": "https://www.amazon.science/research-awards/call-for-proposals",
+  "first_seen": "2026-10-09"
+ },
+ {
   "sponsor": "Anthropic",
   "program": "AI for Science API credits",
   "category": "Industry",
@@ -3001,6 +2962,19 @@
   "eligibility": "",
   "link": "https://www.usa.gov/challenges/1cdp-innovation-challenge",
   "first_seen": "2026-10-16"
+ },
+ {
+  "sponsor": "CIFAR",
+  "program": "Global Scholars 2027 to 2029",
+  "category": "Public (non-US)",
+  "deadline": "2026-11-04",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "A call from a public funder outside the US.",
+  "eligibility": "",
+  "link": "https://www.cifar.ca/global-scholars/",
+  "first_seen": "2026-10-14"
  },
  {
   "sponsor": "DARPA IPTO",
@@ -3222,6 +3196,32 @@
   "eligibility": "",
   "link": "https://simpler.grants.gov/opportunity/b00bdf4a-dceb-4714-b4ab-7139bef86dae",
   "first_seen": "2026-10-16"
+ },
+ {
+  "sponsor": "NSF",
+  "program": "AI Datasets NSF 26-512",
+  "category": "Federal",
+  "deadline": "2026-11-04",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "~$1.2M to $4M",
+  "summary": "An NSF solicitation with its own topic and deadline.",
+  "eligibility": "",
+  "link": "https://www.nsf.gov/funding/opportunities/ai-datasets-unlocking-dataset-value-ai-enabled-scientific-discovery/nsf26-512/solicitation",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "sponsor": "NSF",
+  "program": "AI Infrastructure Hubs NSF 26-513 (limited)",
+  "category": "Federal",
+  "deadline": "2026-11-04",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "~$4M to $10M",
+  "summary": "A center-scale award for a large multi-investigator team.",
+  "eligibility": "",
+  "link": "https://www.nsf.gov/funding/opportunities/us-national-science-foundation-state-regional-artificial/nsf26-513/solicitation",
+  "first_seen": "2026-10-09"
  },
  {
   "sponsor": "NSF",
