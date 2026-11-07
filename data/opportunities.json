@@ -170,12 +170,12 @@
  },
  {
   "sponsor": "NSF",
-  "program": "STEM Access for Persons with Disabilities DCL NSF 23-160 (supplement, target 2nd Thursday Nov)",
+  "program": "STEM Access for Persons with Disabilities DCL NSF 23-160 (OLD, issued 2023, first seen this run, supplement, target 2nd Thursday Nov)",
   "category": "Federal",
   "deadline": "2026-11-12",
   "next_deadline": "2026-11-12",
   "status": "open",
-  "award": "Up to 100k",
+  "award": "",
   "summary": "An NSF solicitation with its own topic and deadline.",
   "eligibility": "",
   "link": "https://www.nsf.gov/funding/opportunities/dcl-stem-access-persons-disabilities-stem-apwd",
@@ -1181,6 +1181,19 @@
   "eligibility": "",
   "link": "https://griffissinstitute.org/",
   "first_seen": "2026-11-06"
+ },
+ {
+  "sponsor": "NSF",
+  "program": "Major Research Instrumentation MRI NSF 27-500 (published 2026-11-06, no per-org limit)",
+  "category": "Federal",
+  "deadline": "window 2027-01-04 to 2027-01-29",
+  "next_deadline": "2027-01-04",
+  "status": "open",
+  "award": "$100K to $4M",
+  "summary": "An NSF solicitation with its own topic and deadline.",
+  "eligibility": "",
+  "link": "https://www.nsf.gov/funding/opportunities/mri-major-research-instrumentation-program/nsf27-500/solicitation",
+  "first_seen": "2026-11-07"
  },
  {
   "sponsor": "[PRIZE] Kaggle",

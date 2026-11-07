@@ -1,8 +1,8 @@
 # Computing research funding
 
 Open calls for research funding in AI and computing, from federal agencies, foundations and
-industry, swept twice a week. **148 open now, 86 rolling**, out of
-290 tracked, plus a watchlist of 257 funders checked on every sweep.
+industry, swept twice a week. **149 open now, 86 rolling**, out of
+291 tracked, plus a watchlist of 257 funders checked on every sweep.
 
 **Browse it as a website:** [https://zhiqian.ai/funding](https://zhiqian.ai/funding)
 
@@ -29,7 +29,7 @@ Last synced 2026-11-07 (brief of 2026-11-06). Entries marked unverified were not
 | 2026-11-10 | NYSERDA | [PON 6240 BESS Health Operations](https://www.nyserda.ny.gov/All-Programs/Grid-Modernization-Program) | State |  |
 | 2026-11-11 | Amazon | [UPDATE Research Awards Fall 2026 extended](https://www.amazon.science/research-awards/call-for-proposals) | Industry |  |
 | 2026-11-11 | NSF | [X-Labs Computation at the Limit of Physics and From Sequence to Function (limited, not open)](https://www.nsf.gov/news/nsf-announces-3-additional-topics-part-nsf-x-labs-initiative) | Federal |  |
-| 2026-11-12 | NSF | [STEM Access for Persons with Disabilities DCL NSF 23-160 (supplement, target 2nd Thursday Nov)](https://www.nsf.gov/funding/opportunities/dcl-stem-access-persons-disabilities-stem-apwd) | Federal | Up to 100k |
+| 2026-11-12 | NSF | [STEM Access for Persons with Disabilities DCL NSF 23-160 (OLD, issued 2023, first seen this run, supplement, target 2nd Thursday Nov)](https://www.nsf.gov/funding/opportunities/dcl-stem-access-persons-disabilities-stem-apwd) | Federal |  |
 | 2026-11-12 | USGS | [WRRA 104g G27AS00164 (via state WRRI)](https://simpler.grants.gov/opportunity/2c5fcf26-2264-42ae-9bc9-60f591fd770c) |  |  |
 | 2026-11-13 | Arnold Ventures | [K-12 RFP (low fit)](https://www.arnoldventures.org/grants) | Foundation |  |
 | 2026-11-13 | DARPA IPTO | [UPDATE FastVacc RFI DARPA-SN-27-13 deadline verified](https://sam.gov/opp/9702cfee87444ea792404ad280b946e0/view) | Federal |  |
@@ -107,6 +107,7 @@ Last synced 2026-11-07 (brief of 2026-11-06). Entries marked unverified were not
 | 2026-12-31 | ONR | [Long Range BAA N0001425SB001](https://www.onr.navy.mil/work-with-us/funding-opportunities/fy25-long-range-broad-agency-announcement-baa-navy-and-marine) | Federal |  |
 | 2027-01-01 | USACE ERDC | [ERDC BAA W912HZ26S0001](https://simpler.grants.gov/opportunity/98696099-8a71-4a7c-8e2d-1dfcf3817f75) |  |  |
 | 2027-01-04 | AFRL RI Griffiss | [Visiting Faculty Research Program FY27](https://griffissinstitute.org/) | Federal |  |
+| 2027-01-04 | NSF | [Major Research Instrumentation MRI NSF 27-500 (published 2026-11-06, no per-org limit)](https://www.nsf.gov/funding/opportunities/mri-major-research-instrumentation-program/nsf27-500/solicitation) | Federal | $100K to $4M |
 | 2027-01-06 | [PRIZE] Kaggle | [Name That LLM (unverified)](https://www.kaggle.com/competitions) | Industry |  |
 | 2027-01-06 | ORAU | [Powe Junior Faculty Awards 2027 (limited)](https://www.orau.org/partnerships/grant-programs/powe/index.html) | Foundation |  |
 | 2027-01-06 | PCORI | [Digital Health Technologies Cycle 1 2027](https://www.pcori.org/funding-opportunities/announcement/harnessing-digital-health-technologies-support-patient-centered-comparative-clinical-effectiveness-research-pcori-funding-announcement-cycle-1-2027) | Nonprofit |  |
