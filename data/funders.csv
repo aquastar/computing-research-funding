@@ -250,3 +250,9 @@ NAMM Foundation Music Research Grants,adjacent_domain,https://www.nammfoundation
 Sound Health (NIH with the Kennedy Center and NEA),federal_niche,https://www.nih.gov/sound-health,false,Irregular. NIH Music and Health notices (PAR-21-099 and PAR-21-100 era) and NEA Sound Health Network solicitations,open
 Sony CSL Paris music team,industry_longtail,https://cslmusicteam.sony.fr/,false,No call. Collaboration by contact,invitation
 Moises (Music.AI),industry_longtail,https://moises.ai/newsroom/,false,No grant program seen. Sponsors ISMIR and runs academic partnerships,invitation
+NIH Guide search API,aggregator_early_signal,https://search.grants.nih.gov/guide/api/data?query=&sort=reldate:desc,true,weekly,open
+NSF CISE Dear Colleague Letters,federal_niche,https://www.nsf.gov/cise/dear-colleague-letters,true,ongoing DCLs with yearly target dates,open
+NYS SFS public grant search,new_york_regional,https://esupplier.sfs.ny.gov/psc/fscm/SUPPLIER/ERP/c/NY_SUPPUB_FL.AUC_RESP_INQ_AUC.GBL,true,continuous,open
+Riverside Research SI Forge,defense_niche,https://www.riversideresearch.org/expertise/ai-ml/si-forge,true,cycles,limited
+Research!America civic science,foundation_general,https://www.researchamerica.org/civic-science/,true,annual Nov,open
+Alignment Research Center White-Box Estimation Challenge (AIcrowd),prize_challenge,https://www.aicrowd.com/challenges,false,annual?,open

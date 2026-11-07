@@ -2006,5 +2006,53 @@
   "link_verified": false,
   "cycle": "No grant program seen. Sponsors ISMIR and runs academic partnerships",
   "access": "invitation"
+ },
+ {
+  "funder": "NIH Guide search API",
+  "category": "aggregator_early_signal",
+  "link": "https://search.grants.nih.gov/guide/api/data?query=&sort=reldate:desc",
+  "link_verified": true,
+  "cycle": "weekly",
+  "access": "open"
+ },
+ {
+  "funder": "NSF CISE Dear Colleague Letters",
+  "category": "federal_niche",
+  "link": "https://www.nsf.gov/cise/dear-colleague-letters",
+  "link_verified": true,
+  "cycle": "ongoing DCLs with yearly target dates",
+  "access": "open"
+ },
+ {
+  "funder": "NYS SFS public grant search",
+  "category": "new_york_regional",
+  "link": "https://esupplier.sfs.ny.gov/psc/fscm/SUPPLIER/ERP/c/NY_SUPPUB_FL.AUC_RESP_INQ_AUC.GBL",
+  "link_verified": true,
+  "cycle": "continuous",
+  "access": "open"
+ },
+ {
+  "funder": "Riverside Research SI Forge",
+  "category": "defense_niche",
+  "link": "https://www.riversideresearch.org/expertise/ai-ml/si-forge",
+  "link_verified": true,
+  "cycle": "cycles",
+  "access": "limited"
+ },
+ {
+  "funder": "Research!America civic science",
+  "category": "foundation_general",
+  "link": "https://www.researchamerica.org/civic-science/",
+  "link_verified": true,
+  "cycle": "annual Nov",
+  "access": "open"
+ },
+ {
+  "funder": "Alignment Research Center White-Box Estimation Challenge (AIcrowd)",
+  "category": "prize_challenge",
+  "link": "https://www.aicrowd.com/challenges",
+  "link_verified": false,
+  "cycle": "annual?",
+  "access": "open"
  }
 ]

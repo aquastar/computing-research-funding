@@ -1,8 +1,8 @@
 # Computing research funding
 
 Open calls for research funding in AI and computing, from federal agencies, foundations and
-industry, swept twice a week. **132 open now, 80 rolling**, out of
-263 tracked, plus a watchlist of 251 funders checked on every sweep.
+industry, swept twice a week. **148 open now, 86 rolling**, out of
+290 tracked, plus a watchlist of 257 funders checked on every sweep.
 
 **Browse it as a website:** [https://zhiqian.ai/funding](https://zhiqian.ai/funding)
 
@@ -10,18 +10,12 @@ industry, swept twice a week. **132 open now, 80 rolling**, out of
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-11-05 (brief of 2026-11-02). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
+Last synced 2026-11-07 (brief of 2026-11-06). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
 
 ## Open calls, soonest first
 
 | Deadline | Sponsor | Program | Type | Award |
 |---|---|---|---|---|
-| 2026-11-05 | Anthropic | [Guest Investigator Program in the Life Sciences](https://www.anthropic.com/news/open-call-guest-investigators-life-sciences) | Industry |  |
-| 2026-11-05 | DARPA BTO | [Hubble DARPA-SN-26-121](https://www.darpa.mil/research/programs/hubble) | Federal |  |
-| 2026-11-06 | Dana Foundation | [Professional Development Awards and MA3 Challenge](https://dana.org/grants/) | Foundation |  |
-| 2026-11-06 | DARPA IPTO | [FastVacc RFI DARPA-SN-27-13 (unverified)](https://www.darpa.mil/rss/opportunities.xml) | Federal |  |
-| 2026-11-06 | DARPA via Riverside Research | [AI Forge Cycle 2 Project Ventures (limited at peers)](https://www.stonybrook.edu/proposal-development/funding-opportunities/limited-competitions/_current-competitions/darpa-ai-forge-cycle-2.html) | University |  |
-| 2026-11-06 | DoD | [FY2027 DURIP N0001426SF003](https://simpler.grants.gov/opportunity/812b55e0-deb1-43cc-a2e2-f9f82ad735ad) | Federal |  |
 | 2026-11-07 | DARPA IPTO | [Nassau Proposers Day DARPA-SN-27-08](https://www.darpa.mil/events/2026/proposers-day-nassau) | Federal |  |
 | 2026-11-08 | [PRIZE] ARC Prize Foundation | [ARC Prize 2026 incl Paper Prize](https://arcprize.org/competitions/2026) | Foundation |  |
 | 2026-11-09 | ARIA | [Precision Mitochondria RFP](https://aria.org.uk/opportunity-spaces/programmable-physiology/precision-mitochondria/funding) | Public (non-US) |  |
@@ -35,8 +29,10 @@ Last synced 2026-11-05 (brief of 2026-11-02). Entries marked unverified were not
 | 2026-11-10 | NYSERDA | [PON 6240 BESS Health Operations](https://www.nyserda.ny.gov/All-Programs/Grid-Modernization-Program) | State |  |
 | 2026-11-11 | Amazon | [UPDATE Research Awards Fall 2026 extended](https://www.amazon.science/research-awards/call-for-proposals) | Industry |  |
 | 2026-11-11 | NSF | [X-Labs Computation at the Limit of Physics and From Sequence to Function (limited, not open)](https://www.nsf.gov/news/nsf-announces-3-additional-topics-part-nsf-x-labs-initiative) | Federal |  |
+| 2026-11-12 | NSF | [STEM Access for Persons with Disabilities DCL NSF 23-160 (supplement, target 2nd Thursday Nov)](https://www.nsf.gov/funding/opportunities/dcl-stem-access-persons-disabilities-stem-apwd) | Federal | Up to 100k |
 | 2026-11-12 | USGS | [WRRA 104g G27AS00164 (via state WRRI)](https://simpler.grants.gov/opportunity/2c5fcf26-2264-42ae-9bc9-60f591fd770c) |  |  |
 | 2026-11-13 | Arnold Ventures | [K-12 RFP (low fit)](https://www.arnoldventures.org/grants) | Foundation |  |
+| 2026-11-13 | DARPA IPTO | [UPDATE FastVacc RFI DARPA-SN-27-13 deadline verified](https://sam.gov/opp/9702cfee87444ea792404ad280b946e0/view) | Federal |  |
 | 2026-11-13 | IMLS | [NLG-LIBRARIES-FY27, NLG-M-FY27, LB21-FY27](https://simpler.grants.gov/opportunity/1bbe7a77-aeff-4653-8602-b864c237ba91) |  |  |
 | 2026-11-15 | AMD | [AI and HPC Cluster allocation](https://www.amd.com/en/corporate/university-program/ai-hpc-cluster.html) | Industry |  |
 | 2026-11-15 | Humboldt | [Research Fellowship experienced](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship) | Foundation |  |
@@ -56,14 +52,17 @@ Last synced 2026-11-05 (brief of 2026-11-02). Entries marked unverified were not
 | 2026-11-20 | ARPA-E | [UNLOCK DE-FOA-0003630 and DE-FOA-0003631](https://simpler.grants.gov/opportunity/04fa4318-73a3-44fa-a4a3-0523e9700fae) |  | $3M to $5M |
 | 2026-11-20 | DoD | [FY2027 MURI N0001426SF002](https://www.onr.navy.mil/work-with-us/funding-opportunities/fiscal-year-fy-2027-department-war-multidisciplinary-research) | Federal |  |
 | 2026-11-20 | NIH via UCSF MDRN | [U24 Music Networks Pilot Research Program AD/ADRD 2026 RFA](https://mdrn.ucsf.edu/funding-opportunities) | University |  |
+| 2026-11-20 | Research!America | [Public Engagement Content Awards and Civic Engagement Microgrants](https://www.researchamerica.org/civic-science/) | Nonprofit |  |
 | 2026-11-21 | [PRIZE] IBM and partners | [Steerability Challenge NeurIPS 2026](https://steerability.github.io/competition/) | Industry |  |
 | 2026-11-21 | [PRIZE] IBM and partners | [UPDATE Steerability registration closed 2026-11-01 AoE, final 2026-11-21](https://steerability.github.io/competition/) | Industry |  |
+| 2026-11-23 | DARPA STO | [Unison DARPA-PS-27-06](https://sam.gov/) | Federal |  |
 | 2026-11-23 | NIH Common Fund | [SenNet SenTecs RFA-RM-27-007](https://simpler.grants.gov/search?agency=HHS-NIH11&status=forecasted,posted&sortby=postedDateDesc) | Federal |  |
 | 2026-11-23 | NIH Common Fund | [SenNet DCIC RFA-RM-27-025](https://simpler.grants.gov/opportunity/0edb3126-b0e0-4722-8c45-79b63b7cdf39) | Federal |  |
 | 2026-11-29 | Rockefeller Foundation, OpenAI Foundation | [Cities Deliver AI Solutions for Public Services (limited 2 per institution)](https://www.rockefellerfoundation.org/cities-deliver-ai-solutions-for-public-services/) | Foundation |  |
 | 2026-11-30 | AFRL RI | [Knowledge Discovery BAA FA8750-24-S-7006](https://govcontractfinder.com/contracts/automated-processes-for-knowledge-discovery-and-information--FA875024S7006) | Federal |  |
 | 2026-11-30 | AFRL RI | [ATA-AI BAA FA8750-24-S-7004 Amd 5 (unverified)](https://www.bwcoconsulting.com/fod/afrl-ata-ai-baa-fa8750-24-s-7004) | Federal |  |
 | 2026-11-30 | ARPA-H | [SURPASS ARPA-H-SOL-26-164](https://arpa-h.gov/explore-funding/programs/surpass) | Federal |  |
+| 2026-11-30 | DARPA IPTO | [RFI FLASH DARPA-SN-27-17](https://sam.gov/opp/e4ea14eef4df480ea295f13b6b2159ea/view) | Federal |  |
 | 2026-11-30 | DOJ NIJ | [Elder Abuse O-NIJ-2026-172804, Gangs O-NIJ-2026-172806, Drones O-NIJ-2026-172805](https://simpler.grants.gov/opportunity/a7a290db-16f3-4dde-a454-1edd1ac0dd55) |  |  |
 | 2026-11-30 | Microsoft AI Economy Institute | [AIEI Cohort 4 Open Call AI and Jobs](https://www.microsoft.com/en-us/research/group/aiei/aiei-open-call-4/) | Industry |  |
 | 2026-12-01 | [PRIZE] ICASSP 2027 | [GC-11 EEG-sAAD](https://www.codabench.org/competitions/17856/) | Nonprofit |  |
@@ -80,19 +79,21 @@ Last synced 2026-11-05 (brief of 2026-11-02). Entries marked unverified were not
 | 2026-12-04 | AFOSR | [FY2027 YIP FA955026S0003](https://simpler.grants.gov/opportunity/c342c01d-4f34-440f-8bb2-4bdd4d763df0) | Federal | $150K to $450K |
 | 2026-12-04 | ARIA | [Robot Locomotion concept papers](https://www.aria.org.uk/) | Public (non-US) |  |
 | 2026-12-05 | [PRIZE] UCSD ABKGroup and NVIDIA | [ISPD 2027 Contest MCMM Post CTS Buffering and Sizing](https://github.com/ABKGroup/ISPD27-Contest) | Industry |  |
-| 2026-12-07 | [PRIZE] Kaggle and Enveda | [CASMI 2026 (unverified)](https://www.kaggle.com/competitions) | Industry | Unverified |
+| 2026-12-07 | [PRIZE] Kaggle and Enveda | [CASMI 2026 (unverified)](https://www.kaggle.com/competitions) | Industry |  |
 | 2026-12-07 | Alzheimer's Drug Discovery Foundation | [Diagnostics Accelerator and digital biomarker RFPs](https://www.alzdiscovery.org/research-and-grants/funding-opportunities) | Foundation |  |
 | 2026-12-07 | Hearing Health Foundation | [ERG 2027 to 2028 cycle now open](https://hearinghealthfoundation.org/how-to-apply) | Foundation |  |
 | 2026-12-07 | W. M. Keck Foundation | [Research Program June 2027 cycle (limited)](https://www.wmkeck.org/research-overview/) | Foundation |  |
 | 2026-12-08 | [PRIZE] ICASSP 2027 | [GC-4 Audio Editing Challenge](https://audio-editing-challenge.github.io/) | Industry |  |
 | 2026-12-08 | [PRIZE] NIH ODSS | [It's About Time: Temporal Reasoning in Biomedical Knowledge Graphs Challenge](https://www.nih.gov/challenges/its-about-time-temporal-reasoning-biomedical-knowledge-graphs-challenge) | Federal |  |
 | 2026-12-08 | ARPA-H | [TIGAR ARPA-H-SOL-26-144](https://arpa-h.gov/explore-funding/initiatives-and-sprints/tigar) | Federal |  |
+| 2026-12-08 | DARPA via Riverside Research | [AI Forge Cycle 2 Project Ventures (limited at peers)](https://www.stonybrook.edu/proposal-development/funding-opportunities/limited-competitions/_current-competitions/darpa-ai-forge-cycle-2.html) | University |  |
 | 2026-12-08 | NIOSH | [WTC Health Program U01 RFA-OH-26-001](https://simpler.grants.gov/search?query=RFA-OH-26-001) |  | Up to $550K |
 | 2026-12-11 | ED IES | [S2S 84.305J ED-GRANTS-101526-001 and NCSER 84.324T ED-GRANTS-101526-002](https://simpler.grants.gov/opportunity/ee52200b-bc1d-4e98-be9c-60992d1d8836) |  |  |
 | 2026-12-11 | ONR | [DoN HBCU/MI N0001426SF001 (ineligible)](https://www.onr.navy.mil/work-with-us/funding-opportunities/announcements) | Federal |  |
 | 2026-12-14 | ACL NIDILRR | [FIP Development HHS-2027-ACL-NIDILRR-IFDV-0304 (forecast)](https://simpler.grants.gov/opportunity/9179a04a-da76-447f-8d23-3a5e899ddd47) | Federal | $245K to $250K |
 | 2026-12-14 | ACL NIDILRR | [FIP Research HHS-2027-ACL-NIDILRR-IFRE-0303 (forecast)](https://simpler.grants.gov/opportunity/23540a91-8dc4-454a-89d1-9ecc031b819c) | Federal | $245K to $250K |
 | 2026-12-14 | DARPA DSO | [Liquid Surge DARPA-PA-25-07-05](https://www.darpa.mil/research/programs/liquid-surge) | Federal |  |
+| 2026-12-14 | Lloyd's Register Foundation | [Small Grants Programme](https://www.lrfoundation.org.uk/) | Foundation | Up to 10k GBP |
 | 2026-12-14 | NIH NHGRI | [IGVF Computational Modeling RFA-HG-27-010](https://simpler.grants.gov/opportunity/c223b7bc-1da4-4533-a09f-d35659e6d29b) | Federal | Up to $800K |
 | 2026-12-15 | AFAR | [Grants for Junior Faculty and Sagol GerOmic Award](https://www.afar.org/funding-opportunities) | Nonprofit |  |
 | 2026-12-15 | Alzheimer's Association | [PTC-EM-AI](https://www.alz.org/research/for_researchers/grants/types-of-grants) | Nonprofit |  |
@@ -102,21 +103,29 @@ Last synced 2026-11-05 (brief of 2026-11-02). Entries marked unverified were not
 | 2026-12-17 | Mozilla Foundation | [Fellowship 2027 to 2028 (unverified)](https://www.mozillafoundation.org/en/what-we-do/grantmaking/fellowship/2027-call-for-applications/) | Foundation |  |
 | 2026-12-18 | DARPA MXO | [APM DARPA-PS-26-141](https://www.bwcoconsulting.com/fod/darpa-apm-darpa-ps-26-141) | Federal |  |
 | 2026-12-18 | NSF | [ELEGANT OTA](https://www.nsf.gov/tip/elegant) | Federal |  |
+| 2026-12-30 | NRL | [Long Range BAA N00173-24-S-BA01 Amd 8](https://sam.gov/) |  |  |
 | 2026-12-31 | ONR | [Long Range BAA N0001425SB001](https://www.onr.navy.mil/work-with-us/funding-opportunities/fy25-long-range-broad-agency-announcement-baa-navy-and-marine) | Federal |  |
 | 2027-01-01 | USACE ERDC | [ERDC BAA W912HZ26S0001](https://simpler.grants.gov/opportunity/98696099-8a71-4a7c-8e2d-1dfcf3817f75) |  |  |
+| 2027-01-04 | AFRL RI Griffiss | [Visiting Faculty Research Program FY27](https://griffissinstitute.org/) | Federal |  |
+| 2027-01-06 | [PRIZE] Kaggle | [Name That LLM (unverified)](https://www.kaggle.com/competitions) | Industry |  |
 | 2027-01-06 | ORAU | [Powe Junior Faculty Awards 2027 (limited)](https://www.orau.org/partnerships/grant-programs/powe/index.html) | Foundation |  |
 | 2027-01-06 | PCORI | [Digital Health Technologies Cycle 1 2027](https://www.pcori.org/funding-opportunities/announcement/harnessing-digital-health-technologies-support-patient-centered-comparative-clinical-effectiveness-research-pcori-funding-announcement-cycle-1-2027) | Nonprofit |  |
 | 2027-01-06 | PCORI | [Improving Methods for Conducting Patient-Centered CER Cycle 1 2027](https://www.pcori.org/funding-opportunities/announcement/improving-methods-conducting-patient-centered-comparative-clinical-effectiveness-research-pcori-funding-announcement-cycle-1-2027) | Nonprofit |  |
+| 2027-01-06 | PCORI | [Cycle 1 2027 Broad Pragmatic, Phased Large, Science of Engagement, Implementation](https://www.pcori.org/funding-opportunities) | Nonprofit |  |
+| 2027-01-07 | DoD SERDP | [FY28 Core BAA W912HQ27S0001](https://simpler.grants.gov/search?query=W912HQ27S0001) | Federal |  |
 | 2027-01-07 | NSF | [X-Labs AI for Physical Systems](https://www.nsf.gov/funding/initiatives/nsf-x-labs) | Federal |  |
-| 2027-01-08 | NIH Common Fund | [Kids First RFA-RM-27-010 and RFA-RM-27-008 (low)](https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-27-010.html) | Federal | Unverified |
+| 2027-01-08 | Dana Foundation | [Professional Development Awards and MA3 Challenge](https://dana.org/grants/) | Foundation |  |
+| 2027-01-08 | NIH Common Fund | [Kids First RFA-RM-27-010 and RFA-RM-27-008 (low)](https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-27-010.html) | Federal | Up to $900K |
 | 2027-01-10 | [PRIZE] SemEval 2027 | [Task 7 CLaS Cross Lingual Alignment and Steering, and Task 3 Semantic Change](https://clas-semeval2027.github.io/clas.semeval2027/task/) | Industry |  |
 | 2027-01-13 | DARPA DSO | [Young Faculty Award 2027 DARPARA2701 (posted 2026-10-20)](https://simpler.grants.gov/opportunity/e2105ef4-a8d8-4849-97ec-7d075ed72a0e) | Federal |  |
 | 2027-01-13 | Simons Foundation | [Scientific Software Faculty Award and Fellows-to-Faculty 2027](https://www.simonsfoundation.org/funding-opportunities/) | Foundation |  |
 | 2027-01-15 | [PRIZE] NIH DPCPSI | [Prize for Excellence in Disability Health Research 2026, and Advancing Inclusion of People with Disabilities in Clinical Research Challenge](https://www.nih.gov/challenges/advancing-inclusion-people-disabilities-clinical-research-challenge) | Federal |  |
 | 2027-01-15 | [PRIZE] NIH NLM | [SPARK dbGaP Challenge and SPARK PubMed/PMC Challenge](https://www.nih.gov/challenges/semantic-precision-ai-retrieval-knowledge-spark-dbgap-challenge) | Federal |  |
+| 2027-01-15 | [PRIZE] NIH ODSS | [UPDATE temporal KG challenge office hours 11-24, webinar 12-08, office hours 12-17 and 2027-01-07](https://work.crowdplat.com/challenge/nih-temporal-knowledge-graph-challenge) | Industry |  |
 | 2027-01-23 | Lightcone | [Lightcone Commons](https://www.lightconecommons.com/apply) | Foundation |  |
 | 2027-01-25 | NSF CISE | [SaTC NSF 25-515](https://simpler.grants.gov/opportunity/be60945c-b310-496b-aacd-b21483440fa2) | Federal | $50K to $1.2M |
 | 2027-01-26 | NIH | [Katz ESI R01 PAR-25-322](https://grants.nih.gov/grants/guide/pa-files/PAR-25-322.html) | Federal |  |
+| 2027-02-01 | [PRIZE] AD Data Initiative | [Alzheimer's Trials Data Discovery Challenge (LOI passed)](https://www.alzheimersdata.org/accelerating-research/data-challenges) | Nonprofit |  |
 | 2027-02-01 | NASA OSTEM | [FY2027 EPSCoR Basic Research NNH27ZHA001C (EPSCoR states only)](https://simpler.grants.gov/search?query=NNH27ZHA001C) | Federal |  |
 | 2027-02-01 | NIH NIBIB | [NextTech R18 RFA-EB-28-004](https://simpler.grants.gov/opportunity/50e5b762-c9bc-49bb-817e-ece3e37c28e6) | Federal |  |
 | 2027-02-02 | [PRIZE] NIH NCATS | [Real World Evidence Innovation Challenge](https://www.nih.gov/challenges/real-world-evidence-innovation-challenge) | Federal |  |
@@ -126,46 +135,55 @@ Last synced 2026-11-05 (brief of 2026-11-02). Entries marked unverified were not
 | 2027-02-11 | NIH NLM | [T15 RFA-LM-28-001](https://simpler.grants.gov/opportunity/1c1ad215-73b3-44cf-afef-a386915e2f7f) | Federal | $500K to $775K |
 | 2027-02-12 | NIH NIDCD | [Translational R01 RFA-DC-25-002](https://grants.nih.gov/grants/guide/rfa-files/RFA-DC-25-002.html) | Federal | Up to $500K |
 | 2027-02-12 | NOAA NOS NCCOS | [Coastal flood natural infrastructure NOAA-NOS-NCCOS-2026-32934](https://simpler.grants.gov/opportunity/d7849569-60f9-44bc-879c-d356b0460132) | Federal |  |
+| 2027-02-18 | NIH NIAID | [Systems Biology of Infection and Inflammation U19 RFA-AI-28-014](https://simpler.grants.gov/opportunity/0cbb2b4f-c123-48cf-bdc4-6d5666ce73d9) | Federal | Up to $2.5M |
 | 2027-02-19 | AFOSR and Taiwan NSTC | [Frontiers in Materials and Nanostructures FA955027S0002](https://simpler.grants.gov/opportunity/d08645c9-6162-453f-84dc-92d4614dc711) | Federal | $150K to $450K |
 | 2027-03-01 | DARPA | [D2 Sprint prize](https://www.usa.gov/challenges/documentation-decision-support) | Federal |  |
 | 2027-03-01 | NIH Common Fund | [Bridge2AI Stage 2 RFA-RM-28-010 (forecast)](https://simpler.grants.gov/opportunity/602cbc1a-d601-44f1-90d7-e6914ba594a6) | Federal | $1M to $7M |
 | 2027-03-02 | NSF CISE | [PESOSE NSF 26-506 with DCL NSF 26-015 AI Agent Ecosystems](https://www.nsf.gov/funding/opportunities/dcl-advancing-artificial-intelligence-ai-agent-ecosystems) | Federal |  |
 | 2027-03-05 | NIH NIDCD | [Auditory Vestibular Resource Network U24 RFA-DC-28-001 and RFA-DC-28-002](https://simpler.grants.gov/opportunity/a55926dd-83b8-4e51-801e-384852d46065) | Federal | Up to $450K |
+| 2027-03-05 | NIH NIDDK | [DGIC Data Center U24 RFA-DK-28-214](https://simpler.grants.gov/opportunity/cf0d0679-8e43-4034-833b-0aa6cca9a1de) | Federal | Up to $950K |
+| 2027-03-11 | DoD SERDP | [FY28 SEED BAA W912HQ27S0002](https://simpler.grants.gov/search?query=W912HQ27S0002) | Federal | Up to 350k, about 1 years |
+| 2027-03-15 | AFRL RI | [AI and Next Generation Distributed C2 BAA FA8750-23-S-7006](https://sam.gov/) | Federal |  |
 | 2027-04-05 | AFOSR | [DEPSCoR RC NOFOAFRLAFOSR20260004 (MS collaborator lead only)](https://simpler.grants.gov/opportunity/b1489614-88c5-4534-a1ef-ffafdd1ba9d0) | Federal |  |
 | 2027-04-29 | [PRIZE] NIH NIDDK | [Kidney AI Discovery: From Nebulae to Nephrons](https://www.nih.gov/challenges/kidney-artificial-intelligence-discovery-challenge-nebulae-nephrons) | Federal |  |
 | 2027-06-22 | DARPA IPTO | [Office-Wide BAA HR001126S0011](https://simpler.grants.gov/opportunity/4ec76651-17d7-47fd-ac5e-377e8673b3a4) | Federal |  |
 | 2027-08-19 | NIH Common Fund | [DP2 New Innovator RFA-RM-28-002 (forecast)](https://simpler.grants.gov/opportunity/469a39ab-1b4c-471e-b612-5e979f656f27) | Federal | Up to $475K |
 | 2027-08-27 | DARPA DSO | [Office-Wide BAA HR001126S0015](https://simpler.grants.gov/opportunity/1903b420-64ef-4f26-a4c1-c857d4de4f00) | Federal |  |
 | 2027-09-07 | DOT FAA | [Aviation Research Grants Program 20-01](https://simpler.grants.gov/opportunity/721d5c2c-af72-4c33-8ce6-013b1e8ad59b) |  |  |
+| 2027-09-30 | AFRL 711 HPW | [CHEERS BAA FA238424S2233](https://simpler.grants.gov/search?query=FA238424S2233) | Federal |  |
 | 2027-09-30 | DOE SC | [FY2027 Open Call DE-FOA-0003665](https://science.osti.gov/grants/FOAs/FOAs/2027/DE-FOA-0003665) | Federal | $5,000 to $10M |
 | 2027-10-06 | NIH BRAIN | [TMM R01 RFA-DA-27-004](https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-27-004.html) | Federal |  |
 | 2027-11-20 | ARL ARO | [Foundational Research BAA W911NF-23-S-0001](https://simpler.grants.gov/opportunity/5e185327-5f25-4c09-889a-43615e1f54da) | Federal |  |
+| 2028-02-17 | NIH NIMH | [Suicide Prevention Provider Tools RP1 RFA-MH-28-145](https://simpler.grants.gov/opportunity/c33b8d86-6f73-43bf-adcc-da3cecc0dc70) | Federal | Unverified |
 | 2028-09-30 | NOAA NESDIS | [BAA FY27 to 28 NOAA-NESDIS-NESDISPO-2027-33921 (unverified)](https://simpler.grants.gov/) | Federal |  |
-| 2028-09-30 | NOAA NOS | [FY2026 to 2028 BAA NOAA-NOS-MB-2027-33927](https://simpler.grants.gov/search?query=NOAA-NOS-MB-2027-33927) | Federal | Unverified |
+| 2028-09-30 | NOAA NOS | [FY2026 to 2028 BAA NOAA-NOS-MB-2027-33927](https://simpler.grants.gov/search?query=NOAA-NOS-MB-2027-33927) | Federal |  |
 | 2028-12-05 | AFRL RI | [Foundations of Trusted Systems BAA FA875025S7001](https://simpler.grants.gov/opportunity/ff8fbbe7-3760-439d-bfbc-4b5de37295d6) | Federal | Up to $99.9M |
 | 2029-05-22 | AFRL RI | [CANVAS BAA FA875024S7003 (unverified)](https://simpler.grants.gov/search?query=FA875024S7003) | Federal | Up to $24.9M |
 | 2029-05-31 | DHS S&T | [Long Range BAA LRBAA 24-01](https://dhs.gov/science-and-technology/st-lrbaa) | Federal |  |
 | 2029-08-31 | AFOSR | [Conference and Workshop Support FA955026S0002 (unverified)](https://simpler.grants.gov/search?query=FA955026S0002) | Federal | $1 to $2M |
 | 2029-09-30 | NOAA OAR | [BAA FY27 to 29 NOAA-OAR-BAA-2027-33939](https://simpler.grants.gov/opportunity/5fd5c195-e7ad-4f35-a82f-118e4208b22f) | Federal |  |
 | 2029-11-05 | NIH | [Palliative Care R01 PAR-27-090](https://simpler.grants.gov/search?status=posted&sortby=postedDateDesc) | Federal |  |
+| 2034-09-30 | DTRA | [Counter-WMD Research BAA HDTRA1-25-S-0001 (no open topics)](https://simpler.grants.gov/search?query=HDTRA1-25-S-0001) |  |  |
 
 ## Rolling or undated
 
 | Deadline | Sponsor | Program | Type | Award |
 |---|---|---|---|---|
 | open now, deadline unverified | [PRIZE] Cadenza | [CLIP2 Lyric Intelligibility Prediction, ICASSP 2027 GC-10](https://cadenzachallenge.org/docs/clip2/intro) | Nonprofit |  |
-| see dates | [PRIZE] NIH NIMHD SCHARE | [Whole Person Data Integration (reg 2026-11-23), Digital Twins and Synthetic Data (reg 2027-02-19), Smart Devices and Sensing (reg 2026-12-18)](https://www.nih.gov/challenges) | Federal | 1M USD |
+| see dates | [PRIZE] NIH NIMHD SCHARE | [Whole Person Data Integration (reg 2026-11-23), Digital Twins and Synthetic Data (reg 2027-02-19), Smart Devices and Sensing (reg 2026-12-18)](https://www.nih.gov/challenges) | Federal | 1M |
 | data spring 2027 | [PRIZE] Prima Mente and AD Data Initiative | [Alzheimer's Translation Challenge (unverified)](https://www.alzheimersdata.org/accelerating-research/data-challenges) | Nonprofit |  |
 | none | [PRIZE] SIGNALS | [DCASE 2027 task proposal call open, ACL Caregiver AI Phase 2 not announced, ICCAD 2027 CAD Contest about Mar 2027, KDD Cup 2027 about Feb 2027, NeurIPS 2027 competition proposals about May 2027](https://dcase.community/) |  |  |
 | TBD | ACL NIDILRR | [FY2027 forecasts incl RERC Blind Low Vision REGE-0313, KT DPKT-0310](https://simpler.grants.gov/search?query=NIDILRR) | Federal |  |
 | TBD | ACL NIDILRR | [RERC RecTech HHS-2027-ACL-NIDILRR-REGE-0312 and other FY27 forecasts](https://simpler.grants.gov/search?query=NIDILRR) | Federal | $970K to $975K |
 | rolling | AFOSR | [Open BAA FA955026S0001](https://simpler.grants.gov/opportunity/de479d2e-aad1-466a-acc3-d5d11cf7918d) | Federal | Up to $10M |
 | rolling | AI Alignment Foundation | [open application](https://www.aialignmentfoundation.org/approach/apply) | Foundation |  |
-| next cycle unverified | American Academy of Audiology Foundation | [Investigator Research Grant](https://www.audiology.org/foundation/our-work/research-and-education/) | Foundation | Up to 20k, 1 years |
+| rolling | Alfred P. Sloan Foundation | [Exploratory Grantmaking in Technology LOI (unverified)](https://sloan.org/programs/technology) | Foundation |  |
+| next cycle unverified | American Academy of Audiology Foundation | [Investigator Research Grant](https://www.audiology.org/foundation/our-work/research-and-education/) | Foundation |  |
 | rolling | Anthropic | [Fellows Program](https://job-boards.greenhouse.io/anthropic/jobs/5023394008) | Industry |  |
 | none | Arnold Ventures | [Criminal Justice causal research RFP](https://www.arnoldventures.org/grants) | Foundation |  |
 | rolling | ARPA-H | [Mission Office ISOs SOL-24-103 104 105 106](https://arpa-h.gov/explore-funding/open-funding-opportunities) | Federal |  |
 | TBD | ARPA-H | [ASCENT-IBO ARPA-H-SN-26-158 (unverified)](https://arpa-h.gov/explore-funding/initiatives-and-sprints/ascent-ibo/faqs) | Federal |  |
+| rolling | BlueDot Impact | [Rapid Grants](https://bluedot.org/grants) | Nonprofit | Up to 20k |
 | LOI TBD | Brain Research Foundation | [2027 Seed Grant (limited)](https://www.thebrf.org/seed-grants/) | Foundation |  |
 | rolling | Center on Long-Term Risk | [CLR Fund](https://longtermrisk.org/grantmaking/) | Nonprofit |  |
 | rolling | Cisco Research | [Semiconductor Reliability RFP](https://research.cisco.com/open-rfps/semiconductor-reliability) | Industry |  |
@@ -195,8 +213,10 @@ Last synced 2026-11-05 (brief of 2026-11-02). Entries marked unverified were not
 | rolling | Laude Institute | [Slingshots request route](https://laude.org/slingshots) | Nonprofit |  |
 | none stated | LLNL | [Faculty Mini Sabbatical Program](https://st.llnl.gov/about-us/AEO/university-collaborations) | Federal |  |
 | n/a | Lloyd's Register Foundation | [NEST small grants (ineligible)](https://www.lrfoundation.org.uk/calls-for-funding) | Foundation |  |
+| various | low fit batch | [NIH RFA-NS-28-012, NIDDK RFA-DK-28-113 forecast, HRSA-27-109 forecast, USGS G27AS00040 and G27AS00381, ARIA Robot Dexterity Translation Partner, Alzheimer's Association Zenith BRING IT SPARK, NEH CHE 20270113-CHE, NASA ROSES-25 Amd 77 to 81 and TEAM II NNH27ZHA002C, EPA FY27 Brownfields, McKnight Brain Disorders, EnergyWerx voucher R3, Oberkotter pediatric hearing RFP, NHTSA-693JJ927R000007-FY27, FDA PAR-27-010 014 017, DARPA Laguna Flexoelectric Cattle Run Protein Palace QC-AW SBIR, ESD Life Sciences Ecosystem Analysis and GO-SEMI RFPs, Tarbell Institutional Grants, NSF IDSS 26-509](https://simpler.grants.gov/) |  | Up to $2.5M |
 | rolling | Mercor | [AI Safety Fund](https://builtin.com/job/mercor-ai-safety-fund-grants/11187489) | Industry |  |
 | rolling | Modal | [Modal for Academics](https://modal.com/academics) | Industry |  |
+| rolling | Natural Hazards Center | [Health and Extreme Weather Quick Response Award](https://hazards.colorado.edu/health-and-extreme-weather-research/call-for-proposals-4) | University |  |
 | none | Nebius | [Research Credits Program (cycle likely closed)](https://nebius.com/nebius-research-credits-program) | Industry |  |
 | TBD | NIH | [Collaborative Program Grant RM1 PAR-27-003](https://simpler.grants.gov/opportunity/c467080e-51a0-4a76-b416-035664fa95df) | Federal |  |
 | TBD | NIH NIA | [Precision Aging RFA-AG-26-022 (forecast)](https://simpler.grants.gov/opportunity/b19c89bb-baf4-4121-a24f-28891f9b1111) | Federal |  |
@@ -217,8 +237,10 @@ Last synced 2026-11-05 (brief of 2026-11-02). Entries marked unverified were not
 | anytime | NSF ENG | [ECCS NSF 26-514 (EPCL)](https://www.nsf.gov/funding/opportunities/eccs-engineering-electrical-communications-computing-systems/nsf26-514/solicitation) | Federal | ~$367K to $449K |
 | anytime | NSF ENG | [CMMI NSF 26-515](https://www.nsf.gov/funding/opportunities/engineering-eng-civil-mechanical-manufacturing-innovation/nsf26-515/solicitation) | Federal | ~$364K to $444K |
 | anytime | NSF MPS | [MathSci NSF 26-520](https://simpler.grants.gov/opportunity/a98d65b7-8333-4bdc-b123-39f2f7f84ca3) | Federal | From $300K |
+| rolling | NSF TIP and UIDP | [Industry-Integrated PhD Scholars NSF 2624416](https://uidp.org/i-phd-scholars/) | Federal |  |
 | TBD | NYS ESD NYSTAR | [NY Global Entrepreneurs Program Round 2](https://esd-nystar.submittable.com/submit) | State |  |
 | rolling | NYSERDA | [PON 6149 Grid Enhancing Technologies](https://portal.nyserda.ny.gov/CORE_Solicitation_Detail_Page?SolicitationId=a0rcr0000181NQbAAM) | State |  |
+| rolling | Open Technology Fund | [Internet Freedom Fund](https://www.opentech.fund/funds/internet-freedom-fund/) |  | 10k to 900k, up to 24 months |
 | quarterly, Dec 2026 | OpenAI | [Researcher Access Program](https://grants.openai.com/prog/openai_researcher_access_program/) | Industry |  |
 | rolling | Oticon Foundation | [research grants (unverified)](https://www.williamdemantfonden.dk/how-to-apply) | Foundation |  |
 | rolling | Paradigm 3 | [Research Fund](https://www.paradigm3.org/research/fund) | Nonprofit |  |
