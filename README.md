@@ -10,13 +10,12 @@ industry, swept twice a week. **149 open now, 86 rolling**, out of
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-11-07 (brief of 2026-11-06). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
+Last synced 2026-11-08 (brief of 2026-11-06). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
 
 ## Open calls, soonest first
 
 | Deadline | Sponsor | Program | Type | Award |
 |---|---|---|---|---|
-| 2026-11-07 | DARPA IPTO | [Nassau Proposers Day DARPA-SN-27-08](https://www.darpa.mil/events/2026/proposers-day-nassau) | Federal |  |
 | 2026-11-08 | [PRIZE] ARC Prize Foundation | [ARC Prize 2026 incl Paper Prize](https://arcprize.org/competitions/2026) | Foundation |  |
 | 2026-11-09 | ARIA | [Precision Mitochondria RFP](https://aria.org.uk/opportunity-spaces/programmable-physiology/precision-mitochondria/funding) | Public (non-US) |  |
 | 2026-11-09 | DARPA | [Firefox DARPA-PS-26-137](https://www.darpa.mil/research/programs/firefox) | Federal |  |
@@ -88,6 +87,7 @@ Last synced 2026-11-07 (brief of 2026-11-06). Entries marked unverified were not
 | 2026-12-08 | ARPA-H | [TIGAR ARPA-H-SOL-26-144](https://arpa-h.gov/explore-funding/initiatives-and-sprints/tigar) | Federal |  |
 | 2026-12-08 | DARPA via Riverside Research | [AI Forge Cycle 2 Project Ventures (limited at peers)](https://www.stonybrook.edu/proposal-development/funding-opportunities/limited-competitions/_current-competitions/darpa-ai-forge-cycle-2.html) | University |  |
 | 2026-12-08 | NIOSH | [WTC Health Program U01 RFA-OH-26-001](https://simpler.grants.gov/search?query=RFA-OH-26-001) |  | Up to $550K |
+| 2026-12-10 | DARPA IPTO | [Nassau Proposers Day DARPA-SN-27-08](https://www.darpa.mil/events/2026/proposers-day-nassau) | Federal |  |
 | 2026-12-11 | ED IES | [S2S 84.305J ED-GRANTS-101526-001 and NCSER 84.324T ED-GRANTS-101526-002](https://simpler.grants.gov/opportunity/ee52200b-bc1d-4e98-be9c-60992d1d8836) |  |  |
 | 2026-12-11 | ONR | [DoN HBCU/MI N0001426SF001 (ineligible)](https://www.onr.navy.mil/work-with-us/funding-opportunities/announcements) | Federal |  |
 | 2026-12-14 | ACL NIDILRR | [FIP Development HHS-2027-ACL-NIDILRR-IFDV-0304 (forecast)](https://simpler.grants.gov/opportunity/9179a04a-da76-447f-8d23-3a5e899ddd47) | Federal | $245K to $250K |

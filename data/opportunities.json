@@ -1,18 +1,5 @@
 [
  {
-  "sponsor": "DARPA IPTO",
-  "program": "Nassau Proposers Day DARPA-SN-27-08",
-  "category": "Federal",
-  "deadline": "registration 2026-11-07, event 2026-12-10",
-  "next_deadline": "2026-11-07",
-  "status": "open",
-  "award": "",
-  "summary": "A DARPA programme call, narrow in scope and run to its own schedule.",
-  "eligibility": "",
-  "link": "https://www.darpa.mil/events/2026/proposers-day-nassau",
-  "first_seen": "2026-11-02"
- },
- {
   "sponsor": "[PRIZE] ARC Prize Foundation",
   "program": "ARC Prize 2026 incl Paper Prize",
   "category": "Foundation",
@@ -934,6 +921,19 @@
   "eligibility": "",
   "link": "https://simpler.grants.gov/search?query=RFA-OH-26-001",
   "first_seen": "2026-10-16"
+ },
+ {
+  "sponsor": "DARPA IPTO",
+  "program": "Nassau Proposers Day DARPA-SN-27-08",
+  "category": "Federal",
+  "deadline": "registration 2026-11-07, event 2026-12-10",
+  "next_deadline": "2026-12-10",
+  "status": "open",
+  "award": "",
+  "summary": "A DARPA programme call, narrow in scope and run to its own schedule.",
+  "eligibility": "",
+  "link": "https://www.darpa.mil/events/2026/proposers-day-nassau",
+  "first_seen": "2026-11-02"
  },
  {
   "sponsor": "ED IES",
