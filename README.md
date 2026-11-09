@@ -1,7 +1,7 @@
 # Computing research funding
 
 Open calls for research funding in AI and computing, from federal agencies, foundations and
-industry, swept twice a week. **149 open now, 86 rolling**, out of
+industry, swept twice a week. **148 open now, 86 rolling**, out of
 291 tracked, plus a watchlist of 257 funders checked on every sweep.
 
 **Browse it as a website:** [https://zhiqian.ai/funding](https://zhiqian.ai/funding)
@@ -10,13 +10,12 @@ industry, swept twice a week. **149 open now, 86 rolling**, out of
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-11-08 (brief of 2026-11-06). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
+Last synced 2026-11-09 (brief of 2026-11-06). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
 
 ## Open calls, soonest first
 
 | Deadline | Sponsor | Program | Type | Award |
 |---|---|---|---|---|
-| 2026-11-08 | [PRIZE] ARC Prize Foundation | [ARC Prize 2026 incl Paper Prize](https://arcprize.org/competitions/2026) | Foundation |  |
 | 2026-11-09 | ARIA | [Precision Mitochondria RFP](https://aria.org.uk/opportunity-spaces/programmable-physiology/precision-mitochondria/funding) | Public (non-US) |  |
 | 2026-11-09 | DARPA | [Firefox DARPA-PS-26-137](https://www.darpa.mil/research/programs/firefox) | Federal |  |
 | 2026-11-09 | DOE SC | [Genesis Mission Graduate Fellowship DE-FOA-0003673](https://science.osti.gov/grants/FOAs/FOAs/2027/DE-FOA-0003673) | Federal | Up to $20M |

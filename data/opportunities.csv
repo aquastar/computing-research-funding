@@ -1,5 +1,4 @@
 sponsor,program,category,deadline,next_deadline,status,award,summary,eligibility,link,first_seen
-[PRIZE] ARC Prize Foundation,ARC Prize 2026 incl Paper Prize,Foundation,"2026-11-02, papers 2026-11-08",2026-11-08,open,,"An open competition judged on results, not on a proposal.",must be open source,https://arcprize.org/competitions/2026,2026-10-27
 ARIA,Precision Mitochondria RFP,Public (non-US),2026-11-09,2026-11-09,open,,"An open call, with the funder setting the topic.",,https://aria.org.uk/opportunity-spaces/programmable-physiology/precision-mitochondria/funding,2026-10-14
 DARPA,Firefox DARPA-PS-26-137,Federal,2026-11-09,2026-11-09,open,,"A DARPA programme call, narrow in scope and run to its own schedule.",,https://www.darpa.mil/research/programs/firefox,2026-10-14
 DOE SC,Genesis Mission Graduate Fellowship DE-FOA-0003673,Federal,LOI 2026-11-09,2026-11-09,open,Up to $20M,Supports a named individual rather than a project.,,https://science.osti.gov/grants/FOAs/FOAs/2027/DE-FOA-0003673,2026-10-09
@@ -234,6 +233,7 @@ Teach Access,Faculty Grants,Nonprofit,not stated,,rolling,,A nonprofit grant.,,h
 Thinking Machines,Tinker Research Grants,Industry,rolling,,rolling,,A company programme.,,https://thinkingmachines.ai/news/tinker-research-and-teaching-grants/,2026-10-14
 Unconventional AI,Unconventional Grant (2026 closed),Industry,next cycle TBD,,rolling,,A company programme.,,https://unconv.ai/grant/,2026-10-14
 Yotta Labs,Academic Research Credit Program,Industry,rolling,,rolling,,An allocation of compute or model access rather than money.,,https://www.yottalabs.ai/post/research-credits-update,2026-10-26
+[PRIZE] ARC Prize Foundation,ARC Prize 2026 incl Paper Prize,Foundation,"2026-11-02, papers 2026-11-08",,closed,,"An open competition judged on results, not on a proposal.",must be open source,https://arcprize.org/competitions/2026,2026-10-27
 [PRIZE] Cadenza,"UPDATE CLIP2 deadline verified as 2026-10-30 AoE, passed",Nonprofit,2026-10-30,,closed,,"An open competition judged on results, not on a proposal.",,https://cadenzachallenge.org/docs/clip2/key_dates,2026-11-02
 [PRIZE] Gray Swan AI,Arena Indirect Prompt Injection wave,Industry,about 2026-11-02,,closed,,"An open competition judged on results, not on a proposal.",,https://app.grayswan.ai/arena,2026-10-27
 ACLS,Digital Justice Grants (unverified),University,2026-11-03,,closed,,An internal university programme.,,https://research.fas.harvard.edu/current-opportunities,2026-10-16
