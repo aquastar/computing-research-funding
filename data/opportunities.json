@@ -1,57 +1,5 @@
 [
  {
-  "sponsor": "ARIA",
-  "program": "Precision Mitochondria RFP",
-  "category": "Public (non-US)",
-  "deadline": "2026-11-09",
-  "next_deadline": "2026-11-09",
-  "status": "open",
-  "award": "",
-  "summary": "An open call, with the funder setting the topic.",
-  "eligibility": "",
-  "link": "https://aria.org.uk/opportunity-spaces/programmable-physiology/precision-mitochondria/funding",
-  "first_seen": "2026-10-14"
- },
- {
-  "sponsor": "DARPA",
-  "program": "Firefox DARPA-PS-26-137",
-  "category": "Federal",
-  "deadline": "2026-11-09",
-  "next_deadline": "2026-11-09",
-  "status": "open",
-  "award": "",
-  "summary": "A DARPA programme call, narrow in scope and run to its own schedule.",
-  "eligibility": "",
-  "link": "https://www.darpa.mil/research/programs/firefox",
-  "first_seen": "2026-10-14"
- },
- {
-  "sponsor": "DOE SC",
-  "program": "Genesis Mission Graduate Fellowship DE-FOA-0003673",
-  "category": "Federal",
-  "deadline": "LOI 2026-11-09",
-  "next_deadline": "2026-11-09",
-  "status": "open",
-  "award": "Up to $20M",
-  "summary": "Supports a named individual rather than a project.",
-  "eligibility": "",
-  "link": "https://science.osti.gov/grants/FOAs/FOAs/2027/DE-FOA-0003673",
-  "first_seen": "2026-10-09"
- },
- {
-  "sponsor": "RCSA",
-  "program": "Team Science Accelerator",
-  "category": "Nonprofit",
-  "deadline": "LOI 2026-11-09",
-  "next_deadline": "2026-11-09",
-  "status": "open",
-  "award": "",
-  "summary": "Takes existing results toward deployment rather than funding new science.",
-  "eligibility": "",
-  "link": "https://rescorp.org/2026/08/team-science-focus-of-new-rcsa-funding-program/",
-  "first_seen": "2026-10-16"
- },
- {
   "sponsor": "AFAR",
   "program": "Beeson K76 (ineligible)",
   "category": "Nonprofit",
@@ -3211,6 +3159,19 @@
   "first_seen": "2026-10-14"
  },
  {
+  "sponsor": "ARIA",
+  "program": "Precision Mitochondria RFP",
+  "category": "Public (non-US)",
+  "deadline": "2026-11-09",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "An open call, with the funder setting the topic.",
+  "eligibility": "",
+  "link": "https://aria.org.uk/opportunity-spaces/programmable-physiology/precision-mitochondria/funding",
+  "first_seen": "2026-10-14"
+ },
+ {
   "sponsor": "ARPA-H",
   "program": "Emerging Health Innovators ARPA-H-SOL-26-150",
   "category": "Federal",
@@ -3290,6 +3251,19 @@
  },
  {
   "sponsor": "DARPA",
+  "program": "Firefox DARPA-PS-26-137",
+  "category": "Federal",
+  "deadline": "2026-11-09",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "A DARPA programme call, narrow in scope and run to its own schedule.",
+  "eligibility": "",
+  "link": "https://www.darpa.mil/research/programs/firefox",
+  "first_seen": "2026-10-14"
+ },
+ {
+  "sponsor": "DARPA",
   "program": "UPDATE AI Forge renamed SI Forge, Cycle 2 official dates still not posted",
   "category": "Federal",
   "deadline": "2026-11-06 (unverified)",
@@ -3352,6 +3326,19 @@
   "eligibility": "",
   "link": "https://simpler.grants.gov/opportunity/812b55e0-deb1-43cc-a2e2-f9f82ad735ad",
   "first_seen": "2026-10-14"
+ },
+ {
+  "sponsor": "DOE SC",
+  "program": "Genesis Mission Graduate Fellowship DE-FOA-0003673",
+  "category": "Federal",
+  "deadline": "LOI 2026-11-09",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "Up to $20M",
+  "summary": "Supports a named individual rather than a project.",
+  "eligibility": "",
+  "link": "https://science.osti.gov/grants/FOAs/FOAs/2027/DE-FOA-0003673",
+  "first_seen": "2026-10-09"
  },
  {
   "sponsor": "Foresight Institute",
@@ -3677,6 +3664,19 @@
   "eligibility": "",
   "link": "https://www.onr.navy.mil/work-with-us/funding-opportunities/fiscal-year-fy-2027-young-investigator-program-yip",
   "first_seen": "2026-10-09"
+ },
+ {
+  "sponsor": "RCSA",
+  "program": "Team Science Accelerator",
+  "category": "Nonprofit",
+  "deadline": "LOI 2026-11-09",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "Takes existing results toward deployment rather than funding new science.",
+  "eligibility": "",
+  "link": "https://rescorp.org/2026/08/team-science-focus-of-new-rcsa-funding-program/",
+  "first_seen": "2026-10-16"
  },
  {
   "sponsor": "Retirement Research Foundation",

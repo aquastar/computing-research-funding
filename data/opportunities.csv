@@ -1,8 +1,4 @@
 sponsor,program,category,deadline,next_deadline,status,award,summary,eligibility,link,first_seen
-ARIA,Precision Mitochondria RFP,Public (non-US),2026-11-09,2026-11-09,open,,"An open call, with the funder setting the topic.",,https://aria.org.uk/opportunity-spaces/programmable-physiology/precision-mitochondria/funding,2026-10-14
-DARPA,Firefox DARPA-PS-26-137,Federal,2026-11-09,2026-11-09,open,,"A DARPA programme call, narrow in scope and run to its own schedule.",,https://www.darpa.mil/research/programs/firefox,2026-10-14
-DOE SC,Genesis Mission Graduate Fellowship DE-FOA-0003673,Federal,LOI 2026-11-09,2026-11-09,open,Up to $20M,Supports a named individual rather than a project.,,https://science.osti.gov/grants/FOAs/FOAs/2027/DE-FOA-0003673,2026-10-09
-RCSA,Team Science Accelerator,Nonprofit,LOI 2026-11-09,2026-11-09,open,,Takes existing results toward deployment rather than funding new science.,,https://rescorp.org/2026/08/team-science-focus-of-new-rcsa-funding-program/,2026-10-16
 AFAR,Beeson K76 (ineligible),Nonprofit,2026-11-10,2026-11-10,open,,A mentored career-development award for one person.,,https://www.afar.org/funding-opportunities,2026-10-16
 ARPA-H,FASTPASS ARPA-H-SOL-26-160 (closed to new teams),Federal,2026-11-10,2026-11-10,open,,"An ARPA-H solicitation, judged on a short solution summary first.",,https://arpa-h.gov/explore-funding/programs/fastpass,2026-10-14
 NIH Common Fund,Human Virome R03 RFA-RM-27-024,Federal,2026-11-10,2026-11-10,open,$50K to $100K,A small project of up to two years.,,https://simpler.grants.gov/opportunity/50dc6b92-b042-4204-ba74-2753a244be5a,2026-10-09
@@ -246,17 +242,20 @@ Anthropic,AI for Science API credits,Industry,monthly review 2026-11-02,,closed,
 Anthropic,Guest Investigator Program in the Life Sciences,Industry,about 2026-11-05,,closed,,A company programme.,,https://www.anthropic.com/news/open-call-guest-investigators-life-sciences,2026-10-23
 Arena,Academic Partnerships Program Fall 2026,Industry,2026-10-30,,closed,,A company programme.,,https://arena.ai/blog/academic-program-fall-2026,2026-10-26
 ARIA,Safeguarded AI and Scaling Trust rolling batch,Public (non-US),2026-10-31,,closed,,A call from a public funder outside the US.,,https://www.aria.org.uk/,2026-10-14
+ARIA,Precision Mitochondria RFP,Public (non-US),2026-11-09,,closed,,"An open call, with the funder setting the topic.",,https://aria.org.uk/opportunity-spaces/programmable-physiology/precision-mitochondria/funding,2026-10-14
 ARPA-H,Emerging Health Innovators ARPA-H-SOL-26-150,Federal,Solution Summary 2026-10-30,,closed,,"An ARPA-H solicitation, judged on a short solution summary first.",,https://arpa-h.gov/explore-funding/programs/ehi,2026-10-09
 ARPA-H,UNIQUE ARPA-H-SOL-26-162,Federal,Solution Summary 2026-10-29,,closed,,"An ARPA-H solicitation, judged on a short solution summary first.",,https://arpa-h.gov/explore-funding/programs/unique,2026-10-09
 ARPA-H,HEARING ARPA-H-SOL-26-154 (under review),Federal,closed,,closed,,"An ARPA-H solicitation, judged on a short solution summary first.",,https://arpa-h.gov/explore-funding/programs/hearing,2026-10-14
 Astralis and Macroscopic,Middle Powers and Transformative AI RFP,Industry,2026-10-23,,closed,,"An open call, with the funder setting the topic.",,https://middlepowers.ai/,2026-10-14
 CDC,1CDP Innovation Challenge (ineligible),Federal,2026-10-28,,closed,,"An open competition judged on results, not on a proposal.",,https://www.usa.gov/challenges/1cdp-innovation-challenge,2026-10-16
 CIFAR,Global Scholars 2027 to 2029,Public (non-US),2026-11-04,,closed,,A call from a public funder outside the US.,,https://www.cifar.ca/global-scholars/,2026-10-14
+DARPA,Firefox DARPA-PS-26-137,Federal,2026-11-09,,closed,,"A DARPA programme call, narrow in scope and run to its own schedule.",,https://www.darpa.mil/research/programs/firefox,2026-10-14
 DARPA,"UPDATE AI Forge renamed SI Forge, Cycle 2 official dates still not posted",Federal,2026-11-06 (unverified),,closed,,A federal research call.,,https://www.darpa.mil/research/programs/si-forge,2026-11-06
 DARPA BTO,Hubble DARPA-SN-26-121,Federal,2026-11-05,,closed,,"A DARPA programme call, narrow in scope and run to its own schedule.",,https://www.darpa.mil/research/programs/hubble,2026-10-14
 DARPA IPTO,Intrinsic Market Resilience DARPA-PS-26-138,Federal,abstract 2026-10-22,,closed,,"A DARPA programme call, narrow in scope and run to its own schedule.",,https://www.darpa.mil/research/programs/intrinsic-market-resilience-imr,2026-10-09
 DARPA IPTO,FastVacc RFI DARPA-SN-27-13 (unverified),Federal,about 2026-11-06 to 11-13,,closed,,"A request for comment, not a funding call.",,https://www.darpa.mil/rss/opportunities.xml,2026-11-02
 DoD,FY2027 DURIP N0001426SF003,Federal,2026-11-06,,closed,,"Buys equipment only, with no salary or research costs.",,https://simpler.grants.gov/opportunity/812b55e0-deb1-43cc-a2e2-f9f82ad735ad,2026-10-14
+DOE SC,Genesis Mission Graduate Fellowship DE-FOA-0003673,Federal,LOI 2026-11-09,,closed,Up to $20M,Supports a named individual rather than a project.,,https://science.osti.gov/grants/FOAs/FOAs/2027/DE-FOA-0003673,2026-10-09
 Foresight Institute,AI for Science and Safety Nodes RFP,Nonprofit,2026-10-31,,closed,,A center-scale award for a large multi-investigator team.,,https://foresight.org/grants/ai-science-safety-nodes-rfp/,2026-10-09
 Griffiss Institute,STFP fellowship,Nonprofit,2026-11-01,,closed,,A center-scale award for a large multi-investigator team.,,https://www.griffissinstitute.org/information-institute/,2026-10-14
 Humanity AI,Communities Leading on AI open call,Industry,2026-10-21,,closed,,"An open call, with the funder setting the topic.",,https://humanityai.ai/open-call/,2026-10-09
@@ -282,6 +281,7 @@ NY Health Foundation,2027 Special Projects Fund,Foundation,LOI 2026-10-15,,close
 NYS ESD,CAT RFP 2026 (limited),State,2026-10-30,,closed,,"An open call, with the funder setting the topic.",,https://esd.ny.gov/sites/default/files/media/document/CAT2026-RFPFINAL-CORRECTED-DUEDATE.pdf,2026-10-14
 NYS ESD,Downstate Semiconductor Chip Design Center RFA (partner only),State,concept 2026-10-26,,closed,,A New York State programme.,,https://esd.ny.gov/doing-business-ny/requests-proposals/downstate-semiconductor-chip-design-center-rfa,2026-10-16
 ONR,FY2027 Young Investigator Program N0001426SF004,Federal,2026-10-30,,closed,,A single-PI award for someone within a few years of the PhD.,,https://www.onr.navy.mil/work-with-us/funding-opportunities/fiscal-year-fy-2027-young-investigator-program-yip,2026-10-09
+RCSA,Team Science Accelerator,Nonprofit,LOI 2026-11-09,,closed,,Takes existing results toward deployment rather than funding new science.,,https://rescorp.org/2026/08/team-science-focus-of-new-rcsa-funding-program/,2026-10-16
 Retirement Research Foundation,Research grants LOI,Foundation,2026-11-02,,closed,,"An open call, with the funder setting the topic.",,https://www.rrf.org/apply-for-a-grant/research-grants/,2026-10-14
 Russell Sage Foundation,"Pipeline Grants, Core LOI, MOS Grants (unverified)",Foundation,"2026-10-21, 10-28, 12-01",,closed,,"An open call, with the funder setting the topic.",,https://www.russellsage.org/how-to-apply,2026-10-16
 Simons Foundation,Collaborations in MPS,Foundation,LOI 2026-10-29,,closed,,A private foundation grant.,,https://www.simonsfoundation.org/grant/simons-collaborations-in-mathematics-and-the-physical-sciences/,2026-10-09
