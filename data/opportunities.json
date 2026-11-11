@@ -1,70 +1,5 @@
 [
  {
-  "sponsor": "AFAR",
-  "program": "Beeson K76 (ineligible)",
-  "category": "Nonprofit",
-  "deadline": "2026-11-10",
-  "next_deadline": "2026-11-10",
-  "status": "open",
-  "award": "",
-  "summary": "A mentored career-development award for one person.",
-  "eligibility": "",
-  "link": "https://www.afar.org/funding-opportunities",
-  "first_seen": "2026-10-16"
- },
- {
-  "sponsor": "ARPA-H",
-  "program": "FASTPASS ARPA-H-SOL-26-160 (closed to new teams)",
-  "category": "Federal",
-  "deadline": "2026-11-10",
-  "next_deadline": "2026-11-10",
-  "status": "open",
-  "award": "",
-  "summary": "An ARPA-H solicitation, judged on a short solution summary first.",
-  "eligibility": "",
-  "link": "https://arpa-h.gov/explore-funding/programs/fastpass",
-  "first_seen": "2026-10-14"
- },
- {
-  "sponsor": "NIH Common Fund",
-  "program": "Human Virome R03 RFA-RM-27-024",
-  "category": "Federal",
-  "deadline": "2026-11-10",
-  "next_deadline": "2026-11-10",
-  "status": "open",
-  "award": "$50K to $100K",
-  "summary": "A small project of up to two years.",
-  "eligibility": "",
-  "link": "https://simpler.grants.gov/opportunity/50dc6b92-b042-4204-ba74-2753a244be5a",
-  "first_seen": "2026-10-09"
- },
- {
-  "sponsor": "NSF EDU TIP",
-  "program": "DCL NSF 27-011 Presidential SI Challenge supplements (ineligible)",
-  "category": "Federal",
-  "deadline": "2026-11-10",
-  "next_deadline": "2026-11-10",
-  "status": "open",
-  "award": "",
-  "summary": "An open competition judged on results, not on a proposal.",
-  "eligibility": "",
-  "link": "https://www.nsf.gov/funding/opportunities/dcl-supplemental-funding-requests-support-super-intelligence-si",
-  "first_seen": "2026-11-02"
- },
- {
-  "sponsor": "NYSERDA",
-  "program": "PON 6240 BESS Health Operations",
-  "category": "State",
-  "deadline": "2026-11-10",
-  "next_deadline": "2026-11-10",
-  "status": "open",
-  "award": "",
-  "summary": "A New York State programme.",
-  "eligibility": "",
-  "link": "https://www.nyserda.ny.gov/All-Programs/Grid-Modernization-Program",
-  "first_seen": "2026-10-14"
- },
- {
   "sponsor": "Amazon",
   "program": "UPDATE Research Awards Fall 2026 extended",
   "category": "Industry",
@@ -3042,6 +2977,19 @@
   "first_seen": "2026-10-16"
  },
  {
+  "sponsor": "AFAR",
+  "program": "Beeson K76 (ineligible)",
+  "category": "Nonprofit",
+  "deadline": "2026-11-10",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "A mentored career-development award for one person.",
+  "eligibility": "",
+  "link": "https://www.afar.org/funding-opportunities",
+  "first_seen": "2026-10-16"
+ },
+ {
   "sponsor": "AFRL RI",
   "program": "Targeting Operations and Analytics Development BAA FA875025S7002 (unverified)",
   "category": "Federal",
@@ -3196,6 +3144,19 @@
   "eligibility": "",
   "link": "https://arpa-h.gov/explore-funding/programs/unique",
   "first_seen": "2026-10-09"
+ },
+ {
+  "sponsor": "ARPA-H",
+  "program": "FASTPASS ARPA-H-SOL-26-160 (closed to new teams)",
+  "category": "Federal",
+  "deadline": "2026-11-10",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "An ARPA-H solicitation, judged on a short solution summary first.",
+  "eligibility": "",
+  "link": "https://arpa-h.gov/explore-funding/programs/fastpass",
+  "first_seen": "2026-10-14"
  },
  {
   "sponsor": "ARPA-H",
@@ -3498,6 +3459,19 @@
  },
  {
   "sponsor": "NIH Common Fund",
+  "program": "Human Virome R03 RFA-RM-27-024",
+  "category": "Federal",
+  "deadline": "2026-11-10",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "$50K to $100K",
+  "summary": "A small project of up to two years.",
+  "eligibility": "",
+  "link": "https://simpler.grants.gov/opportunity/50dc6b92-b042-4204-ba74-2753a244be5a",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "sponsor": "NIH Common Fund",
   "program": "PRIMED-AI RFA-RM-27-013 and RFA-RM-27-012",
   "category": "Federal",
   "deadline": "2026-10-19",
@@ -3601,6 +3575,19 @@
   "first_seen": "2026-10-14"
  },
  {
+  "sponsor": "NSF EDU TIP",
+  "program": "DCL NSF 27-011 Presidential SI Challenge supplements (ineligible)",
+  "category": "Federal",
+  "deadline": "2026-11-10",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "An open competition judged on results, not on a proposal.",
+  "eligibility": "",
+  "link": "https://www.nsf.gov/funding/opportunities/dcl-supplemental-funding-requests-support-super-intelligence-si",
+  "first_seen": "2026-11-02"
+ },
+ {
   "sponsor": "NVIDIA",
   "program": "Graduate Fellowship 2027 to 2028",
   "category": "Industry",
@@ -3651,6 +3638,19 @@
   "eligibility": "",
   "link": "https://esd.ny.gov/doing-business-ny/requests-proposals/downstate-semiconductor-chip-design-center-rfa",
   "first_seen": "2026-10-16"
+ },
+ {
+  "sponsor": "NYSERDA",
+  "program": "PON 6240 BESS Health Operations",
+  "category": "State",
+  "deadline": "2026-11-10",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "A New York State programme.",
+  "eligibility": "",
+  "link": "https://www.nyserda.ny.gov/All-Programs/Grid-Modernization-Program",
+  "first_seen": "2026-10-14"
  },
  {
   "sponsor": "ONR",
