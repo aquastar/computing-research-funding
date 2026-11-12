@@ -1,7 +1,7 @@
 # Computing research funding
 
 Open calls for research funding in AI and computing, from federal agencies, foundations and
-industry, swept twice a week. **139 open now, 86 rolling**, out of
+industry, swept twice a week. **137 open now, 86 rolling**, out of
 291 tracked, plus a watchlist of 257 funders checked on every sweep.
 
 **Browse it as a website:** [https://zhiqian.ai/funding](https://zhiqian.ai/funding)
@@ -10,14 +10,12 @@ industry, swept twice a week. **139 open now, 86 rolling**, out of
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-11-11 (brief of 2026-11-06). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
+Last synced 2026-11-12 (brief of 2026-11-06). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
 
 ## Open calls, soonest first
 
 | Deadline | Sponsor | Program | Type | Award |
 |---|---|---|---|---|
-| 2026-11-11 | Amazon | [UPDATE Research Awards Fall 2026 extended](https://www.amazon.science/research-awards/call-for-proposals) | Industry |  |
-| 2026-11-11 | NSF | [X-Labs Computation at the Limit of Physics and From Sequence to Function (limited, not open)](https://www.nsf.gov/news/nsf-announces-3-additional-topics-part-nsf-x-labs-initiative) | Federal |  |
 | 2026-11-12 | NSF | [STEM Access for Persons with Disabilities DCL NSF 23-160 (OLD, issued 2023, first seen this run, supplement, target 2nd Thursday Nov)](https://www.nsf.gov/funding/opportunities/dcl-stem-access-persons-disabilities-stem-apwd) | Federal |  |
 | 2026-11-12 | USGS | [WRRA 104g G27AS00164 (via state WRRI)](https://simpler.grants.gov/opportunity/2c5fcf26-2264-42ae-9bc9-60f591fd770c) |  |  |
 | 2026-11-13 | Arnold Ventures | [K-12 RFP (low fit)](https://www.arnoldventures.org/grants) | Foundation |  |

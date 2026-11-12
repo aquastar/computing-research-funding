@@ -1,31 +1,5 @@
 [
  {
-  "sponsor": "Amazon",
-  "program": "UPDATE Research Awards Fall 2026 extended",
-  "category": "Industry",
-  "deadline": "2026-11-11",
-  "next_deadline": "2026-11-11",
-  "status": "open",
-  "award": "",
-  "summary": "An unrestricted gift to one PI, decided in a single global round.",
-  "eligibility": "",
-  "link": "https://www.amazon.science/research-awards/call-for-proposals",
-  "first_seen": "2026-11-02"
- },
- {
-  "sponsor": "NSF",
-  "program": "X-Labs Computation at the Limit of Physics and From Sequence to Function (limited, not open)",
-  "category": "Federal",
-  "deadline": "BU internal 2026-11-11",
-  "next_deadline": "2026-11-11",
-  "status": "open",
-  "award": "",
-  "summary": "A federal research call.",
-  "eligibility": "",
-  "link": "https://www.nsf.gov/news/nsf-announces-3-additional-topics-part-nsf-x-labs-initiative",
-  "first_seen": "2026-10-16"
- },
- {
   "sponsor": "NSF",
   "program": "STEM Access for Persons with Disabilities DCL NSF 23-160 (OLD, issued 2023, first seen this run, supplement, target 2nd Thursday Nov)",
   "category": "Federal",
@@ -3055,6 +3029,19 @@
   "first_seen": "2026-10-09"
  },
  {
+  "sponsor": "Amazon",
+  "program": "UPDATE Research Awards Fall 2026 extended",
+  "category": "Industry",
+  "deadline": "2026-11-11",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "An unrestricted gift to one PI, decided in a single global round.",
+  "eligibility": "",
+  "link": "https://www.amazon.science/research-awards/call-for-proposals",
+  "first_seen": "2026-11-02"
+ },
+ {
   "sponsor": "Anthropic",
   "program": "AI for Science API credits",
   "category": "Industry",
@@ -3573,6 +3560,19 @@
   "eligibility": "",
   "link": "https://www.nsf.gov/news/nsf-announces-3-additional-topics-part-nsf-x-labs-initiative",
   "first_seen": "2026-10-14"
+ },
+ {
+  "sponsor": "NSF",
+  "program": "X-Labs Computation at the Limit of Physics and From Sequence to Function (limited, not open)",
+  "category": "Federal",
+  "deadline": "BU internal 2026-11-11",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "A federal research call.",
+  "eligibility": "",
+  "link": "https://www.nsf.gov/news/nsf-announces-3-additional-topics-part-nsf-x-labs-initiative",
+  "first_seen": "2026-10-16"
  },
  {
   "sponsor": "NSF EDU TIP",
