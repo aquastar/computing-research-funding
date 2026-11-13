@@ -256,3 +256,11 @@ NYS SFS public grant search,new_york_regional,https://esupplier.sfs.ny.gov/psc/f
 Riverside Research SI Forge,defense_niche,https://www.riversideresearch.org/expertise/ai-ml/si-forge,true,cycles,limited
 Research!America civic science,foundation_general,https://www.researchamerica.org/civic-science/,true,annual Nov,open
 Alignment Research Center White-Box Estimation Challenge (AIcrowd),prize_challenge,https://www.aicrowd.com/challenges,false,annual?,open
+CareSource Foundation,foundation_general,https://www.caresource.com/foundationgrant,false,new 2026,"open RFP, nonprofit lead"
+NYCAIRR NY Center for AI Responsibility and Research,new_york_regional,https://www.governor.ny.gov/news/governor-hochul-declares-ny-will-lead-nation-ai-science-and-safety-launches-new-research,false,new 2026,affiliation
+NTIA Public Wireless Supply Chain Innovation Fund,federal_niche,https://www.ntia.gov/funding-programs/public-wireless-supply-chain-innovation-fund,false,rounds,"industry lead, 50 percent cost share"
+Prima Mente challenges,prize_challenge,https://www.primamente.com/challenges/,false,2026 to 2027,open
+AI Hardware Design League,prize_challenge,https://csm.arizona.edu/AIHDL,false,annual,student teams
+Martian Interpretability Prize,prize_challenge,https://withmartian.com/prize,false,irregular,open
+Army xTech competitions,prize_challenge,https://xtech.army.mil/competitions/,false,rolling,mostly business
+HHS challenge competitions list,prize_challenge,https://health.gov/grants/challenge-competitions,false,rolling,varies

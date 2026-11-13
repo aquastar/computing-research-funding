@@ -2054,5 +2054,69 @@
   "link_verified": false,
   "cycle": "annual?",
   "access": "open"
+ },
+ {
+  "funder": "CareSource Foundation",
+  "category": "foundation_general",
+  "link": "https://www.caresource.com/foundationgrant",
+  "link_verified": false,
+  "cycle": "new 2026",
+  "access": "open RFP, nonprofit lead"
+ },
+ {
+  "funder": "NYCAIRR NY Center for AI Responsibility and Research",
+  "category": "new_york_regional",
+  "link": "https://www.governor.ny.gov/news/governor-hochul-declares-ny-will-lead-nation-ai-science-and-safety-launches-new-research",
+  "link_verified": false,
+  "cycle": "new 2026",
+  "access": "affiliation"
+ },
+ {
+  "funder": "NTIA Public Wireless Supply Chain Innovation Fund",
+  "category": "federal_niche",
+  "link": "https://www.ntia.gov/funding-programs/public-wireless-supply-chain-innovation-fund",
+  "link_verified": false,
+  "cycle": "rounds",
+  "access": "industry lead, 50 percent cost share"
+ },
+ {
+  "funder": "Prima Mente challenges",
+  "category": "prize_challenge",
+  "link": "https://www.primamente.com/challenges/",
+  "link_verified": false,
+  "cycle": "2026 to 2027",
+  "access": "open"
+ },
+ {
+  "funder": "AI Hardware Design League",
+  "category": "prize_challenge",
+  "link": "https://csm.arizona.edu/AIHDL",
+  "link_verified": false,
+  "cycle": "annual",
+  "access": "student teams"
+ },
+ {
+  "funder": "Martian Interpretability Prize",
+  "category": "prize_challenge",
+  "link": "https://withmartian.com/prize",
+  "link_verified": false,
+  "cycle": "irregular",
+  "access": "open"
+ },
+ {
+  "funder": "Army xTech competitions",
+  "category": "prize_challenge",
+  "link": "https://xtech.army.mil/competitions/",
+  "link_verified": false,
+  "cycle": "rolling",
+  "access": "mostly business"
+ },
+ {
+  "funder": "HHS challenge competitions list",
+  "category": "prize_challenge",
+  "link": "https://health.gov/grants/challenge-competitions",
+  "link_verified": false,
+  "cycle": "rolling",
+  "access": "varies"
  }
 ]
