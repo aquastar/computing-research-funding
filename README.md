@@ -1,7 +1,7 @@
 # Computing research funding
 
 Open calls for research funding in AI and computing, from federal agencies, foundations and
-industry, swept twice a week. **156 open now, 90 rolling**, out of
+industry, swept twice a week. **153 open now, 90 rolling**, out of
 316 tracked, plus a watchlist of 265 funders checked on every sweep.
 
 **Browse it as a website:** [https://zhiqian.ai/funding](https://zhiqian.ai/funding)
@@ -10,15 +10,12 @@ industry, swept twice a week. **156 open now, 90 rolling**, out of
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-11-13 (brief of 2026-11-13). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
+Last synced 2026-11-14 (brief of 2026-11-13). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
 
 ## Open calls, soonest first
 
 | Deadline | Sponsor | Program | Type | Award |
 |---|---|---|---|---|
-| 2026-11-13 | Arnold Ventures | [K-12 RFP (low fit)](https://www.arnoldventures.org/grants) | Foundation |  |
-| 2026-11-13 | DARPA IPTO | [UPDATE FastVacc RFI DARPA-SN-27-13 deadline verified](https://sam.gov/opp/9702cfee87444ea792404ad280b946e0/view) | Federal |  |
-| 2026-11-13 | IMLS | [NLG-LIBRARIES-FY27, NLG-M-FY27, LB21-FY27](https://simpler.grants.gov/opportunity/1bbe7a77-aeff-4653-8602-b864c237ba91) |  |  |
 | 2026-11-15 | AMD | [AI and HPC Cluster allocation](https://www.amd.com/en/corporate/university-program/ai-hpc-cluster.html) | Industry |  |
 | 2026-11-15 | Humboldt | [Research Fellowship experienced](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship) | Foundation |  |
 | 2026-11-16 | DOJ NIJ | [Human Trafficking O-NIJ-2026-172799 and School Safety O-NIJ-2026-172796](https://nij.ojp.gov/funding/current) | Federal |  |

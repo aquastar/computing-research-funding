@@ -1,44 +1,5 @@
 [
  {
-  "sponsor": "Arnold Ventures",
-  "program": "K-12 RFP (low fit)",
-  "category": "Foundation",
-  "deadline": "2026-11-13",
-  "next_deadline": "2026-11-13",
-  "status": "open",
-  "award": "",
-  "summary": "An open call, with the funder setting the topic.",
-  "eligibility": "",
-  "link": "https://www.arnoldventures.org/grants",
-  "first_seen": "2026-10-14"
- },
- {
-  "sponsor": "DARPA IPTO",
-  "program": "UPDATE FastVacc RFI DARPA-SN-27-13 deadline verified",
-  "category": "Federal",
-  "deadline": "2026-11-13",
-  "next_deadline": "2026-11-13",
-  "status": "open",
-  "award": "",
-  "summary": "A request for comment, not a funding call.",
-  "eligibility": "",
-  "link": "https://sam.gov/opp/9702cfee87444ea792404ad280b946e0/view",
-  "first_seen": "2026-11-06"
- },
- {
-  "sponsor": "IMLS",
-  "program": "NLG-LIBRARIES-FY27, NLG-M-FY27, LB21-FY27",
-  "category": "",
-  "deadline": "2026-11-13",
-  "next_deadline": "2026-11-13",
-  "status": "open",
-  "award": "",
-  "summary": "",
-  "eligibility": "",
-  "link": "https://simpler.grants.gov/opportunity/1bbe7a77-aeff-4653-8602-b864c237ba91",
-  "first_seen": "2026-10-16"
- },
- {
   "sponsor": "AMD",
   "program": "AI and HPC Cluster allocation",
   "category": "Industry",
@@ -3406,6 +3367,19 @@
   "first_seen": "2026-10-14"
  },
  {
+  "sponsor": "Arnold Ventures",
+  "program": "K-12 RFP (low fit)",
+  "category": "Foundation",
+  "deadline": "2026-11-13",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "An open call, with the funder setting the topic.",
+  "eligibility": "",
+  "link": "https://www.arnoldventures.org/grants",
+  "first_seen": "2026-10-14"
+ },
+ {
   "sponsor": "ARPA-H",
   "program": "Emerging Health Innovators ARPA-H-SOL-26-150",
   "category": "Federal",
@@ -3562,6 +3536,19 @@
   "first_seen": "2026-11-02"
  },
  {
+  "sponsor": "DARPA IPTO",
+  "program": "UPDATE FastVacc RFI DARPA-SN-27-13 deadline verified",
+  "category": "Federal",
+  "deadline": "2026-11-13",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "A request for comment, not a funding call.",
+  "eligibility": "",
+  "link": "https://sam.gov/opp/9702cfee87444ea792404ad280b946e0/view",
+  "first_seen": "2026-11-06"
+ },
+ {
   "sponsor": "DoD",
   "program": "FY2027 DURIP N0001426SF003",
   "category": "Federal",
@@ -3625,6 +3612,19 @@
   "eligibility": "",
   "link": "https://humanityai.ai/open-call/",
   "first_seen": "2026-10-09"
+ },
+ {
+  "sponsor": "IMLS",
+  "program": "NLG-LIBRARIES-FY27, NLG-M-FY27, LB21-FY27",
+  "category": "",
+  "deadline": "2026-11-13",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "",
+  "eligibility": "",
+  "link": "https://simpler.grants.gov/opportunity/1bbe7a77-aeff-4653-8602-b864c237ba91",
+  "first_seen": "2026-10-16"
  },
  {
   "sponsor": "John A. Hartford Foundation",

@@ -1,7 +1,4 @@
 sponsor,program,category,deadline,next_deadline,status,award,summary,eligibility,link,first_seen
-Arnold Ventures,K-12 RFP (low fit),Foundation,2026-11-13,2026-11-13,open,,"An open call, with the funder setting the topic.",,https://www.arnoldventures.org/grants,2026-10-14
-DARPA IPTO,UPDATE FastVacc RFI DARPA-SN-27-13 deadline verified,Federal,2026-11-13,2026-11-13,open,,"A request for comment, not a funding call.",,https://sam.gov/opp/9702cfee87444ea792404ad280b946e0/view,2026-11-06
-IMLS,"NLG-LIBRARIES-FY27, NLG-M-FY27, LB21-FY27",,2026-11-13,2026-11-13,open,,,,https://simpler.grants.gov/opportunity/1bbe7a77-aeff-4653-8602-b864c237ba91,2026-10-16
 AMD,AI and HPC Cluster allocation,Industry,2026-11-15,2026-11-15,open,,An allocation of compute or model access rather than money.,,https://www.amd.com/en/corporate/university-program/ai-hpc-cluster.html,2026-10-14
 Humboldt,Research Fellowship experienced,Foundation,opens 2026-11-15,2026-11-15,open,,Supports a named individual rather than a project.,,https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship,2026-10-14
 DOJ NIJ,Human Trafficking O-NIJ-2026-172799 and School Safety O-NIJ-2026-172796,Federal,"2026-11-16, 2026-11-23",2026-11-16,open,,A federal research call.,,https://nij.ojp.gov/funding/current,2026-10-26
@@ -261,6 +258,7 @@ Anthropic,Guest Investigator Program in the Life Sciences,Industry,about 2026-11
 Arena,Academic Partnerships Program Fall 2026,Industry,2026-10-30,,closed,,A company programme.,,https://arena.ai/blog/academic-program-fall-2026,2026-10-26
 ARIA,Safeguarded AI and Scaling Trust rolling batch,Public (non-US),2026-10-31,,closed,,A call from a public funder outside the US.,,https://www.aria.org.uk/,2026-10-14
 ARIA,Precision Mitochondria RFP,Public (non-US),2026-11-09,,closed,,"An open call, with the funder setting the topic.",,https://aria.org.uk/opportunity-spaces/programmable-physiology/precision-mitochondria/funding,2026-10-14
+Arnold Ventures,K-12 RFP (low fit),Foundation,2026-11-13,,closed,,"An open call, with the funder setting the topic.",,https://www.arnoldventures.org/grants,2026-10-14
 ARPA-H,Emerging Health Innovators ARPA-H-SOL-26-150,Federal,Solution Summary 2026-10-30,,closed,,"An ARPA-H solicitation, judged on a short solution summary first.",,https://arpa-h.gov/explore-funding/programs/ehi,2026-10-09
 ARPA-H,UNIQUE ARPA-H-SOL-26-162,Federal,Solution Summary 2026-10-29,,closed,,"An ARPA-H solicitation, judged on a short solution summary first.",,https://arpa-h.gov/explore-funding/programs/unique,2026-10-09
 ARPA-H,FASTPASS ARPA-H-SOL-26-160 (closed to new teams),Federal,2026-11-10,,closed,,"An ARPA-H solicitation, judged on a short solution summary first.",,https://arpa-h.gov/explore-funding/programs/fastpass,2026-10-14
@@ -273,11 +271,13 @@ DARPA,"UPDATE AI Forge renamed SI Forge, Cycle 2 official dates still not posted
 DARPA BTO,Hubble DARPA-SN-26-121,Federal,2026-11-05,,closed,,"A DARPA programme call, narrow in scope and run to its own schedule.",,https://www.darpa.mil/research/programs/hubble,2026-10-14
 DARPA IPTO,Intrinsic Market Resilience DARPA-PS-26-138,Federal,abstract 2026-10-22,,closed,,"A DARPA programme call, narrow in scope and run to its own schedule.",,https://www.darpa.mil/research/programs/intrinsic-market-resilience-imr,2026-10-09
 DARPA IPTO,FastVacc RFI DARPA-SN-27-13 (unverified),Federal,about 2026-11-06 to 11-13,,closed,,"A request for comment, not a funding call.",,https://www.darpa.mil/rss/opportunities.xml,2026-11-02
+DARPA IPTO,UPDATE FastVacc RFI DARPA-SN-27-13 deadline verified,Federal,2026-11-13,,closed,,"A request for comment, not a funding call.",,https://sam.gov/opp/9702cfee87444ea792404ad280b946e0/view,2026-11-06
 DoD,FY2027 DURIP N0001426SF003,Federal,2026-11-06,,closed,,"Buys equipment only, with no salary or research costs.",,https://simpler.grants.gov/opportunity/812b55e0-deb1-43cc-a2e2-f9f82ad735ad,2026-10-14
 DOE SC,Genesis Mission Graduate Fellowship DE-FOA-0003673,Federal,LOI 2026-11-09,,closed,Up to $20M,Supports a named individual rather than a project.,,https://science.osti.gov/grants/FOAs/FOAs/2027/DE-FOA-0003673,2026-10-09
 Foresight Institute,AI for Science and Safety Nodes RFP,Nonprofit,2026-10-31,,closed,,A center-scale award for a large multi-investigator team.,,https://foresight.org/grants/ai-science-safety-nodes-rfp/,2026-10-09
 Griffiss Institute,STFP fellowship,Nonprofit,2026-11-01,,closed,,A center-scale award for a large multi-investigator team.,,https://www.griffissinstitute.org/information-institute/,2026-10-14
 Humanity AI,Communities Leading on AI open call,Industry,2026-10-21,,closed,,"An open call, with the funder setting the topic.",,https://humanityai.ai/open-call/,2026-10-09
+IMLS,"NLG-LIBRARIES-FY27, NLG-M-FY27, LB21-FY27",,2026-11-13,,closed,,,,https://simpler.grants.gov/opportunity/1bbe7a77-aeff-4653-8602-b864c237ba91,2026-10-16
 John A. Hartford Foundation,2026 Call for Proposals,Foundation,LOI 2026-10-27,,closed,,"An open call, with the funder setting the topic.",,https://www.johnahartford.org/grants-strategy/2026-call-for-proposals,2026-10-14
 Lightcone,Corrigibility Research Fund Round 2,Foundation,2026-10-31,,closed,,A private foundation grant.,,https://corrigibilityresearch.org/,2026-10-14
 MathWorks,Research Support CFP Fall 2026,Industry,2026-11-02,,closed,,A company programme.,,https://www.mathworks.com/academia/research/call-for-research-proposals.html,2026-10-23
