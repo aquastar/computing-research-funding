@@ -1,31 +1,5 @@
 [
  {
-  "sponsor": "AMD",
-  "program": "AI and HPC Cluster allocation",
-  "category": "Industry",
-  "deadline": "2026-11-15",
-  "next_deadline": "2026-11-15",
-  "status": "open",
-  "award": "",
-  "summary": "An allocation of compute or model access rather than money.",
-  "eligibility": "",
-  "link": "https://www.amd.com/en/corporate/university-program/ai-hpc-cluster.html",
-  "first_seen": "2026-10-14"
- },
- {
-  "sponsor": "Humboldt",
-  "program": "Research Fellowship experienced",
-  "category": "Foundation",
-  "deadline": "opens 2026-11-15",
-  "next_deadline": "2026-11-15",
-  "status": "open",
-  "award": "",
-  "summary": "Supports a named individual rather than a project.",
-  "eligibility": "",
-  "link": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship",
-  "first_seen": "2026-10-14"
- },
- {
   "sponsor": "DOJ NIJ",
   "program": "Human Trafficking O-NIJ-2026-172799 and School Safety O-NIJ-2026-172796",
   "category": "Federal",
@@ -3302,6 +3276,19 @@
   "first_seen": "2026-11-02"
  },
  {
+  "sponsor": "AMD",
+  "program": "AI and HPC Cluster allocation",
+  "category": "Industry",
+  "deadline": "2026-11-15",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "An allocation of compute or model access rather than money.",
+  "eligibility": "",
+  "link": "https://www.amd.com/en/corporate/university-program/ai-hpc-cluster.html",
+  "first_seen": "2026-10-14"
+ },
+ {
   "sponsor": "Anthropic",
   "program": "AI for Science API credits",
   "category": "Industry",
@@ -3612,6 +3599,19 @@
   "eligibility": "",
   "link": "https://humanityai.ai/open-call/",
   "first_seen": "2026-10-09"
+ },
+ {
+  "sponsor": "Humboldt",
+  "program": "Research Fellowship experienced",
+  "category": "Foundation",
+  "deadline": "opens 2026-11-15",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "Supports a named individual rather than a project.",
+  "eligibility": "",
+  "link": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship",
+  "first_seen": "2026-10-14"
  },
  {
   "sponsor": "IMLS",
