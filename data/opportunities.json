@@ -1,96 +1,5 @@
 [
  {
-  "sponsor": "DOJ NIJ",
-  "program": "Human Trafficking O-NIJ-2026-172799 and School Safety O-NIJ-2026-172796",
-  "category": "Federal",
-  "deadline": "2026-11-16, 2026-11-23",
-  "next_deadline": "2026-11-16",
-  "status": "open",
-  "award": "",
-  "summary": "A federal research call.",
-  "eligibility": "",
-  "link": "https://nij.ojp.gov/funding/current",
-  "first_seen": "2026-10-26"
- },
- {
-  "sponsor": "DOJ NIJ",
-  "program": "Byrne SCIP O-NIJ-2026-172798, Illegal Immigration O-NIJ-2026-172800, Gender Dysphoria O-NIJ-2026-172802 (low)",
-  "category": "Federal",
-  "deadline": "2026-11-16, 11-16, 11-23",
-  "next_deadline": "2026-11-16",
-  "status": "open",
-  "award": "",
-  "summary": "A federal research call.",
-  "eligibility": "",
-  "link": "https://nij.ojp.gov/funding/current",
-  "first_seen": "2026-11-02"
- },
- {
-  "sponsor": "NIA AITC network",
-  "program": "AITC Annual National Research Award Competition AITC-ARA-27-001",
-  "category": "Industry",
-  "deadline": "LOI 2026-11-16, full 2027-01-22",
-  "next_deadline": "2026-11-16",
-  "status": "open",
-  "award": "",
-  "summary": "An open competition judged on results, not on a proposal.",
-  "eligibility": "",
-  "link": "https://aitcc.ai/rfa/aitc-ara-27-001",
-  "first_seen": "2026-10-23"
- },
- {
-  "sponsor": "NIJ",
-  "program": "FY2026 solicitations incl Crime and Justice Research O-NIJ-2026-172801",
-  "category": "Federal",
-  "deadline": "2026-11-16",
-  "next_deadline": "2026-11-16",
-  "status": "open",
-  "award": "",
-  "summary": "An agency solicitation.",
-  "eligibility": "",
-  "link": "https://nij.ojp.gov/funding/current",
-  "first_seen": "2026-10-14"
- },
- {
-  "sponsor": "NSF DMS",
-  "program": "Applied Mathematics PD-16-1266 (unverified)",
-  "category": "Federal",
-  "deadline": "2026-11-16",
-  "next_deadline": "2026-11-16",
-  "status": "open",
-  "award": "",
-  "summary": "A federal research call.",
-  "eligibility": "",
-  "link": "https://simpler.grants.gov/search?query=PD-16-1266",
-  "first_seen": "2026-10-16"
- },
- {
-  "sponsor": "ONR",
-  "program": "FY27 Communications and Networking N0001426SBC11",
-  "category": "Federal",
-  "deadline": "2026-11-16",
-  "next_deadline": "2026-11-16",
-  "status": "open",
-  "award": "",
-  "summary": "A federal research call.",
-  "eligibility": "",
-  "link": "https://www.onr.navy.mil/work-with-us/funding-opportunities/special-program-announcement-onr-research-opportunity-fy27",
-  "first_seen": "2026-10-09"
- },
- {
-  "sponsor": "RIT",
-  "program": "Grant Writer's Boot Camp Seed Funding",
-  "category": "University",
-  "deadline": "NOI 2026-11-16",
-  "next_deadline": "2026-11-16",
-  "status": "open",
-  "award": "",
-  "summary": "A small starter award, usually to produce preliminary data.",
-  "eligibility": "",
-  "link": "https://www.rit.edu/srs/internal-funding-opportunities",
-  "first_seen": "2026-10-09"
- },
- {
   "sponsor": "NIH NCCIH",
   "program": "Remote mHealth CT R01 PAR-25-268",
   "category": "Federal",
@@ -284,6 +193,19 @@
   "eligibility": "",
   "link": "https://sam.gov/",
   "first_seen": "2026-11-06"
+ },
+ {
+  "sponsor": "DOJ NIJ",
+  "program": "Human Trafficking O-NIJ-2026-172799 and School Safety O-NIJ-2026-172796",
+  "category": "Federal",
+  "deadline": "2026-11-16, 2026-11-23",
+  "next_deadline": "2026-11-23",
+  "status": "open",
+  "award": "",
+  "summary": "A federal research call.",
+  "eligibility": "",
+  "link": "https://nij.ojp.gov/funding/current",
+  "first_seen": "2026-10-26"
  },
  {
   "sponsor": "NIH Common Fund",
@@ -1376,6 +1298,19 @@
   "eligibility": "",
   "link": "https://sam.gov/opp/85dacc8ad6aa4cd59ae08f37a9f63355/view",
   "first_seen": "2026-11-13"
+ },
+ {
+  "sponsor": "NIA AITC network",
+  "program": "AITC Annual National Research Award Competition AITC-ARA-27-001",
+  "category": "Industry",
+  "deadline": "LOI 2026-11-16, full 2027-01-22",
+  "next_deadline": "2027-01-22",
+  "status": "open",
+  "award": "",
+  "summary": "An open competition judged on results, not on a proposal.",
+  "eligibility": "",
+  "link": "https://aitcc.ai/rfa/aitc-ara-27-001",
+  "first_seen": "2026-10-23"
  },
  {
   "sponsor": "Lightcone",
@@ -3562,6 +3497,19 @@
   "first_seen": "2026-10-09"
  },
  {
+  "sponsor": "DOJ NIJ",
+  "program": "Byrne SCIP O-NIJ-2026-172798, Illegal Immigration O-NIJ-2026-172800, Gender Dysphoria O-NIJ-2026-172802 (low)",
+  "category": "Federal",
+  "deadline": "2026-11-16, 11-16, 11-23",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "A federal research call.",
+  "eligibility": "",
+  "link": "https://nij.ojp.gov/funding/current",
+  "first_seen": "2026-11-02"
+ },
+ {
   "sponsor": "Foresight Institute",
   "program": "AI for Science and Safety Nodes RFP",
   "category": "Nonprofit",
@@ -3796,6 +3744,19 @@
   "first_seen": "2026-10-14"
  },
  {
+  "sponsor": "NIJ",
+  "program": "FY2026 solicitations incl Crime and Justice Research O-NIJ-2026-172801",
+  "category": "Federal",
+  "deadline": "2026-11-16",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "An agency solicitation.",
+  "eligibility": "",
+  "link": "https://nij.ojp.gov/funding/current",
+  "first_seen": "2026-10-14"
+ },
+ {
   "sponsor": "NOAA OAR CPO",
   "program": "ESSSP NOAA-OAR-CPO-2026-33326",
   "category": "Federal",
@@ -3885,6 +3846,19 @@
   "eligibility": "",
   "link": "https://www.nsf.gov/funding/opportunities/dcl-stem-access-persons-disabilities-stem-apwd",
   "first_seen": "2026-11-06"
+ },
+ {
+  "sponsor": "NSF DMS",
+  "program": "Applied Mathematics PD-16-1266 (unverified)",
+  "category": "Federal",
+  "deadline": "2026-11-16",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "A federal research call.",
+  "eligibility": "",
+  "link": "https://simpler.grants.gov/search?query=PD-16-1266",
+  "first_seen": "2026-10-16"
  },
  {
   "sponsor": "NSF EDU TIP",
@@ -3978,6 +3952,19 @@
   "first_seen": "2026-10-09"
  },
  {
+  "sponsor": "ONR",
+  "program": "FY27 Communications and Networking N0001426SBC11",
+  "category": "Federal",
+  "deadline": "2026-11-16",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "A federal research call.",
+  "eligibility": "",
+  "link": "https://www.onr.navy.mil/work-with-us/funding-opportunities/special-program-announcement-onr-research-opportunity-fy27",
+  "first_seen": "2026-10-09"
+ },
+ {
   "sponsor": "RCSA",
   "program": "Team Science Accelerator",
   "category": "Nonprofit",
@@ -4002,6 +3989,19 @@
   "eligibility": "",
   "link": "https://www.rrf.org/apply-for-a-grant/research-grants/",
   "first_seen": "2026-10-14"
+ },
+ {
+  "sponsor": "RIT",
+  "program": "Grant Writer's Boot Camp Seed Funding",
+  "category": "University",
+  "deadline": "NOI 2026-11-16",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "A small starter award, usually to produce preliminary data.",
+  "eligibility": "",
+  "link": "https://www.rit.edu/srs/internal-funding-opportunities",
+  "first_seen": "2026-10-09"
  },
  {
   "sponsor": "Russell Sage Foundation",

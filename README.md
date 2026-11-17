@@ -1,7 +1,7 @@
 # Computing research funding
 
 Open calls for research funding in AI and computing, from federal agencies, foundations and
-industry, swept twice a week. **151 open now, 90 rolling**, out of
+industry, swept twice a week. **146 open now, 90 rolling**, out of
 316 tracked, plus a watchlist of 265 funders checked on every sweep.
 
 **Browse it as a website:** [https://zhiqian.ai/funding](https://zhiqian.ai/funding)
@@ -10,19 +10,12 @@ industry, swept twice a week. **151 open now, 90 rolling**, out of
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-11-16 (brief of 2026-11-13). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
+Last synced 2026-11-17 (brief of 2026-11-13). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
 
 ## Open calls, soonest first
 
 | Deadline | Sponsor | Program | Type | Award |
 |---|---|---|---|---|
-| 2026-11-16 | DOJ NIJ | [Human Trafficking O-NIJ-2026-172799 and School Safety O-NIJ-2026-172796](https://nij.ojp.gov/funding/current) | Federal |  |
-| 2026-11-16 | DOJ NIJ | [Byrne SCIP O-NIJ-2026-172798, Illegal Immigration O-NIJ-2026-172800, Gender Dysphoria O-NIJ-2026-172802 (low)](https://nij.ojp.gov/funding/current) | Federal |  |
-| 2026-11-16 | NIA AITC network | [AITC Annual National Research Award Competition AITC-ARA-27-001](https://aitcc.ai/rfa/aitc-ara-27-001) | Industry |  |
-| 2026-11-16 | NIJ | [FY2026 solicitations incl Crime and Justice Research O-NIJ-2026-172801](https://nij.ojp.gov/funding/current) | Federal |  |
-| 2026-11-16 | NSF DMS | [Applied Mathematics PD-16-1266 (unverified)](https://simpler.grants.gov/search?query=PD-16-1266) | Federal |  |
-| 2026-11-16 | ONR | [FY27 Communications and Networking N0001426SBC11](https://www.onr.navy.mil/work-with-us/funding-opportunities/special-program-announcement-onr-research-opportunity-fy27) | Federal |  |
-| 2026-11-16 | RIT | [Grant Writer's Boot Camp Seed Funding](https://www.rit.edu/srs/internal-funding-opportunities) | University |  |
 | 2026-11-17 | NIH NCCIH | [Remote mHealth CT R01 PAR-25-268](https://simpler.grants.gov/opportunity/e4e8aa66-546b-4bf7-994e-395c11b8b7cf) | Federal |  |
 | 2026-11-17 | NOAA OAR CPO | [SI/ML Innovation for Earth System Science and Hazard Resilience NOAA-OAR-CPO-2027-33392](https://simpler.grants.gov/opportunity/df29db0f-809b-40ad-9cbe-c7954b9e5cfd) | Federal |  |
 | 2026-11-17 | NSF | [Translation to Practice NSF 25-540](https://www.nsf.gov/funding/opportunities/nsf-ttp-national-science-foundation-translation-practice/nsf25-540/solicitation) | Federal | $600K to $2M |
@@ -38,6 +31,7 @@ Last synced 2026-11-16 (brief of 2026-11-13). Entries marked unverified were not
 | 2026-11-21 | [PRIZE] IBM and partners | [UPDATE Steerability registration closed 2026-11-01 AoE, final 2026-11-21](https://steerability.github.io/competition/) | Industry |  |
 | 2026-11-23 | [PRIZE] IBM and partners | [UPDATE Steerability final moved, latest commit rule, method_card required, winners at workshop](https://steerability.github.io/competition/) | Industry |  |
 | 2026-11-23 | DARPA STO | [Unison DARPA-PS-27-06](https://sam.gov/) | Federal |  |
+| 2026-11-23 | DOJ NIJ | [Human Trafficking O-NIJ-2026-172799 and School Safety O-NIJ-2026-172796](https://nij.ojp.gov/funding/current) | Federal |  |
 | 2026-11-23 | NIH Common Fund | [SenNet SenTecs RFA-RM-27-007](https://simpler.grants.gov/search?agency=HHS-NIH11&status=forecasted,posted&sortby=postedDateDesc) | Federal |  |
 | 2026-11-23 | NIH Common Fund | [SenNet DCIC RFA-RM-27-025](https://simpler.grants.gov/opportunity/0edb3126-b0e0-4722-8c45-79b63b7cdf39) | Federal |  |
 | 2026-11-29 | Rockefeller Foundation, OpenAI Foundation | [Cities Deliver AI Solutions for Public Services (limited 2 per institution)](https://www.rockefellerfoundation.org/cities-deliver-ai-solutions-for-public-services/) | Foundation |  |
@@ -122,6 +116,7 @@ Last synced 2026-11-16 (brief of 2026-11-13). Entries marked unverified were not
 | 2027-01-15 | [PRIZE] NIH ODSS | [UPDATE temporal KG challenge office hours 11-24, webinar 12-08, office hours 12-17 and 2027-01-07](https://work.crowdplat.com/challenge/nih-temporal-knowledge-graph-challenge) | Industry |  |
 | 2027-01-20 | NSF OAC | [CICI NSF 25-531 (OLD, issued 2025)](https://www.nsf.gov/funding/opportunities/cici-cybersecurity-innovation-cyberinfrastructure/nsf25-531/solicitation) | Federal | Up to $1.2M |
 | 2027-01-22 | FDA | [FY27 BAA Regulatory Science FDABAA-27-00123 (issued 2026-10-30)](https://sam.gov/opp/85dacc8ad6aa4cd59ae08f37a9f63355/view) | Federal |  |
+| 2027-01-22 | NIA AITC network | [AITC Annual National Research Award Competition AITC-ARA-27-001](https://aitcc.ai/rfa/aitc-ara-27-001) | Industry |  |
 | 2027-01-23 | Lightcone | [Lightcone Commons](https://www.lightconecommons.com/apply) | Foundation |  |
 | 2027-01-25 | NSF CISE | [SaTC NSF 25-515](https://simpler.grants.gov/opportunity/be60945c-b310-496b-aacd-b21483440fa2) | Federal | $50K to $1.2M |
 | 2027-01-26 | NIH | [Katz ESI R01 PAR-25-322](https://grants.nih.gov/grants/guide/pa-files/PAR-25-322.html) | Federal |  |
