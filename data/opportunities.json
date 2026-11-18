@@ -1,44 +1,5 @@
 [
  {
-  "sponsor": "NIH NCCIH",
-  "program": "Remote mHealth CT R01 PAR-25-268",
-  "category": "Federal",
-  "deadline": "2026-11-17",
-  "next_deadline": "2026-11-17",
-  "status": "open",
-  "award": "",
-  "summary": "A full-scale research project, usually four to five years.",
-  "eligibility": "",
-  "link": "https://simpler.grants.gov/opportunity/e4e8aa66-546b-4bf7-994e-395c11b8b7cf",
-  "first_seen": "2026-10-14"
- },
- {
-  "sponsor": "NOAA OAR CPO",
-  "program": "SI/ML Innovation for Earth System Science and Hazard Resilience NOAA-OAR-CPO-2027-33392",
-  "category": "Federal",
-  "deadline": "LOI 2026-11-17, full 2027-02-09",
-  "next_deadline": "2026-11-17",
-  "status": "open",
-  "award": "",
-  "summary": "A federal research call.",
-  "eligibility": "",
-  "link": "https://simpler.grants.gov/opportunity/df29db0f-809b-40ad-9cbe-c7954b9e5cfd",
-  "first_seen": "2026-11-02"
- },
- {
-  "sponsor": "NSF",
-  "program": "Translation to Practice NSF 25-540",
-  "category": "Federal",
-  "deadline": "2026-11-17",
-  "next_deadline": "2026-11-17",
-  "status": "open",
-  "award": "$600K to $2M",
-  "summary": "Takes existing results toward deployment rather than funding new science.",
-  "eligibility": "",
-  "link": "https://www.nsf.gov/funding/opportunities/nsf-ttp-national-science-foundation-translation-practice/nsf25-540/solicitation",
-  "first_seen": "2026-10-09"
- },
- {
   "sponsor": "Dana Foundation",
   "program": "More than Medicine preproposals",
   "category": "Foundation",
@@ -1453,6 +1414,19 @@
   "summary": "A federal research call.",
   "eligibility": "",
   "link": "https://simpler.grants.gov/opportunity/f5ae758f-11a7-4897-81c2-553821ff2270",
+  "first_seen": "2026-11-02"
+ },
+ {
+  "sponsor": "NOAA OAR CPO",
+  "program": "SI/ML Innovation for Earth System Science and Hazard Resilience NOAA-OAR-CPO-2027-33392",
+  "category": "Federal",
+  "deadline": "LOI 2026-11-17, full 2027-02-09",
+  "next_deadline": "2027-02-09",
+  "status": "open",
+  "award": "",
+  "summary": "A federal research call.",
+  "eligibility": "",
+  "link": "https://simpler.grants.gov/opportunity/df29db0f-809b-40ad-9cbe-c7954b9e5cfd",
   "first_seen": "2026-11-02"
  },
  {
@@ -3718,6 +3692,19 @@
   "first_seen": "2026-10-16"
  },
  {
+  "sponsor": "NIH NCCIH",
+  "program": "Remote mHealth CT R01 PAR-25-268",
+  "category": "Federal",
+  "deadline": "2026-11-17",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "A full-scale research project, usually four to five years.",
+  "eligibility": "",
+  "link": "https://simpler.grants.gov/opportunity/e4e8aa66-546b-4bf7-994e-395c11b8b7cf",
+  "first_seen": "2026-10-14"
+ },
+ {
   "sponsor": "NIH NIDCD",
   "program": "ECR R21 PAR-25-120 (ineligible, prior federal PI)",
   "category": "Federal",
@@ -3793,6 +3780,19 @@
   "summary": "A center-scale award for a large multi-investigator team.",
   "eligibility": "",
   "link": "https://www.nsf.gov/funding/opportunities/us-national-science-foundation-state-regional-artificial/nsf26-513/solicitation",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "sponsor": "NSF",
+  "program": "Translation to Practice NSF 25-540",
+  "category": "Federal",
+  "deadline": "2026-11-17",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "$600K to $2M",
+  "summary": "Takes existing results toward deployment rather than funding new science.",
+  "eligibility": "",
+  "link": "https://www.nsf.gov/funding/opportunities/nsf-ttp-national-science-foundation-translation-practice/nsf25-540/solicitation",
   "first_seen": "2026-10-09"
  },
  {

@@ -1,8 +1,8 @@
 # Computing research funding
 
 Open calls for research funding in AI and computing, from federal agencies, foundations and
-industry, swept twice a week. **146 open now, 90 rolling**, out of
-316 tracked, plus a watchlist of 265 funders checked on every sweep.
+industry, swept twice a week. **144 open now, 90 rolling**, out of
+316 tracked, plus a watchlist of 267 funders checked on every sweep.
 
 **Browse it as a website:** [https://zhiqian.ai/funding](https://zhiqian.ai/funding)
 
@@ -10,15 +10,12 @@ industry, swept twice a week. **146 open now, 90 rolling**, out of
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-11-17 (brief of 2026-11-13). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
+Last synced 2026-11-18 (brief of 2026-11-13). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
 
 ## Open calls, soonest first
 
 | Deadline | Sponsor | Program | Type | Award |
 |---|---|---|---|---|
-| 2026-11-17 | NIH NCCIH | [Remote mHealth CT R01 PAR-25-268](https://simpler.grants.gov/opportunity/e4e8aa66-546b-4bf7-994e-395c11b8b7cf) | Federal |  |
-| 2026-11-17 | NOAA OAR CPO | [SI/ML Innovation for Earth System Science and Hazard Resilience NOAA-OAR-CPO-2027-33392](https://simpler.grants.gov/opportunity/df29db0f-809b-40ad-9cbe-c7954b9e5cfd) | Federal |  |
-| 2026-11-17 | NSF | [Translation to Practice NSF 25-540](https://www.nsf.gov/funding/opportunities/nsf-ttp-national-science-foundation-translation-practice/nsf25-540/solicitation) | Federal | $600K to $2M |
 | 2026-11-18 | Dana Foundation | [More than Medicine preproposals](https://dana.org/grants/) | Foundation |  |
 | 2026-11-18 | NSF | [FINDERS FOUNDRY NSF 26-507](https://www.nsf.gov/funding/opportunities/nsf-finders-foundry-national-science-foundation-fostering-interdisciplinary) | Federal |  |
 | 2026-11-19 | NSF | [EFRI Wave-Based Computing NSF 26-524](https://www.nsf.gov/funding/opportunities/efri-wbc-emerging-frontiers-research-innovation-efri-wave-based/nsf26-524/solicitation) | Federal |  |
@@ -128,6 +125,7 @@ Last synced 2026-11-17 (brief of 2026-11-13). Entries marked unverified were not
 | 2027-02-03 | NIGMS | [MIRA ESI PAR-27-032](https://simpler.grants.gov/opportunity/9a4aeb2f-d0ac-403b-ac67-9d1fd24d9556) | Federal |  |
 | 2027-02-04 | NSF CISE | [Future CoRe NSF 25-543](https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf25-543/solicitation) | Federal | $600K to $12M |
 | 2027-02-08 | DOE NETL | [SCALED DE-FOA-0003641 (low)](https://simpler.grants.gov/opportunity/f5ae758f-11a7-4897-81c2-553821ff2270) | Federal | $1 to $237M |
+| 2027-02-09 | NOAA OAR CPO | [SI/ML Innovation for Earth System Science and Hazard Resilience NOAA-OAR-CPO-2027-33392](https://simpler.grants.gov/opportunity/df29db0f-809b-40ad-9cbe-c7954b9e5cfd) | Federal |  |
 | 2027-02-11 | NIH NLM | [T15 RFA-LM-28-001](https://simpler.grants.gov/opportunity/1c1ad215-73b3-44cf-afef-a386915e2f7f) | Federal | $500K to $775K |
 | 2027-02-12 | NIH NIDCD | [Translational R01 RFA-DC-25-002](https://grants.nih.gov/grants/guide/rfa-files/RFA-DC-25-002.html) | Federal | Up to $500K |
 | 2027-02-12 | NOAA NOS NCCOS | [Coastal flood natural infrastructure NOAA-NOS-NCCOS-2026-32934](https://simpler.grants.gov/opportunity/d7849569-60f9-44bc-879c-d356b0460132) | Federal |  |

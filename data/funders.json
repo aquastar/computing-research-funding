@@ -2118,5 +2118,21 @@
   "link_verified": false,
   "cycle": "rolling",
   "access": "varies"
+ },
+ {
+  "funder": "Music4Pain Network (NIH U24 music and pain)",
+  "category": "health_accessibility",
+  "link": "https://music4pain.org/funding/rfa/",
+  "link_verified": false,
+  "cycle": "Pilot RFA under the NIH music networks",
+  "access": "open"
+ },
+ {
+  "funder": "UCSF Sound Health Network",
+  "category": "health_accessibility",
+  "link": "https://soundhealth.ucsf.edu/funding-opportunities",
+  "link_verified": false,
+  "cycle": "Irregular",
+  "access": "open"
  }
 ]
