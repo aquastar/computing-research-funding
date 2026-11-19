@@ -1,31 +1,5 @@
 [
  {
-  "sponsor": "Dana Foundation",
-  "program": "More than Medicine preproposals",
-  "category": "Foundation",
-  "deadline": "2026-11-18",
-  "next_deadline": "2026-11-18",
-  "status": "open",
-  "award": "",
-  "summary": "An open call, with the funder setting the topic.",
-  "eligibility": "",
-  "link": "https://dana.org/grants/",
-  "first_seen": "2026-10-14"
- },
- {
-  "sponsor": "NSF",
-  "program": "FINDERS FOUNDRY NSF 26-507",
-  "category": "Federal",
-  "deadline": "2026-11-18",
-  "next_deadline": "2026-11-18",
-  "status": "open",
-  "award": "",
-  "summary": "An NSF solicitation with its own topic and deadline.",
-  "eligibility": "",
-  "link": "https://www.nsf.gov/funding/opportunities/nsf-finders-foundry-national-science-foundation-fostering-interdisciplinary",
-  "first_seen": "2026-10-09"
- },
- {
   "sponsor": "NSF",
   "program": "EFRI Wave-Based Computing NSF 26-524",
   "category": "Federal",
@@ -3367,6 +3341,19 @@
   "first_seen": "2026-10-14"
  },
  {
+  "sponsor": "Dana Foundation",
+  "program": "More than Medicine preproposals",
+  "category": "Foundation",
+  "deadline": "2026-11-18",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "An open call, with the funder setting the topic.",
+  "eligibility": "",
+  "link": "https://dana.org/grants/",
+  "first_seen": "2026-10-14"
+ },
+ {
   "sponsor": "DARPA",
   "program": "Firefox DARPA-PS-26-137",
   "category": "Federal",
@@ -3806,6 +3793,19 @@
   "summary": "Summer research placements for K-12 teachers.",
   "eligibility": "",
   "link": "https://www.nsf.gov/funding/opportunities/research-experiences-teachers-engineering-computer-science/nsf24-503/solicitation",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "sponsor": "NSF",
+  "program": "FINDERS FOUNDRY NSF 26-507",
+  "category": "Federal",
+  "deadline": "2026-11-18",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "An NSF solicitation with its own topic and deadline.",
+  "eligibility": "",
+  "link": "https://www.nsf.gov/funding/opportunities/nsf-finders-foundry-national-science-foundation-fostering-interdisciplinary",
   "first_seen": "2026-10-09"
  },
  {

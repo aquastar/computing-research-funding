@@ -1,7 +1,7 @@
 # Computing research funding
 
 Open calls for research funding in AI and computing, from federal agencies, foundations and
-industry, swept twice a week. **144 open now, 90 rolling**, out of
+industry, swept twice a week. **142 open now, 90 rolling**, out of
 316 tracked, plus a watchlist of 267 funders checked on every sweep.
 
 **Browse it as a website:** [https://zhiqian.ai/funding](https://zhiqian.ai/funding)
@@ -10,14 +10,12 @@ industry, swept twice a week. **144 open now, 90 rolling**, out of
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-11-18 (brief of 2026-11-13). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
+Last synced 2026-11-19 (brief of 2026-11-13). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
 
 ## Open calls, soonest first
 
 | Deadline | Sponsor | Program | Type | Award |
 |---|---|---|---|---|
-| 2026-11-18 | Dana Foundation | [More than Medicine preproposals](https://dana.org/grants/) | Foundation |  |
-| 2026-11-18 | NSF | [FINDERS FOUNDRY NSF 26-507](https://www.nsf.gov/funding/opportunities/nsf-finders-foundry-national-science-foundation-fostering-interdisciplinary) | Federal |  |
 | 2026-11-19 | NSF | [EFRI Wave-Based Computing NSF 26-524](https://www.nsf.gov/funding/opportunities/efri-wbc-emerging-frontiers-research-innovation-efri-wave-based/nsf26-524/solicitation) | Federal |  |
 | 2026-11-20 | ARPA-E | [UNLOCK DE-FOA-0003630 and DE-FOA-0003631](https://simpler.grants.gov/opportunity/04fa4318-73a3-44fa-a4a3-0523e9700fae) |  | $3M to $5M |
 | 2026-11-20 | DoD | [FY2027 MURI N0001426SF002](https://www.onr.navy.mil/work-with-us/funding-opportunities/fiscal-year-fy-2027-department-war-multidisciplinary-research) | Federal |  |
