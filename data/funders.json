@@ -2134,5 +2134,53 @@
   "link_verified": false,
   "cycle": "Irregular",
   "access": "open"
+ },
+ {
+  "funder": "Biswas Family Foundation Fast Grants",
+  "category": "foundation_general",
+  "link": "https://www.biswasfamilyfoundation.org/science/fast-grants",
+  "link_verified": true,
+  "cycle": "Two cycles per year, Cycle 2 open 2026-11-15 to 2026-12-15",
+  "access": "open"
+ },
+ {
+  "funder": "Renee Fleming Neuroarts Investigator Awards (NeuroArts Blueprint)",
+  "category": "health_accessibility",
+  "link": "https://neuroartsblueprint.org/neuroarts-investigator-awards/",
+  "link_verified": true,
+  "cycle": "Annual, call around December, awards in April",
+  "access": "open"
+ },
+ {
+  "funder": "Neuroarts Resource Center funding board",
+  "category": "aggregator_early_signal",
+  "link": "https://www.neuroartsresourcecenter.com/funding",
+  "link_verified": true,
+  "cycle": "Continuous listing",
+  "access": "open"
+ },
+ {
+  "funder": "American Music Therapy Association Arthur Flagler Fultz Research Award",
+  "category": "health_accessibility",
+  "link": "https://www.musictherapy.org/arthur-flagler-fultz-research-award/",
+  "link_verified": true,
+  "cycle": "Annual, typically open March to May",
+  "access": "open"
+ },
+ {
+  "funder": "Snorkel AI Open Benchmarks Grants",
+  "category": "industry_longtail",
+  "link": "https://benchmarks.snorkel.ai/",
+  "link_verified": true,
+  "cycle": "Rolling per official page",
+  "access": "open"
+ },
+ {
+  "funder": "Klingenstein Third Generation Foundation",
+  "category": "foundation_general",
+  "link": "https://www.klingenstein.org/",
+  "link_verified": true,
+  "cycle": "Annual, November deadline",
+  "access": "open"
  }
 ]
