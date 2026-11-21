@@ -1,7 +1,7 @@
 # Computing research funding
 
 Open calls for research funding in AI and computing, from federal agencies, foundations and
-industry, swept twice a week. **162 open now, 97 rolling**, out of
+industry, swept twice a week. **156 open now, 97 rolling**, out of
 346 tracked, plus a watchlist of 273 funders checked on every sweep.
 
 **Browse it as a website:** [https://zhiqian.ai/funding](https://zhiqian.ai/funding)
@@ -10,18 +10,12 @@ industry, swept twice a week. **162 open now, 97 rolling**, out of
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-11-20 (brief of 2026-11-20). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
+Last synced 2026-11-21 (brief of 2026-11-20). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
 
 ## Open calls, soonest first
 
 | Deadline | Sponsor | Program | Type | Award |
 |---|---|---|---|---|
-| 2026-11-20 | ARPA-E | [UNLOCK DE-FOA-0003630 and DE-FOA-0003631](https://simpler.grants.gov/opportunity/04fa4318-73a3-44fa-a4a3-0523e9700fae) |  | $3M to $5M |
-| 2026-11-20 | DoD | [FY2027 MURI N0001426SF002](https://www.onr.navy.mil/work-with-us/funding-opportunities/fiscal-year-fy-2027-department-war-multidisciplinary-research) | Federal |  |
-| 2026-11-20 | Klingenstein | [Transformation of Mental Health Care (low)](https://www.klingenstein.org/) | Nonprofit | $100K per year, 2 years |
-| 2026-11-20 | Mozilla Foundation | [Human-Scale AI Incubator (unverified, issued 2026-10-22)](https://mozillafoundation.tfaforms.net/w/humanscaleai) | Foundation |  |
-| 2026-11-20 | NIH via UCSF MDRN | [U24 Music Networks Pilot Research Program AD/ADRD 2026 RFA](https://mdrn.ucsf.edu/funding-opportunities) | University |  |
-| 2026-11-20 | Research!America | [Public Engagement Content Awards and Civic Engagement Microgrants](https://www.researchamerica.org/civic-science/) | Nonprofit |  |
 | 2026-11-21 | [PRIZE] IBM and partners | [Steerability Challenge NeurIPS 2026](https://steerability.github.io/competition/) | Industry | Prize $40K+ for 1st to 3rd place per track (pool not stated) |
 | 2026-11-21 | [PRIZE] IBM and partners | [UPDATE Steerability registration closed 2026-11-01 AoE, final 2026-11-21](https://steerability.github.io/competition/) | Industry | Prize $40K+ for 1st to 3rd place per track (pool not stated) |
 | 2026-11-23 | [PRIZE] IBM and partners | [UPDATE Steerability final moved, latest commit rule, method_card required, winners at workshop](https://steerability.github.io/competition/) | Industry | Prize $40K+ for 1st to 3rd place per track (pool not stated) |

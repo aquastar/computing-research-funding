@@ -1,83 +1,5 @@
 [
  {
-  "sponsor": "ARPA-E",
-  "program": "UNLOCK DE-FOA-0003630 and DE-FOA-0003631",
-  "category": "",
-  "deadline": "2026-11-20",
-  "next_deadline": "2026-11-20",
-  "status": "open",
-  "award": "$3M to $5M",
-  "summary": "",
-  "eligibility": "",
-  "link": "https://simpler.grants.gov/opportunity/04fa4318-73a3-44fa-a4a3-0523e9700fae",
-  "first_seen": "2026-10-23"
- },
- {
-  "sponsor": "DoD",
-  "program": "FY2027 MURI N0001426SF002",
-  "category": "Federal",
-  "deadline": "white paper 2026-11-20",
-  "next_deadline": "2026-11-20",
-  "status": "open",
-  "award": "",
-  "summary": "A multi-university team on one topic, usually five years.",
-  "eligibility": "",
-  "link": "https://www.onr.navy.mil/work-with-us/funding-opportunities/fiscal-year-fy-2027-department-war-multidisciplinary-research",
-  "first_seen": "2026-10-09"
- },
- {
-  "sponsor": "Klingenstein",
-  "program": "Transformation of Mental Health Care (low)",
-  "category": "Nonprofit",
-  "deadline": "2026-11-20 11:59 PM EST",
-  "next_deadline": "2026-11-20",
-  "status": "open",
-  "award": "$100K per year, 2 years",
-  "summary": "A nonprofit grant.",
-  "eligibility": "",
-  "link": "https://www.klingenstein.org/",
-  "first_seen": "2026-11-20"
- },
- {
-  "sponsor": "Mozilla Foundation",
-  "program": "Human-Scale AI Incubator (unverified, issued 2026-10-22)",
-  "category": "Foundation",
-  "deadline": "2026-11-20",
-  "next_deadline": "2026-11-20",
-  "status": "open",
-  "award": "",
-  "summary": "A private foundation grant.",
-  "eligibility": "",
-  "link": "https://mozillafoundation.tfaforms.net/w/humanscaleai",
-  "first_seen": "2026-11-13"
- },
- {
-  "sponsor": "NIH via UCSF MDRN",
-  "program": "U24 Music Networks Pilot Research Program AD/ADRD 2026 RFA",
-  "category": "University",
-  "deadline": "2026-11-20 (page year conflict)",
-  "next_deadline": "2026-11-20",
-  "status": "open",
-  "award": "",
-  "summary": "A small starter award, usually to produce preliminary data.",
-  "eligibility": "",
-  "link": "https://mdrn.ucsf.edu/funding-opportunities",
-  "first_seen": "2026-10-26"
- },
- {
-  "sponsor": "Research!America",
-  "program": "Public Engagement Content Awards and Civic Engagement Microgrants",
-  "category": "Nonprofit",
-  "deadline": "2026-11-20",
-  "next_deadline": "2026-11-20",
-  "status": "open",
-  "award": "",
-  "summary": "A nonprofit grant.",
-  "eligibility": "",
-  "link": "https://www.researchamerica.org/civic-science/",
-  "first_seen": "2026-11-06"
- },
- {
   "sponsor": "[PRIZE] IBM and partners",
   "program": "Steerability Challenge NeurIPS 2026",
   "category": "Industry",
@@ -3601,6 +3523,19 @@
   "first_seen": "2026-10-14"
  },
  {
+  "sponsor": "ARPA-E",
+  "program": "UNLOCK DE-FOA-0003630 and DE-FOA-0003631",
+  "category": "",
+  "deadline": "2026-11-20",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "$3M to $5M",
+  "summary": "",
+  "eligibility": "",
+  "link": "https://simpler.grants.gov/opportunity/04fa4318-73a3-44fa-a4a3-0523e9700fae",
+  "first_seen": "2026-10-23"
+ },
+ {
   "sponsor": "ARPA-H",
   "program": "Emerging Health Innovators ARPA-H-SOL-26-150",
   "category": "Federal",
@@ -3784,6 +3719,19 @@
  },
  {
   "sponsor": "DoD",
+  "program": "FY2027 MURI N0001426SF002",
+  "category": "Federal",
+  "deadline": "white paper 2026-11-20",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "A multi-university team on one topic, usually five years.",
+  "eligibility": "",
+  "link": "https://www.onr.navy.mil/work-with-us/funding-opportunities/fiscal-year-fy-2027-department-war-multidisciplinary-research",
+  "first_seen": "2026-10-09"
+ },
+ {
+  "sponsor": "DoD",
   "program": "FY2027 DURIP N0001426SF003",
   "category": "Federal",
   "deadline": "2026-11-06",
@@ -3913,6 +3861,19 @@
   "first_seen": "2026-10-14"
  },
  {
+  "sponsor": "Klingenstein",
+  "program": "Transformation of Mental Health Care (low)",
+  "category": "Nonprofit",
+  "deadline": "2026-11-20 11:59 PM EST",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "$100K per year, 2 years",
+  "summary": "A nonprofit grant.",
+  "eligibility": "",
+  "link": "https://www.klingenstein.org/",
+  "first_seen": "2026-11-20"
+ },
+ {
   "sponsor": "Lightcone",
   "program": "Corrigibility Research Fund Round 2",
   "category": "Foundation",
@@ -3937,6 +3898,19 @@
   "eligibility": "",
   "link": "https://www.mathworks.com/academia/research/call-for-research-proposals.html",
   "first_seen": "2026-10-23"
+ },
+ {
+  "sponsor": "Mozilla Foundation",
+  "program": "Human-Scale AI Incubator (unverified, issued 2026-10-22)",
+  "category": "Foundation",
+  "deadline": "2026-11-20",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "A private foundation grant.",
+  "eligibility": "",
+  "link": "https://mozillafoundation.tfaforms.net/w/humanscaleai",
+  "first_seen": "2026-11-13"
  },
  {
   "sponsor": "NASA",
@@ -4093,6 +4067,19 @@
   "eligibility": "",
   "link": "https://ssihi.uci.edu/research/ensemble-network/pilot-research-program",
   "first_seen": "2026-11-20"
+ },
+ {
+  "sponsor": "NIH via UCSF MDRN",
+  "program": "U24 Music Networks Pilot Research Program AD/ADRD 2026 RFA",
+  "category": "University",
+  "deadline": "2026-11-20 (page year conflict)",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "A small starter award, usually to produce preliminary data.",
+  "eligibility": "",
+  "link": "https://mdrn.ucsf.edu/funding-opportunities",
+  "first_seen": "2026-10-26"
  },
  {
   "sponsor": "NIJ",
@@ -4366,6 +4353,19 @@
   "eligibility": "",
   "link": "https://rescorp.org/2026/08/team-science-focus-of-new-rcsa-funding-program/",
   "first_seen": "2026-10-16"
+ },
+ {
+  "sponsor": "Research!America",
+  "program": "Public Engagement Content Awards and Civic Engagement Microgrants",
+  "category": "Nonprofit",
+  "deadline": "2026-11-20",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "A nonprofit grant.",
+  "eligibility": "",
+  "link": "https://www.researchamerica.org/civic-science/",
+  "first_seen": "2026-11-06"
  },
  {
   "sponsor": "Retirement Research Foundation",
