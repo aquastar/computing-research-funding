@@ -1,44 +1,5 @@
 [
  {
-  "sponsor": "DOJ NIJ",
-  "program": "Human Trafficking O-NIJ-2026-172799 and School Safety O-NIJ-2026-172796",
-  "category": "Federal",
-  "deadline": "2026-11-16, 2026-11-23",
-  "next_deadline": "2026-11-23",
-  "status": "open",
-  "award": "",
-  "summary": "A federal research call.",
-  "eligibility": "",
-  "link": "https://nij.ojp.gov/funding/current",
-  "first_seen": "2026-10-26"
- },
- {
-  "sponsor": "NIH Common Fund",
-  "program": "SenNet SenTecs RFA-RM-27-007",
-  "category": "Federal",
-  "deadline": "2026-11-23",
-  "next_deadline": "2026-11-23",
-  "status": "open",
-  "award": "",
-  "summary": "An NIH request for applications, one topic and a fixed pot.",
-  "eligibility": "",
-  "link": "https://simpler.grants.gov/search?agency=HHS-NIH11&status=forecasted,posted&sortby=postedDateDesc",
-  "first_seen": "2026-10-14"
- },
- {
-  "sponsor": "NIH Common Fund",
-  "program": "SenNet DCIC RFA-RM-27-025",
-  "category": "Federal",
-  "deadline": "2026-11-23",
-  "next_deadline": "2026-11-23",
-  "status": "open",
-  "award": "About $3M direct per year, up to 5 years, 1 award",
-  "summary": "An NIH request for applications, one topic and a fixed pot.",
-  "eligibility": "",
-  "link": "https://simpler.grants.gov/opportunity/0edb3126-b0e0-4722-8c45-79b63b7cdf39",
-  "first_seen": "2026-10-16"
- },
- {
   "sponsor": "Mercor",
   "program": "AI Research Fund Grants Benchmarks and Economics of AI (issued 2026-09 and 10)",
   "category": "Industry",
@@ -3433,6 +3394,19 @@
  },
  {
   "sponsor": "DOJ NIJ",
+  "program": "Human Trafficking O-NIJ-2026-172799 and School Safety O-NIJ-2026-172796",
+  "category": "Federal",
+  "deadline": "2026-11-16, 2026-11-23",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "A federal research call.",
+  "eligibility": "",
+  "link": "https://nij.ojp.gov/funding/current",
+  "first_seen": "2026-10-26"
+ },
+ {
+  "sponsor": "DOJ NIJ",
   "program": "Byrne SCIP O-NIJ-2026-172798, Illegal Immigration O-NIJ-2026-172800, Gender Dysphoria O-NIJ-2026-172802",
   "category": "Federal",
   "deadline": "2026-11-16, 11-16, 11-23",
@@ -3693,6 +3667,19 @@
  },
  {
   "sponsor": "NIH Common Fund",
+  "program": "SenNet SenTecs RFA-RM-27-007",
+  "category": "Federal",
+  "deadline": "2026-11-23",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "",
+  "summary": "An NIH request for applications, one topic and a fixed pot.",
+  "eligibility": "",
+  "link": "https://simpler.grants.gov/search?agency=HHS-NIH11&status=forecasted,posted&sortby=postedDateDesc",
+  "first_seen": "2026-10-14"
+ },
+ {
+  "sponsor": "NIH Common Fund",
   "program": "PRIMED-AI RFA-RM-27-013 and RFA-RM-27-012",
   "category": "Federal",
   "deadline": "2026-10-19",
@@ -3702,6 +3689,19 @@
   "summary": "An NIH request for applications, one topic and a fixed pot.",
   "eligibility": "",
   "link": "https://simpler.grants.gov/opportunity/360c4588-1512-4fa4-9b61-52a3f1d6c368",
+  "first_seen": "2026-10-16"
+ },
+ {
+  "sponsor": "NIH Common Fund",
+  "program": "SenNet DCIC RFA-RM-27-025",
+  "category": "Federal",
+  "deadline": "2026-11-23",
+  "next_deadline": "",
+  "status": "closed",
+  "award": "About $3M direct per year, up to 5 years, 1 award",
+  "summary": "An NIH request for applications, one topic and a fixed pot.",
+  "eligibility": "",
+  "link": "https://simpler.grants.gov/opportunity/0edb3126-b0e0-4722-8c45-79b63b7cdf39",
   "first_seen": "2026-10-16"
  },
  {

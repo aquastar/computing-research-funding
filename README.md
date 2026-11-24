@@ -1,7 +1,7 @@
 # Computing research funding
 
 Open calls for research funding in AI and computing, from federal agencies, foundations and
-industry, swept twice a week. **147 open now, 84 rolling**, out of
+industry, swept twice a week. **144 open now, 84 rolling**, out of
 321 tracked, plus a watchlist of 273 funders checked on every sweep.
 
 **Browse it as a website:** [https://zhiqian.ai/funding](https://zhiqian.ai/funding)
@@ -10,15 +10,12 @@ industry, swept twice a week. **147 open now, 84 rolling**, out of
 > kept. Do not edit the files here by hand; they are rewritten on every sync.
 > Spotted a mistake? [Open a correction](../../issues/new/choose).
 
-Last synced 2026-11-22 (brief of 2026-11-20). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
+Last synced 2026-11-24 (brief of 2026-11-20). Entries marked unverified were not confirmed against a primary page. The sponsor site is the authority; this is only an index.
 
 ## Open calls, soonest first
 
 | Deadline | Sponsor | Program | Type | Award |
 |---|---|---|---|---|
-| 2026-11-23 | DOJ NIJ | [Human Trafficking O-NIJ-2026-172799 and School Safety O-NIJ-2026-172796](https://nij.ojp.gov/funding/current) | Federal |  |
-| 2026-11-23 | NIH Common Fund | [SenNet SenTecs RFA-RM-27-007](https://simpler.grants.gov/search?agency=HHS-NIH11&status=forecasted,posted&sortby=postedDateDesc) | Federal |  |
-| 2026-11-23 | NIH Common Fund | [SenNet DCIC RFA-RM-27-025](https://simpler.grants.gov/opportunity/0edb3126-b0e0-4722-8c45-79b63b7cdf39) | Federal | About $3M direct per year, up to 5 years, 1 award |
 | 2026-11-27 | Mercor | [AI Research Fund Grants Benchmarks and Economics of AI (issued 2026-09 and 10)](https://jobs.ashbyhq.com/mercor/e1f6792d-1aae-4c2e-8edb-e2b91343dbb5) | Industry | Tiers under $50K, $200K, $500K |
 | 2026-11-29 | IBM and partners | [Steerability Challenge NeurIPS 2026](https://steerability.github.io/competition/) | Industry | Prize $40K+ for 1st to 3rd place per track (pool not stated) |
 | 2026-11-29 | Rockefeller Foundation, OpenAI Foundation | [Cities Deliver AI Solutions for Public Services (limited 2 per institution)](https://www.rockefellerfoundation.org/cities-deliver-ai-solutions-for-public-services/) | Foundation | $500K to $2M per grant, 24 months |
