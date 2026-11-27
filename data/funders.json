@@ -2182,5 +2182,29 @@
   "link_verified": true,
   "cycle": "Annual, November deadline",
   "access": "open"
+ },
+ {
+  "funder": "CCC Creating Visions for Computing Research call",
+  "category": "aggregator_early_signal",
+  "link": "https://cra.org/ccc/visioning/creating-visions-for-computing-research/",
+  "link_verified": true,
+  "cycle": "Standing open call",
+  "access": "open"
+ },
+ {
+  "funder": "G. Harold and Leila Y. Mathers Foundation",
+  "category": "foundation_general",
+  "link": "https://www.mathersfoundation.org/how-to-apply",
+  "link_verified": true,
+  "cycle": "Two cycles a year, spring LOI Feb",
+  "access": "limited"
+ },
+ {
+  "funder": "AWS Cloud Credit for Research",
+  "category": "compute",
+  "link": "https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/",
+  "link_verified": true,
+  "cycle": "Rolling",
+  "access": "open"
  }
 ]
